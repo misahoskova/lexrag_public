@@ -1,0 +1,1 @@
+ALTER TABLE "unit_chunk" ALTER COLUMN "chunk_type" SET DATA TYPE varchar(32);

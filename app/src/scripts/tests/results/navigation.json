@@ -1,0 +1,66 @@
+[
+  {
+    "id": "NAV-01",
+    "otazka": "Jaká je sazba DPH u kadeřníka?",
+    "zakon": "DP",
+    "ocekavana_navigace": true,
+    "skutecny_typ": "navigation",
+    "spravne": true
+  },
+  {
+    "id": "NAV-02",
+    "otazka": "Jaká je sazba daně z příjmů pro OSVČ?",
+    "zakon": "DNV",
+    "ocekavana_navigace": true,
+    "skutecny_typ": "navigation",
+    "spravne": true
+  },
+  {
+    "id": "NAV-03",
+    "otazka": "Jaká je základní sazba DPH?",
+    "zakon": "DPH",
+    "ocekavana_navigace": false,
+    "skutecny_typ": "answer",
+    "spravne": true
+  },
+  {
+    "id": "NAV-04",
+    "otazka": "Kdy vzniká povinnost registrace k DPH?",
+    "zakon": "DR",
+    "ocekavana_navigace": true,
+    "skutecny_typ": "navigation",
+    "spravne": true
+  },
+  {
+    "id": "NAV-05",
+    "otazka": "Jak se odepisuje dlouhodobý majetek?",
+    "zakon": "SP",
+    "ocekavana_navigace": true,
+    "skutecny_typ": "navigation",
+    "spravne": true
+  },
+  {
+    "id": "NAV-06",
+    "otazka": "Kdo je povinen platit pojistné na sociální?",
+    "zakon": "DPH",
+    "ocekavana_navigace": true,
+    "skutecny_typ": "navigation",
+    "spravne": true
+  },
+  {
+    "id": "NAV-07",
+    "otazka": "Jaká je sazba daně z nemovitosti pro garáž?",
+    "zakon": "DNV",
+    "ocekavana_navigace": false,
+    "skutecny_typ": "answer",
+    "spravne": true
+  },
+  {
+    "id": "NAV-08",
+    "otazka": "Jak se stanoví základ daně z příjmů?",
+    "zakon": "DP",
+    "ocekavana_navigace": false,
+    "skutecny_typ": "no_results",
+    "spravne": true
+  }
+]
