@@ -153,21 +153,23 @@ Zdroje:
 [8] Zákon č. 235/2004 Sb., § 9 odst. 2
 [9] Zákon č. 235/2004 Sb., § 9a
 [12] Zákon č. 235/2004 Sb., § 86c odst. 2 písm. a)"
-DPH-11;Slang;Kdy mi stát vrátí DPHčko, když mám nadměrný odpočet?;"Stát vám nadměrný odpočet (vratitelný přeplatek) vrátí standardně do **60 dnů** od jeho vyměření na základě daňového přiznání, pokud vám správce daně neoznamuje výsledek vyměření nebo doměření jiným způsobem [10]. 
+DPH-11;Slang;Kdy vzniká nárok na nadměrný odpočet DPH?;"Nadměrný odpočet vzniká v případě, kdy je daň na výstupu za dané zdaňovací období nižší než uplatněný nárok na odpočet daně za totéž období [12].
 
-V určitých specifických případech a u vybraných nároků však platí odlišné lhůty a postupy:
-*   **30 dnů od vyměření:** Tato lhůta se uplatní u nároků na vrácení částky v případě opravy základu daně (např. u nedobytných pohledávek) nebo u jiných specifických nároků stanovených zákonem. V těchto případech vrací správce daně přeplatek automaticky bez vaší žádosti [8], [11].
-*   **30 kalendářních dnů od vzniku:** Tato lhůta platí pro vrácení přeplatku v eurech, a to rovněž bez nutnosti podávat žádost [5].
-*   **Vliv daňové kontroly:** Pokud správce daně zahájí daňovou kontrolu až po uplynutí lhůty pro vrácení přeplatku, začíná běžet nová lhůta. Ta končí **30 dnů** po pravomocném ukončení doměřovacího řízení [7].
+Klíčové podmínky a okamžik vzniku:
+*   **Časový vznik:** Nárok na odpočet daně, který je základem pro vznik nadměrného odpočtu, vzniká plátci v okamžiku, kdy nastaly skutečnosti zakládající povinnost přiznat daň na výstupu u příslušného plnění [6][9]. 
+*   **Dokladová povinnost:** Pro uplatnění tohoto nároku musí mít plátce k dispozici daňový doklad vystavený jiným plátcem [1].
+*   **Záloha na odpočet:** Plátci může vzniknout nárok na zálohu na nadměrný odpočet za podmínek stanovených daňovým řádem [2][3].
 
-Logicky z toho vyplývá, že pokud váš nárok nespadá pod výjimku s 30denní lhůtou (např. opravy u nedobytných pohledávek), uplatní se obecná šedesátidenní lhůta. Tato lhůta se však fakticky prodlužuje v případě prověřování nároku v rámci daňové kontroly.
+Pokud vznikne nadměrný odpočet a skupina (nebo její člen) nemá žádný nedoplatek na jiných daních, stává se tento přeplatek vratitelným [8].
 
 Zdroje:
-[5] Zákon č. 235/2004 Sb., § 28 odst. 9 písm. a)
-[7] Zákon č. 235/2004 Sb., § 110j odst. 5
-[8] Zákon č. 235/2004 Sb., § 79d odst. 5
-[10] Zákon č. 235/2004 Sb., § 108 odst. 4 písm. h)
-[11] Zákon č. 235/2004 Sb., § 46a odst. 5"
+[1] Zákon č. 235/2004 Sb., § 73 odst. 1 písm. a)
+[2] Zákon č. 235/2004 Sb., § 105a
+[3] Zákon č. 235/2004 Sb., Poznámka 76
+[6] Zákon č. 235/2004 Sb., § 92ea
+[8] Zákon č. 235/2004 Sb., Poznámka 72
+[9] Zákon č. 235/2004 Sb., § 90 odst. 16
+[12] Zákon č. 235/2004 Sb., § 109bn odst. 4 písm. d)"
 DPH-12;Logika;Proč musím přiznat daň už při přijetí zálohy, i když zboží dodám až za měsíc?;"Povinnost přiznat daň vzniká v okamžiku přijetí úplaty (zálohy), pokud tato platba předchází dni uskutečnění zdanitelného plnění [6]. Základem daně je v takovém případě samotná přijatá částka snížená o daň [9].
 
 Tato povinnost se neuplatní pouze v případě, kdy zdanitelné plnění není ke dni poskytnutí úplaty známo dostatečně určitě [6]. Pokud je však předem jasné, jaké zboží bude dodáno a jaké sazbě podléhá, musíte daň odvést již z přijaté zálohy bez ohledu na to, že k fyzickému předání zboží dojde až později. Obecné pravidlo o vzniku daňové povinnosti ke dni uskutečnění plnění [1] je v tomto případě přebito dřívějším momentem přijetí peněz.
@@ -319,21 +321,22 @@ Daň se počítá až z takto upraveného základu daně, který se před aplika
 Zdroje:
 [1] Zákon č. 586/1992 Sb., § 38ga odst. 1 písm. a)
 [2] Zákon č. 586/1992 Sb., § 33a odst. 2 písm. b)"
-DP-10;Odkazy;Jak tento zákon pracuje s definicí příbuzných osob z jiných zákonů?;"Zákon o daních z příjmů primárně neoperuje s pojmem „příbuzné osoby“ z jiných předpisů, ale definuje vlastní kategorie spojených osob, přičemž využívá širší termín „osoby blízké“.
+DP-10;Odkazy;Kdy jsou osoby blízké považovány za spojené osoby?;"Osoby blízké jsou považovány za osoby jinak spojené v situaci, kdy se tyto osoby podílejí na vedení nebo kontrole jiných osob. V takovém případě se tyto jiné osoby považují za vzájemně spojené [1].
 
-Pravidla pro určení vztahů mezi osobami jsou nastavena takto:
+Z hlediska daňových souvislostí a širší definice spojených osob platí tato pravidla:
 
-1.  **Jiné spojení přes osoby blízké:** Pokud se osoby blízké (definované zpravidla občanským zákoníkem) nebo shodné osoby podílejí na vedení nebo kontrole jiných osob, považují se tyto ovládané subjekty za vzájemně jinak spojené osoby [3].
-2.  **Kapitálové spojení:** Vzniká automaticky při přímém podílu na kapitálu nebo hlasovacích právech ve výši alespoň 25 % [1]. Stejná hranice 25 % se uplatní i pro určení přidružených osob u ovládaných zahraničních společností, pokud má osoba právo na podíl na zisku v této výši [4].
-3.  **Vedení a kontrola:** Osoby jsou kapitálově spojené i tehdy, pokud jedna osoba přímo ovládá alespoň 25 % kapitálu nebo hlasovacích práv a zároveň se podílí na vedení nebo kontrole druhé osoby [2].
-4.  **Negativní vymezení u komanditistů:** Poplatník, který je komplementářem komanditní společnosti, při výpočtu daňového zisku (před úroky, zdaněním a odpisy) povinně nezohledňuje tu část základu daně komanditní společnosti, která je již součástí jeho vlastního základu daně [5].
+*   **Kapitálové spojení:** Osoby jsou spojené, pokud jedna osoba přímo drží alespoň 25 % základního kapitálu nebo 25 % hlasovacích práv druhé osoby, případně pokud jedna osoba drží tento podíl u více osob (pak jsou tyto osoby spojené navzájem) [6, 7].
+*   **Vedení a kontrola:** Spojení vzniká, pokud se jedna osoba přímo podílí na vedení nebo kontrole jiné osoby [6, 10].
+*   **Ovládání:** Za spojené se považují osoby v postavení ovládající a ovládané osoby, a rovněž osoby ovládané stejnou ovládající osobou [12].
+*   **Podíl na zisku:** Přidruženými osobami jsou také subjekty, kde má jedna osoba právo na alespoň 25 % podílu na zisku druhé osoby [5].
 
 Zdroje:
-[1] Zákon č. 586/1992 Sb., § 23 odst. 7 písm. a) bod 1.
-[2] Zákon č. 586/1992 Sb., § 23 odst. 7 písm. b) bod 1.
-[3] Zákon č. 586/1992 Sb., § 38lk odst. 2
-[4] Zákon č. 586/1992 Sb., § 38fa odst. 6 písm. e)
-[5] Zákon č. 586/1992 Sb., § 20bd odst. 9"
+[1] Zákon č. 586/1992 Sb., § 38lk odst. 2
+[5] Zákon č. 586/1992 Sb., § 38fa odst. 6 písm. e)
+[6] Zákon č. 586/1992 Sb., § 23 odst. 7 písm. b) bod 1.
+[7] Zákon č. 586/1992 Sb., § 23 odst. 7 písm. a) bod 1.
+[10] Zákon č. 586/1992 Sb., § 30d odst. 2 písm. a)
+[12] Zákon č. 586/1992 Sb., § 23 odst. 8 písm. b) bod 3."
 DP-11;Slang;Můžu si dát do nákladů oběd s klientem?;"Oběd s klientem nelze uplatnit jako daňově uznatelný náklad.
 
 Zákon jej jednoznačně klasifikuje jako výdaj na reprezentaci, kam spadá zejména pohoštění a občerstvení [1][2]. Tyto náklady jsou výslovně vyloučeny z výdajů vynaložených na dosažení, zajištění a udržení příjmů [4].
@@ -568,23 +571,19 @@ Osobě, která má zpřístupněnu datovou schránku, doručuje správce daně p
 Zdroje:
 [5] Zákon č. 280/2009 Sb., § 42
 [12] Zákon č. 280/2009 Sb., § 69 odst. 2"
-DR-12;Logika;Proč může úřad prodloužit lhůtu pro kontrolu, i když už měla podle plánu skončit?;"Správce daně může lhůtu prodloužit zejména v situaci, kdy se jedná o zvlášť složitý případ. To se týká momentů, kdy je nezbytné zapůjčené doklady nebo vzorky podrobit vnější expertize. O takovém prodloužení rozhoduje nejblíže nadřízený správce daně, a pokud důvody pro zapůjčení trvají, může být lhůta prodlužována i opakovaně [5].
+DR-12;Logika;Je délka daňové kontroly omezena pevnou lhůtou, nebo se může prodlužovat?;"Samotná daňová kontrola nemá zákonem stanovenou pevnou délku trvání (např. v počtu dnů), je však limitována lhůtou pro stanovení daně. Zahájením daňové kontroly dochází k tomu, že tato lhůta začíná běžet znovu od nuly [1], [3].
 
-Kromě složitosti případu existují další zákonné důvody a mechanismy pro změnu lhůt:
+Z toho vyplývají následující pravidla:
 
-*   **Závažné důvody a žádost:** Lhůtu stanovenou správcem daně lze prodloužit ze závažného důvodu na žádost podanou před jejím uplynutím [1, 4]. 
-*   **Povinnost vyhovět:** Pokud jde o první žádost o prodloužení lhůty (která není lhůtou zákonnou), správce daně jí musí vyhovět. Lhůtu pak prodlouží minimálně o dobu, která v den podání žádosti ze lhůty ještě zbývala [2, 3].
-*   **Specifické prodloužení o rok:** Lhůta pro stanovení daně se automaticky prodlužuje o 1 rok, pokud v posledních 12 měsících před jejím koncem došlo k přidělení přístupových údajů do daňové informační schránky [7].
-
-Z výše uvedeného vyplývá, že zatímco u složitých expertiz rozhoduje úřad z moci úřední přes nadřízený orgán, u běžných lhůt stanovených správcem daně je pro prodloužení zásadní včasná žádost s uvedením závažného důvodu.
+1.  **Restart lhůty:** Pokud je daňová kontrola zahájena před uplynutím lhůty pro stanovení daně, běží tato lhůta znovu ode dne, kdy byl tento úkon učiněn [1]. Správce daně tím fakticky získává nový časový prostor pro stanovení daně.
+2.  **Podmínka skutečné činnosti:** Účinek přerušení a nového běhu lhůty nastává až dnem, kdy správce daně skutečně začne zjišťovat a prověřovat daňové povinnosti nebo okolnosti rozhodné pro správné stanovení daně [2]. Formální zahájení bez faktické činnosti běh lhůty neovlivní.
+3.  **Absolutní omezení:** Přestože se lhůta může opakovaně přerušovat a běžet znovu, existuje konečná hranice. Lhůta pro stanovení daně končí nejpozději uplynutím 10 let od jejího původního počátku [10]. Po této době již daň nelze stanovit bez ohledu na probíhající kontrolu.
 
 Zdroje:
-[1] Zákon č. 280/2009 Sb., § 119 odst. 1
-[2] Zákon č. 280/2009 Sb., § 49 odst. 1 písm. b)
-[3] Zákon č. 280/2009 Sb., § 36 odst. 2
-[4] Zákon č. 280/2009 Sb., § 36 odst. 1
-[5] Zákon č. 280/2009 Sb., § 80 odst. 4
-[7] Zákon č. 280/2009 Sb., § 69 odst. 3 písm. a) bod 2."
+[1] Zákon č. 280/2009 Sb., § 148 odst. 4 písm. c)
+[2] Zákon č. 280/2009 Sb., § 88 odst. 3
+[3] Zákon č. 280/2009 Sb., § 148 odst. 3
+[10] Zákon č. 280/2009 Sb., § 148 odst. 5"
 DNV-01;Fakta;Do jakého data se musí podat přiznání k dani z nemovitosti?;"Daňové přiznání k dani z nemovitých věcí se podává standardně do **31. ledna** zdaňovacího období [11]. 
 
 Povinnost podat přiznání však nevzniká, pokud jste jej podali v některém z předchozích období a nedošlo k žádné změně okolností rozhodných pro stanovení daně [11]. V takovém případě se daň vyměří automaticky ve výši poslední známé daně k 31. lednu [11]. Stejně tak povinnost nevzniká, pokud přiznání za danou nemovitost již podal společný zástupce nebo zmocněnec [12].
@@ -959,23 +958,21 @@ Zdroje:
 [6] Zákon č. 589/1992 Sb., § 20 odst. 2 písm. b)
 [7] Zákon č. 589/1992 Sb., § 20 odst. 5
 [12] Zákon č. 589/1992 Sb., § 25d odst. 1 písm. c)"
-SP-11;Slang;Co se stane, když zapomenu podat přehled včas?;"Pokud nepodáte přehled o příjmech a výdajích včas, vystavujete se riziku stanovení pojistného odhadem a vzniku penále.
+SP-11;Slang;Jak se stanoví pojistné, pokud OSVČ nepodá přehled včas?;"Pokud nepodáte přehled o příjmech a výdajích včas ani v náhradní lhůtě určené v písemné výzvě (za předpokladu, že jste na tento následek byli ve výzvě upozorněni), územní správa sociálního zabezpečení stanoví **pravděpodobnou výši pojistného** rozhodnutím [2], [4].
 
-**Důsledky opožděného podání:**
+Pravidla pro stanovení a důsledky jsou následující:
 
-1.  **Stanovení pravděpodobné výše pojistného:** Pokud přehled nepodáte ani v náhradní lhůtě určené v písemné výzvě, správa sociálního zabezpečení může rozhodnutím stanovit tzv. pravděpodobnou výši pojistného [8].
-2.  **Penále z dlužných záloh:** Posledním dnem, za který platíte penále z dlužných záloh na pojistné, je v tomto případě poslední den lhůty stanovené pro podání přehledu [9]. (Pokud byste přehled podali včas, penále by končilo dnem podání přehledu [1]).
-3.  **Penále z pravděpodobné výše pojistného:** Jste povinni platit penále z dlužné částky pravděpodobné výše pojistného, a to od dne následujícího po původním dni splatnosti až do dne, kdy přehled skutečně předložíte (včetně tohoto dne) [5].
-4.  **Doplacení rozdílu:** Pokud je penále z pravděpodobné výše pojistného nižší než penále vypočtené podle vašich skutečných údajů v dodatečně podaném přehledu, musíte doplatit rozdíl. Pokud je vyšší, platí se tato vyšší částka [5].
-5.  **Výše a zaokrouhlení:** Výše penále se řídí občanskoprávními předpisy o úroku z prodlení [1, 3]. Každá platba penále se zaokrouhluje na celé koruny nahoru [7].
+*   **Výše a zaokrouhlení:** Pravděpodobná výše pojistného se zaokrouhluje na celé pětisetkoruny směrem dolů [1].
+*   **Trvání povinností:** Stanovením této částky nezaniká vaše povinnost přehled dodatečně podat, ani není dotčena možnost uložit pokutu za nesplnění zákonné povinnosti [1].
+*   **Zrušení rozhodnutí:** Pokud přehled podáte dodatečně, správa sociálního zabezpečení původní rozhodnutí o pravděpodobné výši pojistného zruší novým rozhodnutím [1]. Stejně postupuje, pokud prokážete, že jste v daném období samostatnou výdělečnou činnost vůbec nevykonávali [1], [8].
+*   **Výjimka z povinnosti podat přehled:** Pokud stanovenou pravděpodobnou výši pojistného uhradíte dříve, než podáte přehled, a tato částka je vyšší, než kolik by činilo pojistné vypočtené podle skutečných příjmů, přehled za daný rok již podávat nemusíte [5]. Uhrazená částka se pak považuje za váš vyměřovací základ [5].
 
 Zdroje:
-[1] Zákon č. 589/1992 Sb., § 20 odst. 2 písm. a)
-[3] Zákon č. 589/1992 Sb., § 20 odst. 1
-[5] Zákon č. 589/1992 Sb., § 22b odst. 5
-[7] Zákon č. 589/1992 Sb., § 20 odst. 5
-[8] Zákon č. 589/1992 Sb., § 22b odst. 1
-[9] Zákon č. 589/1992 Sb., § 20 odst. 2 písm. b)"
+[1] Zákon č. 589/1992 Sb., § 22b odst. 3
+[2] Zákon č. 589/1992 Sb., § 22b odst. 1
+[4] Zákon č. 589/1992 Sb., § 23 odst. 1
+[5] Zákon č. 589/1992 Sb., § 23l odst. 4
+[8] Zákon č. 589/1992 Sb., § 7 odst. 3"
 SP-12;Logika;Z čeho se stanoví vyměřovací základ OSVČ pro sociální pojištění?;"Vyměřovací základ OSVČ pro pojistné na důchodové pojištění a státní politiku zaměstnanosti tvoří částka, kterou si tato osoba určí sama, avšak při dodržení zákonných minimálních hranic [2].
 
 **Základní pravidla pro stanovení základu:**
