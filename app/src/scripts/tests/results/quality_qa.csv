@@ -1,0 +1,1175 @@
+Otazka_ID;Kategorie;Otázka;Odpoved
+DPH-01;Fakta;Jaká je aktuální snížená sazba daně u novin a časopisů?;"U novin a časopisů se uplatňuje snížená sazba daně ve výši 12 % [7].
+
+Tato sazba se aplikuje na dodání novin, časopisů a periodik na hmotném nosiči i na jejich elektronické poskytování, včetně jejich zpřístupnění v rámci veřejných knihovnických, informačních nebo obdobných služeb [1, 4]. Pokud zákon u služeb nestanoví jinak, uplatňuje se základní sazba daně, avšak pro tento typ služeb je výslovně stanovena sazba snížená [8, 1].
+
+Zdroje:
+[1] Zákon č. 235/2004 Sb., § 4 odst. 1 písm. f)
+[4] Zákon č. 235/2004 Sb., § 47 odst. 6
+[7] Zákon č. 235/2004 Sb., § 110j odst. 4 písm. b)
+[8] Zákon č. 235/2004 Sb., § 47 odst. 4"
+DPH-02;Definice;Kdo se pro účely zákona o DPH považuje za osobu povinnou k dani?;"Osobou povinnou k dani je fyzická nebo právnická osoba, která samostatně uskutečňuje ekonomickou činnost [2]. Tento status se vztahuje i na skupinu a na právnické osoby, které nebyly založeny za účelem podnikání, pokud svou ekonomickou činnost vykonávají samostatně [2]. Za osobu povinnou k dani se za stanovených podmínek považuje také subjekt vykonávající penzijní činnosti [7].
+
+Status osoby povinné k dani je základním předpokladem pro vznik povinnosti přiznat daň při dodání zboží nebo poskytnutí služby [8]. Tato osoba může vystupovat v několika režimech:
+*   **Plátce:** Stává se jím automaticky od prvního dne kalendářního roku následujícího po roce, ve kterém její tuzemský obrat překročil 2 000 000 Kč [6].
+*   **Identifikovaná osoba:** Touto osobou se stává osoba povinná k dani, která není plátcem, například dnem prvního pořízení zboží z jiného členského státu [3], dnem oznámení rozhodnutí o registraci do režimu Evropské unie [9] nebo dnem přijetí zdanitelného plnění od osoby neusazené v tuzemsku [11].
+
+Zdroje:
+[2] Zákon č. 235/2004 Sb., § 5 odst. 1
+[3] Zákon č. 235/2004 Sb., Poznámka 5
+[6] Zákon č. 235/2004 Sb., § 46e odst. 3 písm. a)
+[7] Zákon č. 235/2004 Sb., § 54a
+[8] Zákon č. 235/2004 Sb., § 108 odst. 1
+[9] Zákon č. 235/2004 Sb., § 6j odst. 1
+[11] Zákon č. 235/2004 Sb., § 54 odst. 1 písm. n)"
+DPH-03;Struktura;Vyjmenuj plnění osvobozená od daně bez nároku na odpočet.;"Mezi plnění osvobozená od daně bez nároku na odpočet patří:
+
+1.  **Plnění v režimu pro malé podniky:** Jedná se o plnění, která by byla standardně zdanitelná, pokud by se na ně nevztahovalo osvobození určené pro malé podniky [12].
+2.  **Obecná kategorie plnění bez nároku na odpočet:** Zákon tato plnění vymezuje jako samostatnou skupinu v rámci plnění osvobozených od daně [4].
+
+Logickým odvozením z ustanovení o osvobození **s nárokem** na odpočet vyplývá, že plnění bez nároku na odpočet jsou ta, která nespadají pod režimy uvedené v § 64 až 71l [2]. Mezi plnění **s nárokem** na odpočet (a tedy nikoliv do vámi dotazované kategorie) patří dodání zboží do jiného členského státu [3], pořízení zboží osobami požívajícími výsad a imunit [11] či vybraná plnění v režimu jednoho správního místa [6][9].
+
+Osobám, které uskutečňují plnění osvobozená od daně (včetně těch na základě nařízení vlády), vzniká povinnost vést evidenci o rozsahu a předmětu těchto plnění [10].
+
+Zdroje:
+[2] Zákon č. 235/2004 Sb., § 63 odst. 1
+[3] Zákon č. 235/2004 Sb., § 63 odst. 1 písm. a)
+[4] Zákon č. 235/2004 Sb., § 83 odst. 1 písm. b)
+[6] Zákon č. 235/2004 Sb., § 110b odst. 2
+[9] Zákon č. 235/2004 Sb., § 108a odst. 1 písm. c)
+[10] Zákon č. 235/2004 Sb., § 23 odst. 1 písm. b) bod 5.
+[11] Zákon č. 235/2004 Sb., § 71l odst. 1
+[12] Zákon č. 235/2004 Sb., § 36 odst. 15 písm. a)"
+DPH-04;Odkazy;Jaké jsou podmínky pro nárok na odpočet daně?;"Nárok na odpočet daně uplatníte, pokud jsou současně splněny tyto věcné a formální podmínky:
+
+1.  **Status plátce a účel použití:** Musíte být plátcem daně a přijaté zdanitelné plnění (zboží nebo služby) použít v rámci své ekonomické činnosti pro účely uskutečňování zdanitelných plnění s místem plnění v tuzemsku [1], [12]. 
+2.  **Držení dokladu:** Pro uplatnění nároku jste povinni mít k dispozici daňový doklad vystavený jiným plátcem [2]. 
+3.  **Vymezení nároku:** Nárok v plné výši vzniká pouze u plnění, která plně slouží k vaší ekonomické činnosti [6]. Pokud plnění použijete pro účely, u kterých nárok na odpočet nevzniká (např. osvobozená plnění bez nároku na odpočet), nárok na odpočet nemáte [8].
+4.  **Pořízení z jiného státu:** V případě pořízení zboží z jiného členského státu EU s místem plnění v tuzemsku vzniká povinnost přiznat daň, což je zároveň předpokladem pro uplatnění nároku na odpočet [3].
+
+Z logiky věci vyplývá, že pokud přijaté plnění použijete pro jiné účely než pro uskutečňování zdanitelných plnění (např. pro soukromou spotřebu nebo plnění osvobozená bez nároku na odpočet), nárok na odpočet zaniká nebo se poměrně krátí.
+
+Zdroje:
+[1] Zákon č. 235/2004 Sb., § 72 odst. 1 písm. a)
+[2] Zákon č. 235/2004 Sb., § 73 odst. 1 písm. a)
+[3] Zákon č. 235/2004 Sb., § 108 odst. 2
+[6] Zákon č. 235/2004 Sb., § 19c odst. 5 písm. b)
+[8] Zákon č. 235/2004 Sb., § 76 odst. 1 písm. b)
+[12] Zákon č. 235/2004 Sb., § 72 odst. 1"
+DPH-05;Slang;Budu platit DPH, když si objednám mobil z Číny?;"Ano, při objednání mobilního telefonu z Číny (třetí země) vzniká povinnost zaplatit DPH.
+
+Dovozem zboží se rozumí jeho vstup z třetí země na území Evropské unie [5]. Povinnost přiznat daň vzniká ke dni uskutečnění zdanitelného plnění, tedy při dovozu [5]. 
+
+Uplatní se následující pravidla:
+1.  **Způsob platby:** Pokud je zboží prodáváno na dálku, daň se buď přizná v rámci zvláštního dovozního režimu (prodejce ji vybere přímo při nákupu), nebo musí být přiznána v tuzemsku při dovozu [9].
+2.  **Absence osvobození:** Na zásilky objednané z e-shopu se nevztahuje osvobození pro cestující v letecké dopravě (do limitu 430 EUR), protože toto osvobození platí výhradně pro zboží v osobních zavazadlech cestujícího, které není určeno k obchodním účelům [2, 4, 9].
+3.  **Povaha zboží:** Jelikož dodání mobilního telefonu v tuzemsku není v každém případě osvobozeno od daně, nelze na jeho dovoz uplatnit ani obecné osvobození pro dovoz zboží [11].
+
+Zdroje:
+[2] Zákon č. 235/2004 Sb., § 93 odst. 1 písm. a)
+[4] Zákon č. 235/2004 Sb., § 71b odst. 1
+[5] Zákon č. 235/2004 Sb., § 20a odst. 1
+[9] Zákon č. 235/2004 Sb., § 71a odst. 1
+[11] Zákon č. 235/2004 Sb., § 71 odst. 2 písm. a)"
+DPH-06;Logika;Počítá se mi do obratu pro DPH i prodej auta z podnikání?;"Prodej automobilu, který je vaším dlouhodobým majetkem, se do obratu pro účely DPH zpravidla nezahrnuje [1][7].
+
+Uplatní se následující pravidla:
+1. **Dlouhodobý majetek:** Pokud auto používáte pro své podnikání jako dlouhodobý majetek, úplata za jeho prodej do obratu nevstupuje [1].
+2. **Výjimka (obvyklá činnost):** Pokud je prodej automobilů nedílnou součástí vaší obvyklé ekonomické činnosti (např. provozujete autobazar nebo s vozy obchodujete), pak se takový prodej do obratu počítá [7].
+3. **Příležitostná činnost:** Pokud je prodej majetku pouze doplňkovou činností uskutečňovanou příležitostně, do obratu se nezahrnuje [1].
+
+Zdroje:
+[1] Zákon č. 235/2004 Sb., § 4a odst. 3
+[7] Zákon č. 235/2004 Sb., § 4b odst. 3"
+DPH-07;Fakta;Jaká je aktuální hranice obratu pro povinnou registraci k DPH?;"Aktuální základní hranice obratu pro povinnou registraci k DPH je **2 000 000 Kč** za kalendářní rok [1], [6].
+
+Pravidla registrace se liší podle výše překročení:
+1.  **Obrat nad 2 000 000 Kč:** Plátcem se stáváte od 1. ledna kalendářního roku bezprostředně následujícího po roce, ve kterém jste tento obrat překročili [1], [6].
+2.  **Obrat nad 2 536 500 Kč:** Pokud v rámci probíhajícího kalendářního roku překročíte tuto vyšší hranici, stáváte se plátcem daně již dnem následujícím po dni překročení této částky [4].
+
+**Výjimka:** Povinnost registrace nevzniká osobě, která uskutečňuje pouze plnění, u kterých by neměla nárok na odpočet daně (např. osvobozená plnění bez nároku na odpočet), a to i při překročení stanoveného obratu [7].
+
+Zdroje:
+[1] Zákon č. 235/2004 Sb., § 46e odst. 3 písm. a)
+[4] Zákon č. 235/2004 Sb., § 2a odst. 2 písm. a)
+[6] Zákon č. 235/2004 Sb., § 97b odst. 1
+[7] Zákon č. 235/2004 Sb., § 6 odst. 3 písm. b) bod 3."
+DPH-08;Definice;Co se v zákoně přesně rozumí pojmem ekonomická činnost?;"Ekonomickou činností se rozumí činnost výrobců, obchodníků a osob poskytujících služby, včetně důlní činnosti, zemědělské výroby a výkonu svobodných i jiných obdobných povolání, pokud je vykonávána za účelem získávání pravidelného příjmu [2]. Za ekonomickou činnost se považuje zejména využití hmotného a nehmotného majetku za účelem získávání pravidelného příjmu [1], [2].
+
+Pojem zahrnuje i pokračování v podnikání na základě živnostenského nebo jiného oprávnění [4]. Osobou povinnou k dani je pak každá osoba, která takovou činnost uskutečňuje samostatně, přičemž touto osobou je i právnická osoba, která nebyla založena nebo zřízena za účelem podnikání [5], [8].
+
+**Výjimky (negativní vymezení):**
+Za samostatně uskutečňovanou ekonomickou činnost se nepovažuje činnost, pokud jsou příjmy z ní příjmy ze závislé činnosti (typicky zaměstnání) podle zákona o daních z příjmů [7]. Pokud tedy činnost vykazuje znaky závislé práce, nepovažuje se pro účely DPH za samostatnou ekonomickou činnost [6].
+
+Zdroje:
+[1] Zákon č. 235/2004 Sb., § 5a odst. 3
+[2] Zákon č. 235/2004 Sb., § 5 odst. 3
+[4] Zákon č. 235/2004 Sb., § 30a odst. 1 písm. b)
+[5] Zákon č. 235/2004 Sb., § 5 odst. 1
+[6] Zákon č. 235/2004 Sb., § 5 odst. 2
+[7] Zákon č. 235/2004 Sb., § 5 odst. 2 písm. b)
+[8] Zákon č. 235/2004 Sb., § 109c odst. 1"
+DPH-09;Struktura;Jaký je rozdíl mezi náležitostmi kontrolního a souhrnného hlášení?;"Hlavním rozdílem mezi kontrolním hlášením a souhrnným hlášením je lhůta pro opravu chybných údajů a specifické procesní požadavky na potvrzení podání.
+
+**Způsob a forma podání**
+Obě podání musí být učiněna výhradně elektronicky prostřednictvím elektronického portálu nebo datové zprávy [7]. Pokud podání postrádá stanovený formát nebo strukturu, je ze zákona neúčinné [12]. Pro kontrolní hlášení však platí přísnější režim potvrzení: pokud je podáno datovou zprávou vyžadující dodatečné potvrzení, musí k tomuto potvrzení dojít ve lhůtě pro podání hlášení, jinak se k němu nepřihlíží [1].
+
+**Lhůty pro následná hlášení**
+Při zjištění chyby v již podaném hlášení se lhůty pro nápravu liší:
+*   **Kontrolní hlášení:** Plátce je povinen podat následné kontrolní hlášení do **5 pracovních dnů** od zjištění nesprávných údajů [11]. Pokud je plátce vyzván správcem daně k opravě či doplnění údajů, musí tak učinit do **17 dnů** od dodání výzvy do datové schránky, nebo do **5 pracovních dnů** od oznámení výzvy, není-li doručováno do datové schránky [4].
+*   **Souhrnné hlášení:** Plátce nebo identifikovaná osoba jsou povinni podat následné souhrnné hlášení do **15 dnů** ode dne zjištění chybných údajů [9].
+
+**Periodicita a lhůty podání**
+Právnické osoby podávají kontrolní hlášení měsíčně, a to do **25 dnů** po skončení kalendářního měsíce [5]. Před uplynutím této lhůty lze již podané kontrolní hlášení nahradit opravným kontrolním hlášením; v takovém případě se k původnímu hlášení nepřihlíží [5]. Povinnost plnit povinnosti související s kontrolním hlášením trvá po celou dobu, dokud neuplyne lhůta pro stanovení daně [3].
+
+Zdroje:
+[1] Zákon č. 235/2004 Sb., § 101d odst. 1 písm. b)
+[3] Zákon č. 235/2004 Sb., § 101i odst. 1
+[4] Zákon č. 235/2004 Sb., § 101g odst. 3
+[5] Zákon č. 235/2004 Sb., § 101e odst. 1
+[7] Zákon č. 235/2004 Sb., § 101a odst. 1 písm. b)
+[9] Zákon č. 235/2004 Sb., § 4 odst. 6 písm. h)
+[11] Zákon č. 235/2004 Sb., § 14 odst. 3 písm. b)
+[12] Zákon č. 235/2004 Sb., § 101a odst. 4"
+DPH-10;Odkazy;Podle čeho se určuje místo plnění u služeb?;"Místo plnění se určuje primárně podle právního postavení příjemce služby. Pokud zákon nestanoví specifickou výjimku, uplatní se základní pravidla [6]:
+
+1.  **Služby pro osobu povinnou k dani (B2B):** Místem plnění je místo, kde má příjemce služby své sídlo. V případě, že je služba poskytnuta provozovně, která se nachází v jiném místě než sídlo, je místem plnění místo, kde je tato provozovna umístěna [7]. Za provozovnu se považuje organizační složka, která je dostatečně stálá a má personální i technické zdroje pro přijetí a využití služby [7].
+2.  **Služby pro osobu nepovinnou k dani (B2C):** Místem plnění je místo, kde má sídlo poskytovatel služby. Pokud je však služba poskytnuta prostřednictvím provozovny poskytovatele, je místem plnění místo, kde se tato provozovna nachází [8].
+
+**Specifické výjimky z výše uvedených pravidel:**
+
+*   **Služby vztahující se k nemovité věci a právu stavby:** Místem plnění je místo, kde se nachází pozemek zatížený právem stavby [2].
+*   **Přeprava osob:** Místem plnění je místo, kde se příslušný úsek přepravy skutečně uskutečňuje [6].
+*   **Zprostředkování pro nepovinné osoby:** Pokud osoba jedná jménem a na účet jiné osoby pro osobu nepovinnou k dani, je místem plnění stejné místo, kde se nachází místo plnění zajišťované (hlavní) služby [1].
+*   **Digitální a specifické služby pro osoby ze třetích zemí:** Pokud je příjemce nepovinnou osobou z mimounijního státu, je místem plnění místo tohoto příjemce [5], [12].
+*   **Služby od osob ze třetích zemí:** Pokud osoba ze třetí země poskytuje službu českému plátci, považuje se za místo plnění tuzemsko (s výjimkou osvobozených plnění) [9].
+
+Zdroje:
+[1] Zákon č. 235/2004 Sb., § 102 odst. 9
+[2] Zákon č. 235/2004 Sb., § 10 odst. 3
+[5] Zákon č. 235/2004 Sb., § 10i odst. 1
+[6] Zákon č. 235/2004 Sb., § 10a
+[7] Zákon č. 235/2004 Sb., § 9 odst. 1
+[8] Zákon č. 235/2004 Sb., § 9 odst. 2
+[9] Zákon č. 235/2004 Sb., § 9a
+[12] Zákon č. 235/2004 Sb., § 86c odst. 2 písm. a)"
+DPH-11;Slang;Kdy mi stát vrátí DPHčko, když mám nadměrný odpočet?;"Stát vám nadměrný odpočet (vratitelný přeplatek) vrátí standardně do **60 dnů** od jeho vyměření na základě daňového přiznání, pokud vám správce daně neoznamuje výsledek vyměření nebo doměření jiným způsobem [10]. 
+
+V určitých specifických případech a u vybraných nároků však platí odlišné lhůty a postupy:
+*   **30 dnů od vyměření:** Tato lhůta se uplatní u nároků na vrácení částky v případě opravy základu daně (např. u nedobytných pohledávek) nebo u jiných specifických nároků stanovených zákonem. V těchto případech vrací správce daně přeplatek automaticky bez vaší žádosti [8], [11].
+*   **30 kalendářních dnů od vzniku:** Tato lhůta platí pro vrácení přeplatku v eurech, a to rovněž bez nutnosti podávat žádost [5].
+*   **Vliv daňové kontroly:** Pokud správce daně zahájí daňovou kontrolu až po uplynutí lhůty pro vrácení přeplatku, začíná běžet nová lhůta. Ta končí **30 dnů** po pravomocném ukončení doměřovacího řízení [7].
+
+Logicky z toho vyplývá, že pokud váš nárok nespadá pod výjimku s 30denní lhůtou (např. opravy u nedobytných pohledávek), uplatní se obecná šedesátidenní lhůta. Tato lhůta se však fakticky prodlužuje v případě prověřování nároku v rámci daňové kontroly.
+
+Zdroje:
+[5] Zákon č. 235/2004 Sb., § 28 odst. 9 písm. a)
+[7] Zákon č. 235/2004 Sb., § 110j odst. 5
+[8] Zákon č. 235/2004 Sb., § 79d odst. 5
+[10] Zákon č. 235/2004 Sb., § 108 odst. 4 písm. h)
+[11] Zákon č. 235/2004 Sb., § 46a odst. 5"
+DPH-12;Logika;Proč musím přiznat daň už při přijetí zálohy, i když zboží dodám až za měsíc?;"Povinnost přiznat daň vzniká v okamžiku přijetí úplaty (zálohy), pokud tato platba předchází dni uskutečnění zdanitelného plnění [6]. Základem daně je v takovém případě samotná přijatá částka snížená o daň [9].
+
+Tato povinnost se neuplatní pouze v případě, kdy zdanitelné plnění není ke dni poskytnutí úplaty známo dostatečně určitě [6]. Pokud je však předem jasné, jaké zboží bude dodáno a jaké sazbě podléhá, musíte daň odvést již z přijaté zálohy bez ohledu na to, že k fyzickému předání zboží dojde až později. Obecné pravidlo o vzniku daňové povinnosti ke dni uskutečnění plnění [1] je v tomto případě přebito dřívějším momentem přijetí peněz.
+
+Zdroje:
+[1] Zákon č. 235/2004 Sb., § 20a odst. 3 písm. a)
+[6] Zákon č. 235/2004 Sb., § 24 odst. 3
+[9] Zákon č. 235/2004 Sb., § 36 odst. 2"
+DP-01;Fakta;Jaká je výše daňového zvýhodnění na vyživované dítě a za jakých podmínek vzniká nárok na daňový bonus?;"Základní roční výše daňového zvýhodnění činí 15 204 Kč na první dítě, 22 320 Kč na druhé dítě a 27 840 Kč na třetí a každé další dítě [1]. Pokud je dítěti přiznán nárok na průkaz ZTP/P, nárok na zvýhodnění se zvyšuje na dvojnásobek [2].
+
+**Podmínky pro uplatnění a vznik daňového bonusu:**
+
+1.  **Společná domácnost:** Vyživované dítě musí žít s poplatníkem ve společně hospodařící domácnosti na území EU nebo státu tvořícího Evropský hospodářský prostor [1].
+2.  **Definice vyživovaného dítěte:** Za vyživované dítě se považuje dítě vlastní, osvojenec, dítě v péči nahrazující péči rodičů, dítě druhého z manželů a za určitých podmínek i vlastní vnuk (pokud jeho rodiče nemají dostatečné příjmy) [10].
+3.  **Princip exkluzivity:** Vyživuje-li dítě více poplatníků (např. oba rodiče), může daňové zvýhodnění v tomtéž měsíci uplatnit pouze jeden z nich [11].
+4.  **Vznik daňového bonusu:** Daňový bonus vzniká tehdy, pokud je vypočtený nárok na daňové zvýhodnění vyšší než daňová povinnost poplatníka (snížená o příslušné slevy na dani). V takovém případě se rozdíl mezi nárokem a daní vyplatí jako daňový bonus [1].
+5.  **Časové uplatnění:** Nárok vzniká měsíčně ve výši 1/12 roční částky, pokud byly podmínky splněny na počátku měsíce. Výjimkou je měsíc narození, osvojení nebo převzetí do péče, kdy lze zvýhodnění uplatnit již za tento celý kalendářní měsíc [7], [12].
+6.  **Výplata bonusu:** Zaměstnavatel vyplatí doplatek na daňovém bonusu z ročního zúčtování, pokud jeho výše činí více než 50 Kč [3].
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 35c odst. 1
+[2] Zákon č. 586/1992 Sb., § 20bd odst. 7
+[3] Zákon č. 586/1992 Sb., § 35d odst. 8
+[7] Zákon č. 586/1992 Sb., § 35c odst. 10
+[10] Zákon č. 586/1992 Sb., § 29 odst. 1 písm. f)
+[11] Zákon č. 586/1992 Sb., § 23 odst. 4 písm. i)
+[12] Zákon č. 586/1992 Sb., § 35a odst. 2"
+DP-02;Definice;Kdo je považován za nerezidenta a jaké příjmy u nás musí zdaňovat?;"Daňovým nerezidentem je poplatník, který na území České republiky nemá bydliště ani se zde obvykle nezdržuje, případně tak o něm stanoví mezinárodní smlouva [1, 2].
+
+**Kdo je považován za nerezidenta:**
+*   Osoba, která v ČR nemá stálý byt za okolností, z nichž lze usuzovat na úmysl se v něm trvale zdržovat [2, 6].
+*   Osoba, která v ČR pobývá méně než 183 dnů v kalendářním roce (souvisle nebo v několika obdobích, započítává se každý započatý den) [2].
+*   **Absolutní výjimka:** Osoba, která se v ČR zdržuje **pouze za účelem studia nebo léčení**, je nerezidentem vždy, i kdyby se zde zdržovala obvykle (tedy déle než 183 dnů) [1, 5].
+
+**Rozsah daňové povinnosti:**
+Nerezidenti mají v České republice omezenou daňovou povinnost. Zdaňují výhradně **příjmy plynoucí ze zdrojů na území České republiky** [1, 12]. Na rozdíl od rezidentů se jejich povinnost nevztahuje na příjmy plynoucí ze zdrojů v zahraničí [3].
+
+Příjmy ze závislé činnosti (zaměstnání) vykonávané v ČR pro zahraničního zaměstnavatele se u nerezidenta zdaňují v případě, že délka této činnosti přesáhne 183 dnů v jakémkoliv období 12 měsíců po sobě jdoucích [10].
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 2 odst. 3
+[2] Zákon č. 586/1992 Sb., § 2 odst. 4
+[3] Zákon č. 586/1992 Sb., § 39a odst. 5 písm. b)
+[5] Zákon č. 586/1992 Sb., § 2a odst. 1 písm. a) bod 3.
+[6] Zákon č. 586/1992 Sb., § 32b odst. 3 písm. d)
+[10] Zákon č. 586/1992 Sb., § 31 odst. 6
+[12] Zákon č. 586/1992 Sb., § 17a odst. 2 písm. d)"
+DP-03;Struktura;Vyjmenuj druhy bezúplatných příjmů osvobozených od daně.;"Od daně z příjmů jsou osvobozeny tyto druhy bezúplatných příjmů:
+
+*   **Bezúplatné příjmy fyzických osob:** Osvobození se uplatní u příjmů vymezených v § 4 a § 4a [1]. Pokud je příjem osvobozen podle § 4, toto ustanovení má absolutní přednost a příjem se již neposuzuje podle jiných paragrafů [3].
+*   **Ostatní příjmy:** Kromě standardních osvobození jsou od daně osvobozeny i další bezúplatné příjmy specifikované v rámci ostatních příjmů, pokud nejsou uvedeny v obecném výčtu osvobození [4].
+*   **Bezúplatné příjmy právnických osob:** Tyto příjmy jsou osvobozeny za konkrétní období, za které poplatník podává daňové přiznání [2].
+*   **Příjmy v paušálním režimu:** Příjmy, které jsou ze zákona osvobozeny, se nezahrnují do limitů pro nově zvolené pásmo paušálního režimu [5].
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 4 a § 4a
+[2] Zákon č. 586/1992 Sb., § 34a odst. 6 písm. b)
+[3] Zákon č. 586/1992 Sb., § 38t odst. 1 písm. e)
+[4] Zákon č. 586/1992 Sb., § 10 odst. 3 písm. c)
+[5] Zákon č. 586/1992 Sb., § 2a odst. 4 písm. a)"
+DP-04;Odkazy;Jaké jsou podmínky pro odpočet darů?;"Podmínky pro odpočet bezúplatných plnění (darů) se liší podle toho, zda je uplatňuje fyzická nebo právnická osoba.
+
+### Fyzické osoby
+Od základu daně lze odečíst hodnotu darů, pokud úhrnná hodnota ve zdaňovacím období přesáhne **2 % ze základu daně** nebo činí **alespoň 1 000 Kč** [1]. 
+*   **Limit pro odpočet:** Standardně lze odečíst maximálně 15 % ze základu daně. Výjimku tvořila zdaňovací období let 2020 a 2021, kdy byl limit zvýšen na 30 % [1].
+*   **Specifické ocenění:** Hodnota jednoho odběru krve se oceňuje částkou 3 000 Kč, odběr orgánu nebo krvetvorných buněk částkou 20 000 Kč [1].
+*   **Manželé:** Pokud dar poskytnou manželé ze společného jmění, uplatní odpočet buď jeden z nich, nebo oba poměrnou částí [1].
+
+### Právnické osoby
+Právnická osoba může odečíst hodnotu daru, pokud jeho hodnota činí **alespoň 2 000 Kč** [2].
+*   **Limit pro odpočet:** Standardně lze odečíst maximálně 10 % ze základu daně sníženého podle § 34. Pro období, která skončila mezi 1. 3. 2020 a 28. 2. 2022, platil zvýšený limit 30 % [2].
+*   **Omezení:** Odpočet nesmí uplatnit veřejně prospěšní poplatníci [2].
+*   **Ocenění majetku:** U hmotného majetku je hodnotou daru nejvýše jeho zůstatková cena, u ostatního majetku hodnota zachycená v účetnictví [2].
+
+### Společná pravidla a účel
+Dar musí být poskytnut zákonem definovaným příjemcům (např. obcím, krajům, školám, církvím, poskytovatelům zdravotních služeb nebo fyzickým osobám s invalidním důchodem na zdravotnické pomůcky) [1][2]. Účelem musí být financování vědy, vzdělávání, kultury, školství, policie, požární ochrany, sociálních, zdravotnických, ekologických, charitativních nebo sportovních účelů [1][2].
+
+Podmínky jsou splněny i tehdy, pokud je příjemce z jiného členského státu EU nebo EHP, za předpokladu, že splňuje stejné parametry jako příjemce v ČR [1][3]. Poplatník je povinen nárok prokázat potvrzením příjemce o výši a účelu daru [6].
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 15 odst. 1
+[2] Zákon č. 586/1992 Sb., § 20 odst. 8
+[3] Zákon č. 586/1992 Sb., § 30 odst. 10 písm. l)
+[6] Zákon č. 586/1992 Sb., § 38l odst. 1"
+DP-05;Slang;Můžu si odečíst školku z daní?;"Na školku jako takovou (ve smyslu dřívější slevy za umístění dítěte) se v aktuálních pravidlech nahlíží skrze daňové zvýhodnění a zaměstnanecké benefity:
+
+1.  **Daňové zvýhodnění na dítě:** Na vyživované dítě žijící s vámi ve společně hospodařící domácnosti uplatníte daňové zvýhodnění ve výši 15 204 Kč ročně na jedno dítě, 22 320 Kč na druhé a 27 840 Kč na třetí a každé další dítě [7]. Toto zvýhodnění lze uplatnit formou slevy na dani nebo daňového bonusu [7].
+2.  **Příspěvek od zaměstnavatele:** Pokud vám zaměstnavatel přispívá na provoz školky zajišťované jiným subjektem nebo provozuje vlastní zařízení, je tento nepeněžní příjem na vaší straně jako zaměstnance osvobozen od daně [1]. Pro zaměstnavatele představují tyto náklady (vlastní provoz i příspěvek jiným subjektům) daňově uznatelný výdaj [3], [8].
+3.  **Ocenění benefitu:** Hodnota použití školky se pro účely daně ocení cenou obvyklou v daném místě a čase (podle státních či obecních školek), nebo nejvyšší měsíční úplatou podle vyhlášky o předškolním vzdělávání [11].
+4.  **Sleva na manžela:** Pokud s vámi v domácnosti žije vyživované dítě, které nedovršilo 3 let věku, můžete uplatnit slevu na manžela/manželku ve výši 24 840 Kč [10]. Nárok se posuzuje k počátku každého měsíce; pokud podmínky trvají jen část roku, uplatní se jedna dvanáctina slevy za každý takový měsíc [4].
+
+**Shrnutí:** Přímý odpočet školného zákon v uvedeném rozsahu neobsahuje, ale náklady na dítě kompenzuje daňové zvýhodnění [7] a případné osvobození příspěvku od zaměstnavatele [1].
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 39p odst. 1 písm. b)
+[3] Zákon č. 586/1992 Sb., § 24 odst. 2 bod 1.
+[4] Zákon č. 586/1992 Sb., § 35bb odst. 3
+[7] Zákon č. 586/1992 Sb., § 35c odst. 1
+[8] Zákon č. 586/1992 Sb., § 24 odst. 2 bod 2.
+[10] Zákon č. 586/1992 Sb., § 35bb odst. 1
+[11] Zákon č. 586/1992 Sb., § 6 odst. 18"
+DP-06;Logika;Platí limit pro paušální daň i pro někoho, kdo má příjmy z pronájmu nad 50 000 Kč?;"Příjmy z pronájmu nad 50 000 Kč vylučují možnost uplatnit paušální daň. Aby byla daň rovna paušální dani, nesmí poplatník překročit rozhodné příjmy pro zvolené pásmo [1, 11]. Limit pro ostatní příjmy (kam spadá i nájem) je integrální součástí podmínek pro setrvání v paušálním režimu; jeho překročením přestává být poplatník v tomto režimu a daň se mu již nestanoví jako paušální [8, 11].
+
+Logické souvislosti:
+- Pokud poplatník v průběhu roku limit pro ostatní příjmy (včetně pronájmu) překročí, nesplňuje podmínky pro to, aby jeho daň byla rovna paušální dani [1].
+- Poplatník je v takovém případě povinen oznámit správci daně nesplnění podmínek pro paušální režim [5].
+- Pokud nesplnění podmínek zjistí správce daně (např. při kontrole), učiní o tom úřední záznam a vyrozumí poplatníka o následcích, tedy o nutnosti podat standardní daňové přiznání [10].
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 7a odst. 1 písm. a)
+[5] Zákon č. 586/1992 Sb., § 38lf odst. 1
+[8] Zákon č. 586/1992 Sb., § 2a odst. 8 písm. a) bod 1.
+[10] Zákon č. 586/1992 Sb., § 38lf odst. 3
+[11] Zákon č. 586/1992 Sb., § 7a odst. 1"
+DP-07;Fakta;Kolik činí měsíční paušální daň pro první pásmo?;"Měsíční záloha na daň z příjmů pro první pásmo paušálního režimu činí 100 Kč [6].
+
+Tato částka se hradí v rámci paušálních záloh, přičemž zálohovým obdobím je kalendářní měsíc [3]. Pro vyšší pásma jsou stanoveny podstatně vyšší částky, konkrétně 4 963 Kč pro druhé pásmo [2] a 9 320 Kč pro třetí pásmo [7]. Poplatník je povinen hradit tyto zálohy, pokud splňuje podmínky pro zvolené pásmo a je k prvnímu dni zdaňovacího období poplatníkem v paušálním režimu [4], [5].
+
+Zdroje:
+[2] Zákon č. 586/1992 Sb., § 36 odst. 1 písm. c) bod 2.
+[3] Zákon č. 586/1992 Sb., § 38lk odst. 1
+[4] Zákon č. 586/1992 Sb., § 7a odst. 1 písm. a)
+[5] Zákon č. 586/1992 Sb., § 2a odst. 1 písm. a)
+[6] Zákon č. 586/1992 Sb., § 38lk odst. 2 písm. a)
+[7] Zákon č. 586/1992 Sb., § 38ll odst. 3"
+DP-08;Definice;Co jsou to nepeněžní příjmy a jak se určuje jejich hodnota pro daň?;"Za nepeněžní příjem se považuje jakékoli nepeněžité plnění, které vede ke zvýšení majetku poplatníka [9][10]. Pro účely daně z příjmů se tyto příjmy oceňují podle zvláštního právního předpisu o oceňování majetku, pokud zákon o daních z příjmů nestanoví pro konkrétní situaci jiný postup [4][6][9]. Příjmy získané směnou se posuzují obdobně jako příjmy získané prodejem [9].
+
+Při určování hodnoty nepeněžního příjmu platí tato pravidla:
+
+*   **Obecné ocenění:** Použije se cena určená podle zákona o oceňování majetku ke dni nabytí [3][7].
+*   **Bezúplatné nabytí majetku:** U majetku nabytého darem nebo jiným bezúplatným způsobem je vstupní cenou cena podle oceňovacího předpisu [3][7].
+*   **Časový test u fyzických osob:** Pokud mezi nabytím a následným úkonem (např. vkladem do korporace) uplynula doba kratší než 5 let, vychází se z ceny podle oceňovacího předpisu ke dni nabytí [3][12]. Pokud je tato doba delší než 5 let, určuje se vstupní cena odlišně (reprodukční pořizovací cenou) [3].
+*   **Vklady a obchodní majetek:** Majetek pořízený bezúplatně a zahrnutý do daňové evidence se oceňuje cenou podle oceňovacího předpisu ke dni nabytí [7].
+*   **Vyloučení z ocenění:** Hodnota bezúplatně přijatého majetku nebo služeb se pro účely daňových výdajů nepoužije, pokud byl tento příjem od daně osvobozen nebo nebyl předmětem daně [5].
+
+Zdroje:
+[3] Zákon č. 586/1992 Sb., § 29 odst. 1 písm. e)
+[4] Zákon č. 586/1992 Sb., § 3 odst. 3
+[5] Zákon č. 586/1992 Sb., § 25 odst. 1
+[6] Zákon č. 586/1992 Sb., § 3 odst. 3 písm. b) bod 1.
+[7] Zákon č. 586/1992 Sb., § 7b odst. 3
+[9] Zákon č. 586/1992 Sb., § 23 odst. 6
+[10] Zákon č. 586/1992 Sb., § 10 odst. 1
+[12] Zákon č. 586/1992 Sb., § 24 odst. 7 písm. b) bod 1."
+DP-09;Struktura;Jaký je vztah mezi základem daně a položkami, které ho mohou snížit?;"Základ daně, který tvoří rozdíl mezi příjmy a výdaji nebo výsledek hospodaření [1], představuje výchozí hodnotu pro výpočet daňové povinnosti. Tento základ se následně snižuje o nezdanitelné části základu daně a o odčitatelné položky [2].
+
+Daň se počítá až z takto upraveného základu daně, který se před aplikací příslušné sazby zaokrouhluje na celá sta Kč dolů [2]. Vztah je tedy lineární: čím vyšší jsou uplatněné nezdanitelné části a odčitatelné položky, tím nižší je výsledný základ pro výpočet daně.
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 38ga odst. 1 písm. a)
+[2] Zákon č. 586/1992 Sb., § 33a odst. 2 písm. b)"
+DP-10;Odkazy;Jak tento zákon pracuje s definicí příbuzných osob z jiných zákonů?;"Zákon o daních z příjmů primárně neoperuje s pojmem „příbuzné osoby“ z jiných předpisů, ale definuje vlastní kategorie spojených osob, přičemž využívá širší termín „osoby blízké“.
+
+Pravidla pro určení vztahů mezi osobami jsou nastavena takto:
+
+1.  **Jiné spojení přes osoby blízké:** Pokud se osoby blízké (definované zpravidla občanským zákoníkem) nebo shodné osoby podílejí na vedení nebo kontrole jiných osob, považují se tyto ovládané subjekty za vzájemně jinak spojené osoby [3].
+2.  **Kapitálové spojení:** Vzniká automaticky při přímém podílu na kapitálu nebo hlasovacích právech ve výši alespoň 25 % [1]. Stejná hranice 25 % se uplatní i pro určení přidružených osob u ovládaných zahraničních společností, pokud má osoba právo na podíl na zisku v této výši [4].
+3.  **Vedení a kontrola:** Osoby jsou kapitálově spojené i tehdy, pokud jedna osoba přímo ovládá alespoň 25 % kapitálu nebo hlasovacích práv a zároveň se podílí na vedení nebo kontrole druhé osoby [2].
+4.  **Negativní vymezení u komanditistů:** Poplatník, který je komplementářem komanditní společnosti, při výpočtu daňového zisku (před úroky, zdaněním a odpisy) povinně nezohledňuje tu část základu daně komanditní společnosti, která je již součástí jeho vlastního základu daně [5].
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 23 odst. 7 písm. a) bod 1.
+[2] Zákon č. 586/1992 Sb., § 23 odst. 7 písm. b) bod 1.
+[3] Zákon č. 586/1992 Sb., § 38lk odst. 2
+[4] Zákon č. 586/1992 Sb., § 38fa odst. 6 písm. e)
+[5] Zákon č. 586/1992 Sb., § 20bd odst. 9"
+DP-11;Slang;Můžu si dát do nákladů oběd s klientem?;"Oběd s klientem nelze uplatnit jako daňově uznatelný náklad.
+
+Zákon jej jednoznačně klasifikuje jako výdaj na reprezentaci, kam spadá zejména pohoštění a občerstvení [1][2]. Tyto náklady jsou výslovně vyloučeny z výdajů vynaložených na dosažení, zajištění a udržení příjmů [4].
+
+V oblasti reprezentace lze jako daňový výdaj uznat pouze reklamní nebo propagační předmět, který splňuje tři podmínky současně: je opatřen logem nebo názvem služby, jeho hodnota nepřesahuje 500 Kč bez DPH a není předmětem spotřební daně [1][2]. Konzumace jídla a pití v restauraci tyto podmínky z principu nesplňuje.
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 24 odst. 2 písm. s)
+[2] Zákon č. 586/1992 Sb., § 25 odst. 1 písm. t)
+[4] Zákon č. 586/1992 Sb., § 25 odst. 1"
+DP-12;Logika;Proč se mi daňová ztráta z podnikání nemůže odečíst od příjmů ze zaměstnání?;"Daňovou ztrátu lze u fyzických osob odečíst výhradně od úhrnu dílčích základů daně zjištěných podle § 7 až 10 zákona o daních z příjmů [1], [10].
+
+Příjmy ze zaměstnání (závislá činnost) jsou definovány v § 6. Vzhledem k tomu, že zákon výslovně omezuje možnost odečtu ztráty pouze na součet dílčích základů daně z podnikání (§ 7), kapitálového majetku (§ 8), nájmu (§ 9) a ostatních příjmů (§ 10), je uplatnění ztráty proti příjmům ze zaměstnání nepřípustné [4], [10]. 
+
+Logicky z toho vyplývá:
+1. Pokud vykážete ztrátu v podnikání (§ 7), můžete ji v daném roce kompenzovat zisky například z nájmu nebo prodeje majetku.
+2. Pokud však máte pouze příjmy ze zaměstnání a ztrátu z podnikání, daňový základ z § 6 zůstane nesnížen a ztrátu z podnikání si můžete pouze „přenést“ do dalších let pro případné budoucí zisky v kategoriích § 7 až 10.
+
+Zdroje:
+[1] Zákon č. 586/1992 Sb., § 5 odst. 10 písm. a) bod 3.
+[4] Zákon č. 586/1992 Sb., § 33a odst. 3 písm. a)
+[10] Zákon č. 586/1992 Sb., § 5 odst. 3"
+DR-01;Fakta;Jaká je standardní lhůta pro podání odvolání proti rozhodnutí správce daně?;"Standardní lhůta pro podání odvolání proti rozhodnutí správce daně činí **30 dnů** ode dne doručení rozhodnutí [7], [8]. Odvolání lze podat dokonce i předtím, než je rozhodnutí doručeno [7].
+
+U specifických typů rozhodnutí se však uplatňuje zkrácená lhůta **15 dnů** ode dne doručení. Tato výjimka platí pro:
+*   rozhodnutí o námitce, pokud jí nebylo plně vyhověno [1],
+*   rozhodnutí o předražku [2],
+*   rozhodnutí o udělení příklepu [3], [11],
+*   specifická rozhodnutí podle § 6 odst. 4 daňového řádu [4].
+
+Odvolání se podává u toho správce daně, jehož rozhodnutí napadáte [9]. Dokud není o odvolání rozhodnuto, máte právo jej měnit, doplňovat nebo vzít zpět [12]. 
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 102 odst. 3
+[2] Zákon č. 280/2009 Sb., § 259 odst. 3
+[3] Zákon č. 280/2009 Sb., § 223 odst. 1
+[4] Zákon č. 280/2009 Sb., § 6 odst. 4
+[7] Zákon č. 280/2009 Sb., § 2 odst. 2 písm. d)
+[8] Zákon č. 280/2009 Sb., § 109 odst. 4
+[9] Zákon č. 280/2009 Sb., § 110 odst. 3
+[11] Zákon č. 280/2009 Sb., § 115 odst. 1
+[12] Zákon č. 280/2009 Sb., § 111 odst. 2"
+DR-02;Definice;Kdo všechno se považuje za daňový subjekt?;"Daňovým subjektem je každá osoba, kterou za něj zákon výslovně označuje, a to včetně osob v postavení poplatníka nebo plátce daně [1]. Status daňového subjektu má rovněž osoba, která je nositelem daňové povinnosti v případech souvisejících s dražbou [2].
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 80 odst. 1
+[2] Zákon č. 280/2009 Sb., § 195 odst. 2 písm. d)"
+DR-03;Struktura;Jaká jsou práva a povinnosti zúčastněných osob na správě daní?;"Osoby zúčastněné na správě daní mají právo na ochranu svých práv a zákonem chráněných zájmů. Správce daně je povinen postupovat tak, aby tyto osoby zatěžoval co nejméně, a musí jim poskytnout přiměřené poučení o jejich právech a povinnostech, vyžaduje-li to povaha úkonu [1, 2, 6].
+
+**Práva zúčastněných osob:**
+*   **Uplatňování práv:** Osoby mohou v rámci správy daní aktivně uplatňovat svá práva [2].
+*   **Samostatné jednání:** Každá osoba může při správě daní jednat samostatně v rozsahu své svéprávnosti [5].
+*   **Ochrana informací:** Úřední osoby i ostatní zúčastněné osoby jsou vázány mlčenlivostí o skutečnostech, které se dozvěděly o poměrech jiných osob [5].
+
+**Povinnosti zúčastněných osob:**
+*   **Prokázání totožnosti:** Osoba zúčastněná na správě daní je povinna na výzvu úřední osoby prokázat svou totožnost [9].
+*   **Mlčenlivost:** Zúčastněné osoby musí zachovávat mlčenlivost o údajích jiných osob, se kterými se při správě daní seznámily. Tato povinnost se však nepoužije pro daňový subjekt v případě informací o jeho vlastních daních [5].
+*   **Informační povinnost při návrhu:** Pokud daňový subjekt navrhuje účast třetí osoby v řízení, musí správci daně sdělit její údaje a důvod, co má tato osoba prokázat nebo vysvětlit [10].
+
+**Logické souvislosti:**
+Z definice třetích osob vyplývá, že jde o jakékoli osoby jiné než daňový subjekt, jejichž práva a povinnosti jsou správou daní dotčeny [3, 4]. Pokud zákon ukládá správci daně povinnost šetřit zájmy těchto osob, vyplývá z toho, že zásah do jejich práv je přípustný pouze v nezbytně nutné míře pro dosažení cíle správy daní [1, 11].
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 3
+[2] Zákon č. 280/2009 Sb., § 5 odst. 3
+[3] Zákon č. 280/2009 Sb., § 195 odst. 3
+[4] Zákon č. 280/2009 Sb., § 22
+[5] Zákon č. 280/2009 Sb., § 52 odst. 1
+[6] Zákon č. 280/2009 Sb., § 6 odst. 3
+[9] Zákon č. 280/2009 Sb., § 147 odst. 1
+[10] Zákon č. 280/2009 Sb., § 92 odst. 6
+[11] Zákon č. 280/2009 Sb., § 9 odst. 3"
+DR-04;Odkazy;Jak probíhá dokazování?;"Dokazování provádí příslušný správce daně prostřednictvím svých úředních osob [4]. Celý proces stojí na rozdělení důkazního břemene a volném hodnocení důkazů.
+
+**Průběh a hodnocení důkazů**
+Správce daně hodnotí každý důkaz jednotlivě a všechny důkazy v jejich vzájemné souvislosti, přičemž přihlíží ke všemu, co při správě daní vyšlo najevo [2]. Pokud nejsou předložené důkazní prostředky správcem daně zpochybněny, vychází se z nich [11]. O postupech, jako je odstraňování pochybností, se sepisuje protokol nebo úřední záznam [8].
+
+**Důkazní břemeno**
+*   **Daňový subjekt:** Je povinen prokazovat skutečnosti potřebné pro správné stanovení daně. Tato povinnost vzniká na výzvu správce daně v případě, že potřebné informace nelze získat z jeho vlastní úřední evidence [5], [9].
+*   **Správce daně:** Prokazuje skutečnosti rozhodné pro uplatnění následku za porušení povinností (sankce) [6].
+
+**Důsledky nesoučinnosti**
+Pokud daňový subjekt nesplní své zákonné povinnosti při dokazování a v důsledku toho nelze daň stanovit standardním dokazováním, správce daně stanoví daň podle pomůcek, které má k dispozici nebo které si sám obstará [9], [12]. Tento postup se povinně uvádí ve výroku rozhodnutí [12].
+
+**Omezení v přezkumném řízení**
+V rámci přezkumného řízení, které směřuje k uspokojení navrhovatele ve správním soudnictví, platí striktní omezení: správce daně nepřihlíží k novým skutečnostem ani návrhům na nové důkazy, které navrhovatel neuvedl již ve své žalobě [1], [3]. Správce je v tomto řízení vázán důvody a právním názorem rozhodnutí o nařízení přezkoumání [3].
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 127 odst. 3
+[2] Zákon č. 280/2009 Sb., § 8 odst. 1
+[3] Zákon č. 280/2009 Sb., § 124 odst. 3
+[4] Zákon č. 280/2009 Sb., § 12 odst. 1
+[5] Zákon č. 280/2009 Sb., § 92 odst. 4
+[6] Zákon č. 280/2009 Sb., § 92 odst. 5 písm. e)
+[8] Zákon č. 280/2009 Sb., § 91 odst. 1
+[9] Zákon č. 280/2009 Sb., § 90 odst. 4
+[11] Zákon č. 280/2009 Sb., § 98 odst. 3 písm. a)
+[12] Zákon č. 280/2009 Sb., § 98 odst. 1"
+DR-05;Slang;Co se stane, když něco nepošlu na finanční úřad?;"Nepodání daňového tvrzení nebo nesplnění jiné povinnosti vůči finančnímu úřadu vyvolává sankce, které se liší podle typu opomenutí a délky prodlení.
+
+### 1. Pozdní podání daňového přiznání
+Pokud nepodáte daňové přiznání včas a zpoždění je delší než 5 pracovních dnů, vzniká vám povinnost uhradit pokutu za opožděné tvrzení daně [1], [3]. Výše pokuty se odvíjí od stanovené daně, daňového odpočtu nebo daňové ztráty [5].
+*   **Minimální výše:** Pokud přiznání nepodáte vůbec (ani dodatečně), činí pokuta vždy nejméně 500 Kč [2], [4].
+*   **Limit pro prominutí:** Pokud vypočtená pokuta nedosáhne částky 1 000 Kč, nepředepisuje se a povinnost ji uhradit nevzniká [11].
+
+### 2. Nečinnost a zahájení řízení z moci úřední
+Pokud svou povinnost podat přiznání nesplníte, správce daně zahájí řízení z moci úřední, jakmile zjistí rozhodné skutečnosti [7]. V takovém případě vám hrozí doměření daně správcem daně.
+*   **Penále:** Při doměření daně správcem daně z moci úřední vzniká povinnost uhradit penále z částky, o kterou byla daň zvýšena oproti poslední známé dani [6]. 
+*   **Výjimka:** Povinnost uhradit penále nevzniká, pokud podáte dodatečné daňové přiznání sami a na jeho základě dojde k doměření daně (pokud je toto podání přípustné) [8].
+
+### 3. Maření správy daní
+Pokud nereagujete na výzvy správce daně nebo závažně ztěžujete správu daní (např. neposkytnutím požadovaných informací nepeněžité povahy), může vám být uložena pořádková pokuta až do výše 500 000 Kč [12]. Tuto pokutu lze ukládat i opakovaně, pokud protiprávní stav trvá [9].
+
+### 4. Plátci daně (hlášení a vyúčtování)
+U plátců daně vzniká povinnost uhradit pokutu při nepodání hlášení nebo vyúčtování, pokud je zpoždění delší než 5 pracovních dnů. Sazba činí 0,05 % z částky daně za každý den prodlení, maximálně však 0,5 % z celkové daně [10].
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 75 odst. 1
+[2] Zákon č. 280/2009 Sb., § 250 odst. 4
+[3] Zákon č. 280/2009 Sb., § 250 odst. 1
+[4] Zákon č. 280/2009 Sb., § 72 odst. 4
+[5] Zákon č. 280/2009 Sb., § 180 odst. 3 písm. i)
+[6] Zákon č. 280/2009 Sb., § 85 odst. 1
+[7] Zákon č. 280/2009 Sb., § 175 odst. 2
+[8] Zákon č. 280/2009 Sb., § 251 odst. 4
+[9] Zákon č. 280/2009 Sb., § 247 odst. 5
+[10] Zákon č. 280/2009 Sb., § 250 odst. 2
+[11] Zákon č. 280/2009 Sb., § 13 odst. 3
+[12] Zákon č. 280/2009 Sb., § 105 odst. 2"
+DR-06;Logika;Za jakých podmínek lze požádat o navrácení lhůty v předešlý stav, pokud jsem ji zmeškal?;"O navrácení lhůty v předešlý stav můžete jako osoba zúčastněná na správě daní požádat za těchto podmínek:
+
+1.  **Existence závažného důvodu:** Lhůta již uplynula a vy prokážete závažný důvod, pro který jste ji zmeškali [4], [5].
+2.  **Dodržení subjektivní lhůty:** Žádost musíte podat do **15 dnů** ode dne, kdy pominul důvod zmeškání původní lhůty [1].
+3.  **Dodržení objektivní lhůty:** Navrácení nelze povolit, pokud od posledního dne zmeškané lhůty uplynul více než **1 rok** [2].
+4.  **Absence zákonné překážky:** Navrácení v předešlý stav je vyloučeno u lhůt, se kterými zákon spojuje zánik práva (prekluzivní lhůty), a u změn údajů v dražební vyhlášce [2], [3].
+
+Pokud správce daně žádosti vyhoví, nově stanoví den uplynutí lhůty a toto rozhodnutí nemusí odůvodňovat [3], [4]. V případě zmeškání odvolací lhůty proti rozhodnutí o stanovení daně dochází ke stavení lhůty pro stanovení daně, a to od okamžiku zmeškání až do oznámení rozhodnutí o navrácení lhůty [7].
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 2 odst. 3 písm. c)
+[2] Zákon č. 280/2009 Sb., § 198 odst. 2 písm. d)
+[3] Zákon č. 280/2009 Sb., § 36 odst. 5
+[4] Zákon č. 280/2009 Sb., § 194a odst. 2 písm. b)
+[5] Zákon č. 280/2009 Sb., § 93 odst. 1
+[7] Zákon č. 280/2009 Sb., § 148 odst. 4"
+DR-07;Fakta;Kolik dní mám k vyjádření k výsledku kontrolního zjištění po kontrole?;"Správce daně vám musí stanovit **přiměřenou lhůtu** k vyjádření [5]. Zákon nestanoví fixní počet dní; konkrétní délka závisí na rozhodnutí správce daně, který ji určuje v momentě, kdy vám sděluje výsledek kontrolního zjištění, ze kterého vyplývá budoucí stanovení daně [1][5].
+
+V rámci procesu platí tato pravidla:
+*   **Absolutní výjimka:** Pokud je výsledek kontrolního zjištění sdělován při jednání a vy prohlásíte, že stanovení lhůty nepožadujete, správce daně ji nestanoví vůbec [4].
+*   **Ukončení lhůty:** Lhůta pro vyjádření končí buď dnem, kdy vyjádření podáte, nebo marným uplynutím času, který vám byl správcem daně určen [1].
+*   **Následný postup:** Pokud z výsledku kontroly nevyplývá stanovení daně (např. kontrola nic nenašla), lhůta se nestanovuje a řízení je ukončeno doručením oznámení o ukončení daňové kontroly [4].
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 59 odst. 2
+[4] Zákon č. 280/2009 Sb., § 88a odst. 3
+[5] Zákon č. 280/2009 Sb., § 129 odst. 2"
+DR-08;Definice;Kdo je to osoba zúčastněná na správě daní a jaká má práva?;"Osoba zúčastněná na správě daní je souhrnné označení pro **daňové subjekty** (poplatníky a plátce daně) a **třetí osoby** [5], [6]. Při správě daní může tato osoba samostatně jednat v rozsahu své svéprávnosti [7].
+
+Mezi základní práva a související ochranu těchto osob patří:
+
+*   **Právo na uplatnění práv a poučení:** Správce daně je povinen umožnit osobám uplatňovat jejich práva a poskytnout jim přiměřené poučení o jejich právech a povinnostech, pokud je to s ohledem na povahu úkonu potřebné [2].
+*   **Ochrana práv a zájmů (Zásada přiměřenosti):** Správce daně musí šetřit práva a právem chráněné zájmy těchto osob. Při vymáhání povinností smí používat pouze takové prostředky, které osoby zatěžují co nejméně, ale zároveň umožňují dosáhnout cíle správy daní [2], [5].
+*   **Identifikace úřední osoby:** Osoba má právo na požádání vědět, kdo je v její věci úřední osobou. Správce daně jí musí sdělit jméno úřední osoby, její služební označení a organizační útvar, ve kterém je zařazena [1], [12].
+*   **Právo na informace a součinnost:** Osoba má přístup k informacím v rozsahu, v jakém jsou její práva a povinnosti správou daní dotčena [4].
+*   **Výjimka z mlčenlivosti:** Zatímco úřední osoby jsou vázány mlčenlivostí o poměrech jiných osob, pro daňový subjekt tato povinnost neplatí ve vztahu k informacím získaným nebo použitým při správě jeho vlastních daní [7].
+
+Z hlediska povinností musí osoba zúčastněná na správě daní na vyzvání úřední osoby prokázat svou totožnost [10].
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 12 odst. 4
+[2] Zákon č. 280/2009 Sb., § 5 odst. 3
+[4] Zákon č. 280/2009 Sb., § 53 odst. 1 písm. c)
+[5] Zákon č. 280/2009 Sb., § 3
+[6] Zákon č. 280/2009 Sb., § 80 odst. 1
+[7] Zákon č. 280/2009 Sb., § 52 odst. 1
+[10] Zákon č. 280/2009 Sb., § 147 odst. 1
+[12] Zákon č. 280/2009 Sb., § 207 odst. 4"
+DR-09;Struktura;Jaký je rozdíl mezi odvoláním a žádostí o přezkum rozhodnutí?;"Základní rozdíl spočívá v povaze těchto nástrojů: odvolání je **řádný opravný prostředek**, na který máte zákonný nárok, zatímco žádost o přezkum (formálně podnět) je **dozorčí prostředek** [1, 2].
+
+**Odvolání**
+*   Uplatňuje se proti rozhodnutí, které dosud nenabylo právní moci (pokud zákon nestanoví jinak) [11].
+*   Podává se u správce daně, jehož rozhodnutí napadáte [2].
+*   Je nepřípustné, pokud směřuje pouze proti odůvodnění rozhodnutí [5].
+*   O odvolání rozhoduje nejblíže nadřízený správce daně [8].
+
+**Přezkoumání rozhodnutí (podnět)**
+*   Jedná se o dozorčí prostředek sloužící k revizi již pravomocných rozhodnutí [2].
+*   Podnět k nařízení přezkoumání se podává u správce daně, který rozhodl v posledním stupni [7].
+*   Na zahájení řízení není automatický nárok. Pokud nadřízený správce daně neshledá podnět důvodným, odloží jej a vyrozumí vás o tom do 30 dnů s uvedením důvodů [3].
+*   Proti rozhodnutí vydanému v rámci přezkumného řízení, které směřuje k uspokojení navrhovatele ve správním soudnictví, již nelze uplatnit další opravné prostředky [10].
+
+**Shrnutí:**
+Odvolání využijte jako standardní cestu k nápravě rozhodnutí v první instanci. Podnět k přezkumu je mimořádný nástroj, který iniciuje zásah vyšší moci (dozor) nad pravomocným rozhodnutím, přičemž správce daně jej nařídí pouze při splnění zákonných podmínek [7, 9].
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 108 odst. 1 písm. a)
+[2] Zákon č. 280/2009 Sb., § 109 odst. 3
+[3] Zákon č. 280/2009 Sb., § 38 odst. 4
+[5] Zákon č. 280/2009 Sb., § 6 odst. 1
+[7] Zákon č. 280/2009 Sb., § 229 odst. 2 písm. c)
+[8] Zákon č. 280/2009 Sb., § 223 odst. 1
+[9] Zákon č. 280/2009 Sb., § 121 odst. 3
+[10] Zákon č. 280/2009 Sb., § 133 odst. 5
+[11] Zákon č. 280/2009 Sb., § 109 odst. 1"
+DR-10;Odkazy;Jak daňový řád souvisí s exekucemi při vymáhání starých nedoplatků?;"Daňový řád upravuje pravomoci správce daně jako exekučního orgánu výlučně a stanoví přesný postup pro vymáhání nedoplatků, kterými jsou neuhrazené částky daně nebo jejího příslušenství po dni splatnosti [5], [7].
+
+Klíčové principy vymáhání podle daňového řádu:
+
+*   **Zahájení a doručení:** Daňová exekuce je zahájena vydáním exekučního příkazu [3]. Pokud správce daně provádí soupis věcí, doručí jej dlužníkovi nejdříve spolu s tímto příkazem [2].
+*   **Srážky ze mzdy:** Exekuce se vztahuje i na mzdu u plátce, který se jím stane až po nařízení exekuce. Nový plátce musí pokračovat v srážkách, přičemž pořadí nedoplatku získané u původního plátce zůstává zachováno [6]. Na návrh dlužníka může správce daně ze závažných důvodů výši srážky snížit [10].
+*   **Povinnosti poddlužníka:** Pokud poddlužník (např. zaměstnavatel) neplní povinnosti stanovené exekučním příkazem, má správce daně nárok na splnění těchto povinností z prostředků poddlužníka. Tento nárok uplatňuje správce daně žalobou u soudu [10].
+*   **Hospodárnost a proporcionalita:** Správce daně musí zvolit takový způsob vymáhání, aby náklady nebyly ve zjevném nepoměru k výši nedoplatku [4]. Při společných úkonech pro více dlužníků se náhrada nákladů rozvrhne poměrně podle výše jejich nedoplatků [1].
+*   **Vratitelný přeplatek:** Pokud výtěžek exekuce převýší vymáhaný nedoplatek, vzniká dlužníkovi vratitelný přeplatek. Ten mu správce daně musí vrátit automaticky do 15 dnů [11].
+*   **Vztah k občanskému soudnímu řádu:** Správce daně nemůže provádět úkony, které jsou podle občanského soudního řádu vyhrazeny pouze soudu [7]. Dojde-li během exekuce ke změně místní příslušnosti, správce daně oznámí poddlužníkovi nové číslo účtu pro zasílání výtěžku [8].
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 36 odst. 4
+[2] Zákon č. 280/2009 Sb., § 34 odst. 1
+[3] Zákon č. 280/2009 Sb., § 122 odst. 1
+[4] Zákon č. 280/2009 Sb., § 119 odst. 2
+[5] Zákon č. 280/2009 Sb., § 153 odst. 1
+[6] Zákon č. 280/2009 Sb., § 187 odst. 4
+[7] Zákon č. 280/2009 Sb., § 177 odst. 2
+[8] Zákon č. 280/2009 Sb., § 186 odst. 4
+[10] Zákon č. 280/2009 Sb., § 187 odst. 3
+[11] Zákon č. 280/2009 Sb., § 185 odst. 2
+[12] Zákon č. 280/2009 Sb., § 187 odst. 1"
+DR-11;Slang;Co se stane, když mi přijde obsílka do datovky a já ji neotevřu?;"Písemnost se považuje za doručenou desátým dnem od jejího dodání do datové schránky, a to i v případě, že se do schránky nepřihlásíte a zprávu neotevřete [12]. 
+
+Osobě, která má zpřístupněnu datovou schránku, doručuje správce daně písemnosti prioritně tímto způsobem [5]. Marným uplynutím desetidenní lhůty nastává tzv. fikce doručení a písemnost se považuje za řádně doručenou se všemi právními důsledky [12]. Od tohoto okamžiku začínají běžet zákonné lhůty, například pro podání odvolání nebo zaplacení daně.
+
+Zdroje:
+[5] Zákon č. 280/2009 Sb., § 42
+[12] Zákon č. 280/2009 Sb., § 69 odst. 2"
+DR-12;Logika;Proč může úřad prodloužit lhůtu pro kontrolu, i když už měla podle plánu skončit?;"Správce daně může lhůtu prodloužit zejména v situaci, kdy se jedná o zvlášť složitý případ. To se týká momentů, kdy je nezbytné zapůjčené doklady nebo vzorky podrobit vnější expertize. O takovém prodloužení rozhoduje nejblíže nadřízený správce daně, a pokud důvody pro zapůjčení trvají, může být lhůta prodlužována i opakovaně [5].
+
+Kromě složitosti případu existují další zákonné důvody a mechanismy pro změnu lhůt:
+
+*   **Závažné důvody a žádost:** Lhůtu stanovenou správcem daně lze prodloužit ze závažného důvodu na žádost podanou před jejím uplynutím [1, 4]. 
+*   **Povinnost vyhovět:** Pokud jde o první žádost o prodloužení lhůty (která není lhůtou zákonnou), správce daně jí musí vyhovět. Lhůtu pak prodlouží minimálně o dobu, která v den podání žádosti ze lhůty ještě zbývala [2, 3].
+*   **Specifické prodloužení o rok:** Lhůta pro stanovení daně se automaticky prodlužuje o 1 rok, pokud v posledních 12 měsících před jejím koncem došlo k přidělení přístupových údajů do daňové informační schránky [7].
+
+Z výše uvedeného vyplývá, že zatímco u složitých expertiz rozhoduje úřad z moci úřední přes nadřízený orgán, u běžných lhůt stanovených správcem daně je pro prodloužení zásadní včasná žádost s uvedením závažného důvodu.
+
+Zdroje:
+[1] Zákon č. 280/2009 Sb., § 119 odst. 1
+[2] Zákon č. 280/2009 Sb., § 49 odst. 1 písm. b)
+[3] Zákon č. 280/2009 Sb., § 36 odst. 2
+[4] Zákon č. 280/2009 Sb., § 36 odst. 1
+[5] Zákon č. 280/2009 Sb., § 80 odst. 4
+[7] Zákon č. 280/2009 Sb., § 69 odst. 3 písm. a) bod 2."
+DNV-01;Fakta;Do jakého data se musí podat přiznání k dani z nemovitosti?;"Daňové přiznání k dani z nemovitých věcí se podává standardně do **31. ledna** zdaňovacího období [11]. 
+
+Povinnost podat přiznání však nevzniká, pokud jste jej podali v některém z předchozích období a nedošlo k žádné změně okolností rozhodných pro stanovení daně [11]. V takovém případě se daň vyměří automaticky ve výši poslední známé daně k 31. lednu [11]. Stejně tak povinnost nevzniká, pokud přiznání za danou nemovitost již podal společný zástupce nebo zmocněnec [12].
+
+**Odchylné lhůty a výjimky:**
+*   **Vydražené nemovitosti:** Pokud bylo vlastnické právo k nemovitosti prodané v dražbě nabyto v prosinci, podává se přiznání do konce třetího kalendářního měsíce následujícího po měsíci, kdy byly splněny podmínky pro nabytí vlastnictví [2].
+*   **Dědictví:** Lhůta se prodlužuje o 2 měsíce, pokud řízení o pozůstalosti skončilo v průběhu lhůty pro podání přiznání, aniž by správce pozůstalosti tuto povinnost splnil [9].
+*   **Zánik osvobození:** Pokud zanikl nárok na osvobození (např. u investičních pobídek), vzniká povinnost podat dodatečná daňová přiznání na všechna dotčená zdaňovací období [3], [4].
+*   **Změna údajů:** Dojde-li ke změně rozhodných okolností (např. změna výměry), podává se přiznání nebo dílčí přiznání do 31. ledna [11]. Změnu ostatních údajů uvedených v přiznání je nutné oznámit do 30 dnů [6].
+
+Zdroje:
+[2] Zákon č. 338/1992 Sb., § 4 odst. 1 písm. l)
+[3] Zákon č. 338/1992 Sb., § 13b odst. 2
+[4] Zákon č. 338/1992 Sb., § 14 odst. 2
+[6] Zákon č. 338/1992 Sb., § 13a odst. 10
+[9] Zákon č. 338/1992 Sb., § 9 odst. 1 písm. c)
+[11] Zákon č. 338/1992 Sb., § 13a odst. 1
+[12] Zákon č. 338/1992 Sb., Poznámka 3"
+DNV-02;Definice;Co se podle zákona považuje za stavební pozemek?;"Za stavební pozemek se považuje pozemek nebo jeho část určená k zastavění zdanitelnou stavbou na základě pravomocného povolení stavby, a to v rozsahu výměry odpovídající zastavěné ploše nadzemní části budoucí stavby [1]. Pokud je stavebním pozemkem pouze část parcely, pohlíží se na tuto část a na zbytek pozemku pro účely daně jako na dva samostatné pozemky [3].
+
+**Negativní vymezení a výjimky:**
+Stavebním pozemkem není pozemek určený k výstavbě staveb, které jsou alespoň zčásti osvobozeny od daně (např. rozvody energetické soustavy nebo tepelná zařízení) [3]. Status stavebního pozemku zaniká v okamžiku, kdy se stavba nebo jednotky v ní stanou předmětem daně ze staveb a jednotek, nebo pokud stavební povolení pozbude platnosti [2][3].
+
+Zdroje:
+[1] Zákon č. 338/1992 Sb., § 1a odst. 1 písm. l)
+[2] Zákon č. 338/1992 Sb., § 1a odst. 4 písm. b)
+[3] Zákon č. 338/1992 Sb., § 1a odst. 2"
+DNV-03;Struktura;Jak obecní koeficient ovlivňuje výši daně?;"Místní koeficient funguje jako přímý multiplikátor daně. Výsledná daň za výpočtový list se určí jako součin základu daně (či upravené daně) a příslušného koeficientu, přičemž výsledek se zaokrouhluje na celé koruny nahoru [4, 11].
+
+**Pravidla pro uplatnění koeficientu:**
+
+*   **Standardní výše:** Obec může stanovit koeficient v rozmezí **0,5 až 5,0** s přesností na jedno desetinné místo [2, 10]. 
+*   **Absence vyhlášky:** Pokud obec koeficient nestanoví, automaticky se použije koeficient **1,0**, který výši daně nemění [8].
+*   **Omezení pro zemědělskou půdu:** Pro specifické skupiny, jako jsou zemědělské pozemky, trvalé travní porosty nebo nevyužitelné ostatní plochy, je výše koeficientu omezena na rozmezí **0,5 až 1,5** [3].
+*   **Priorita specifického vymezení:** Pokud obec stanoví vedle obecného koeficientu i koeficient pro konkrétně vymezené nemovité věci (např. určité seskupení staveb), má tento specifický koeficient **absolutní přednost** a obecný koeficient se na tyto věci nepoužije [5, 7].
+*   **Územní rozsah:** Koeficient určený pro konkrétní městskou část nebo obvod se vztahuje na veškeré nemovité věci na daném území [12].
+
+Zdroje:
+[2] Zákon č. 338/1992 Sb., § 12 odst. 1 písm. a)
+[3] Zákon č. 338/1992 Sb., § 12 odst. 1 písm. b)
+[4] Zákon č. 338/1992 Sb., § 11d odst. 1
+[5] Zákon č. 338/1992 Sb., § 12ab odst. 5
+[7] Zákon č. 338/1992 Sb., § 11 odst. 4
+[8] Zákon č. 338/1992 Sb., § 2 odst. 2 písm. c)
+[10] Zákon č. 338/1992 Sb., § 12 odst. 1
+[11] Zákon č. 338/1992 Sb., § 11d odst. 5
+[12] Zákon č. 338/1992 Sb., § 4 odst. 1 písm. n) bod 3."
+DNV-04;Odkazy;Jak tato daň souvisí s údaji v katastru nemovitostí?;"Daň z nemovitých věcí se stanovuje podle stavu evidovaného v katastru nemovitostí k 1. lednu zdaňovacího období [1], [11]. Údaje v katastru jsou pro výpočet daně určující bez ohledu na to, zda odpovídají skutečnému stavu [12].
+
+Vazba na katastr nemovitostí se projevuje v těchto rovinách:
+
+*   **Určení předmětu daně:** Pro účely daně z nemovitých věcí se druhem pozemku rozumí druh pozemku zapsaný v katastru [2]. Pokud není v katastru způsob využití evidován, použije se pro stanovení daně ten druh pozemku, který podle katastrálních předpisů nejblíže odpovídá skutečnosti [9].
+*   **Identifikace nemovitosti:** Daň se odvozuje z názvu katastrálního území, parcelního čísla a údajů o číselných řadách parcel. Pokud je pozemek veden jako stavební parcela, uplatní se pravidla pro stavební parcely; v ostatních případech se má za to, že jde o parcelu pozemkovou [4], [5].
+*   **Stavby a jednotky:** Zdanitelná stavba je identifikována číslem popisným nebo evidenčním a příslušností k části obce podle katastru [3]. U pozemků zastavěných zdanitelnými stavbami se daň stanovuje v rozsahu zastavěné plochy těchto staveb [3], [5].
+*   **Poplatník:** Vlastník zapsaný v katastru nemovitostí je zpravidla poplatníkem daně z pozemků [10] i daně ze staveb a jednotek [8].
+
+Zdroje:
+[1] Zákon č. 338/1992 Sb., § 13b odst. 1
+[2] Zákon č. 338/1992 Sb., § 1a odst. 4
+[3] Zákon č. 338/1992 Sb., § 2 odst. 2 písm. a)
+[4] Zákon č. 338/1992 Sb., § 4 odst. 1 písm. z) bod 1.
+[5] Zákon č. 338/1992 Sb., § 12e odst. 1 písm. a)
+[8] Zákon č. 338/1992 Sb., § 8 odst. 1
+[9] Zákon č. 338/1992 Sb., § 2 odst. 2
+[10] Zákon č. 338/1992 Sb., § 3 odst. 1
+[11] Zákon č. 338/1992 Sb., § 1 odst. 1
+[12] Zákon č. 338/1992 Sb., § 11e odst. 1 písm. a)"
+DNV-05;Slang;Musím platit daň z domu, i když v něm nebydlím?;"Ano, daň z nemovitých věcí musíte platit i v případě, že v domě nebydlíte.
+
+Rozhodujícím kritériem pro vznik daňové povinnosti je vlastnictví zdanitelné stavby, nikoliv její faktické užívání k bydlení vlastníkem [3, 5]. Předmětem daně je každá dokončená nebo užívaná stavba na území České republiky [7, 11]. Pokud jste uveden v katastru nemovitostí jako vlastník, jste automaticky poplatníkem daně [3, 5].
+
+Zákon sice stanoví výjimky, kdy je stavba od daně osvobozena (například u držitelů průkazů ZTP či ZTP/P pobírajících určité sociální dávky), ale toto osvobození je striktně vázáno na podmínku, že stavba slouží k jejich trvalému bydlení [12]. Pokud tedy v domě nebydlíte, nemůžete toto konkrétní osvobození využít a daňová povinnost trvá.
+
+Zdroje:
+[3] Zákon č. 338/1992 Sb., § 11d odst. 4 písm. a)
+[5] Zákon č. 338/1992 Sb., § 8 odst. 1
+[7] Zákon č. 338/1992 Sb., § 7 odst. 1
+[11] Zákon č. 338/1992 Sb., § 7 odst. 1 písm. b)
+[12] Zákon č. 338/1992 Sb., § 9 odst. 1 písm. n)"
+DNV-06;Logika;Proč se platí jiná daň za pole a jiná za stavební pozemek?;"Rozdíl vyplývá z odlišného způsobu stanovení základu daně a aplikace sazeb pro konkrétní kategorie pozemků.
+
+U pole (orné půdy, vinic, zahrad či ovocných sadů) se základ daně odvíjí od **hodnoty pozemku**. Ta se vypočte jako součin skutečné výměry a průměrné ceny za 1 m² stanovené vyhláškou pro dané katastrální území podle bonity půdy [2], [4], [6]. Výsledná daň je pak součinem tohoto hodnotového základu a příslušné sazby pro danou skupinu pozemků [1].
+
+Naproti tomu u stavebního pozemku, zastavěné plochy nebo nádvoří je základem daně přímo **fyzická výměra v m²** zjištěná k 1. lednu zdaňovacího období [7]. Sazba daně je u těchto ploch stanovena pevnou částkou za každý 1 m², přičemž u některých typů pozemků může být její výše ovlivněna i počtem obyvatel v obci [5].
+
+Logicky tedy platí: zatímco u zemědělské půdy stát zdaňuje její produkční hodnotu (bonitu), u stavebních a ostatních ploch je rozhodujícím faktorem jejich rozsah a umístění [2], [5], [7].
+
+Zdroje:
+[1] Zákon č. 338/1992 Sb., § 6 odst. 1
+[2] Zákon č. 338/1992 Sb., § 11b odst. 1
+[4] Zákon č. 338/1992 Sb., § 10 odst. 3 písm. a) bod 1.
+[5] Zákon č. 338/1992 Sb., § 6 odst. 3 písm. b)
+[6] Zákon č. 338/1992 Sb., § 5a odst. 1 písm. a)
+[7] Zákon č. 338/1992 Sb., § 5 odst. 3"
+DNV-07;Fakta;Který den v roce je rozhodující pro to, kdo platí daň?;"Rozhodným dnem pro stanovení daně z nemovitých věcí a určení poplatníka je 1. leden roku, na který se daň stanovuje [3].
+
+Z toho vyplývá, že rozhoduje stav platný k tomuto konkrétnímu datu a k jakýmkoliv změnám skutečností rozhodných pro daň, které nastanou v průběhu roku, se již v daném zdaňovacím období nepřihlíží [6]. Pokud tedy dojde k převodu vlastnictví nebo jiné změně po 1. lednu, nemá to na povinnost stanovenou k začátku roku vliv.
+
+Zdroje:
+[3] Zákon č. 338/1992 Sb., § 13b odst. 1
+[6] Zákon č. 338/1992 Sb., § 21 odst. 1 bod 6."
+DNV-08;Definice;Jaký je rozdíl mezi pozemkem a zpevněnou plochou?;"Rozdíl mezi pozemkem a zpevněnou plochou spočívá v jejich účelu, technickém provedení a následném daňovém režimu.
+
+Zpevněnou plochou pozemku je pozemek (nebo jeho část), který je užíván k podnikání nebo je zahrnut v obchodním majetku podnikatele, a zároveň má povrch zpevněný stavbou podle stavebního zákona, ovšem bez svislé nosné konstrukce [3]. Do této kategorie spadají i plochy vleček, bazénů nebo nádrží, pokud samy o sobě nejsou zdanitelnou stavbou [3].
+
+Z hlediska správy daně platí tato pravidla:
+*   **Fikce rozdělení:** Pokud je zpevněnou plochou pouze část pozemku, zákon na ni a na zbývající část pohlíží jako na dva samostatné pozemky [2].
+*   **Základ daně:** U obou typů (obecný pozemek i zpevněná plocha) je základem daně skutečná výměra v m² zjištěná k 1. lednu daného roku [7].
+*   **Vyloučení:** Pokud podmínky pro zpevněnou plochu (např. využití k podnikání) splňuje pouze část pozemku, uplatní se tento specifický režim pouze na tuto dotčenou část [5].
+
+Zatímco pozemek je obecná kategorie (např. ostatní plocha, zastavěná plocha a nádvoří), zpevněná plocha je jeho specifickou formou definovanou kombinací podnikatelského využití a absence svislých nosných konstrukcí [3][4][9].
+
+Zdroje:
+[2] Zákon č. 338/1992 Sb., § 17a odst. 5 písm. c)
+[3] Zákon č. 338/1992 Sb., § 4 odst. 1 písm. p)
+[4] Zákon č. 338/1992 Sb., § 1a odst. 1 písm. m)
+[5] Zákon č. 338/1992 Sb., § 5a odst. 1 písm. e)
+[7] Zákon č. 338/1992 Sb., § 5 odst. 3
+[9] Zákon č. 338/1992 Sb., § 5a odst. 1 písm. j)"
+DNV-09;Struktura;Jak se liší sazba daně pro obytný dům a pro garáž?;"Sazba daně se pro tyto objekty liší z důvodu jejich zařazení do rozdílných skupin zdanitelných staveb. Zatímco obytný dům spadá do skupiny obytných budov, garáž (nebo jednotka užívaná převážně jako garáž) tvoří samostatnou skupinu, která je z kategorie obytných budov a jejich příslušenství výslovně vyjmuta [1], [5].
+
+Základní rozdíly v aplikaci sazeb:
+1. **Obytné domy:** Sazba se uplatní na budovy obytných domů a jejich příslušenství [5]. Pokud je však budova nebo její část užívána k podnikání (vyjma zemědělství, lesnictví a vodního hospodářství) nebo k ubytování, dochází k zákonnému zvýšení daně [6], [8].
+2. **Garáže:** Za garáž se považuje stavba se způsobem využití „garáž“ nebo jednotka, jejíž převažující část plochy slouží jako garáž [1], [4]. Tato skupina podléhá vlastní sazbě a nepovažuje se za příslušenství k obytnému domu [5].
+
+U obou kategorií se daň vypočítává za každý 1 m² a následně se násobí místním koeficientem, který činí 1,0, pokud obec nestanovila koeficient jiný [2], [11].
+
+Zdroje:
+[1] Zákon č. 338/1992 Sb., § 10a odst. 1 písm. c)
+[2] Zákon č. 338/1992 Sb., § 12 odst. 3
+[4] Zákon č. 338/1992 Sb., § 1a odst. 1 písm. a)
+[5] Zákon č. 338/1992 Sb., § 10a odst. 1
+[6] Zákon č. 338/1992 Sb., § 11a odst. 1
+[8] Zákon č. 338/1992 Sb., § 11a odst. 2
+[11] Zákon č. 338/1992 Sb., § 11d odst. 3 písm. a)"
+DNV-10;Odkazy;Kde zákon mluví o osvobození pro stavby určené k ochrané přírody?;"Osvobození od daně pro objekty a plochy související s ochranou přírody nebo krajinnými prvky je v zákoně upraveno následovně:
+
+1.  **Pozemky (zeleně a lesy):** Od daně z pozemků je osvobozena veřejně přístupná zeleň [3]. Dále jsou od daně osvobozeny lesní pozemky v rozsahu, v jakém se na nich nacházejí lesy pod vlivem imisí (zařazené do dvou nejvyšších pásem ohrožení) [9]. Specifické osvobození na 5 let (u zemědělské půdy) a 25 let (u lesů) se vztahuje na pozemky, které byly po rekultivaci vráceny technickým opatřením nebo biologickým zúrodňováním zpět výrobě [2, 4].
+2.  **Stavby a jednotky:** Obecný rámec pro osvobození zdanitelných staveb a jednotek stanoví § 9 odst. 1 [7]. Mezi osvobozené objekty patří stavby ve vlastnictví státu [5] nebo veřejných výzkumných institucí [9].
+3.  **Poměrné osvobození:** Pokud k účelu, který zakládá nárok na osvobození, slouží pouze část stavby nebo jednotky, vypočte se nárok na osvobození z poměru podlahové plochy této části k celkové podlahové ploše nadzemních částí objektu [3].
+4.  **Vazba na stavební pozemky:** Pozemek určený k zastavění stavbou, která bude alespoň z části osvobozena (např. vybrané distribuční soustavy a další specifické stavby), se nepovažuje za stavební pozemek, což vylučuje uplatnění sazeb pro stavební pozemky [12].
+
+Obecná pravidla pro osvobození od daně z pozemků jsou pak zakotvena v § 4 odst. 1 [10].
+
+Zdroje:
+[2] Zákon č. 338/1992 Sb., § 9 odst. 1 písm. o)
+[3] Zákon č. 338/1992 Sb., § 4 odst. 1 písm. z) bod 4.
+[4] Zákon č. 338/1992 Sb., § 4 odst. 1 písm. m)
+[5] Zákon č. 338/1992 Sb., § 9 odst. 1 písm. a)
+[7] Zákon č. 338/1992 Sb., § 9 odst. 1
+[9] Zákon č. 338/1992 Sb., § 9 odst. 1 písm. u)
+[10] Zákon č. 338/1992 Sb., § 4 odst. 1
+[12] Zákon č. 338/1992 Sb., § 1a odst. 2"
+DNV-11;Slang;Jak nahlásit, že jsem přistavěl k chalupě kůlnu?;"Změnu nahlásíte podáním **dílčího daňového přiznání**, ve kterém uvedete pouze nastalé změny (přístavbu kůlny) a nový výpočet celkové daně [3]. Jako vlastník zdanitelné stavby jste povinen tuto změnu oznámit správci daně do **30 dnů** ode dne, kdy nastala [1][3].
+
+V rámci výpočtu daně platí tato pravidla:
+- Pokud se vaše chalupa (rekreační budova) nachází v národním parku nebo v I. zóně chráněné krajinné oblasti, sazba daně se násobí koeficientem **2,0** [2].
+- Pokud podáte daňové přiznání po zákonné lhůtě, ale učiníte tak dobrovolně dříve, než vás k tomu správce daně vyzve, **nevzniká** vám povinnost uhradit pokutu za opožděné tvrzení daně [2].
+
+Zdroje:
+[1] Zákon č. 338/1992 Sb., § 13a odst. 10
+[2] Zákon č. 338/1992 Sb., § 11 odst. 6
+[3] Zákon č. 338/1992 Sb., § 8 odst. 1"
+DNV-12;Logika;Jak se změní moje daň, když z bytu udělám kancelář?;"Vaše daň se zvýší. Změna způsobu užívání bytu na kancelář s sebou nese buď celkové přeřazení jednotky do jiné daňové skupiny, nebo povinnost doplatit zvýšení daně za plochu využívanou k podnikání.
+
+Pravidla pro výpočet jsou následující:
+
+1.  **Přeřazení jednotky:** Pokud bude kancelář (podnikání) zabírat převažující část podlahové plochy bytu, celá zdanitelná jednotka se zařadí do skupiny pro ostatní druhy podnikání [5, 6].
+2.  **Zvýšení daně u částečného využití:** Pokud kancelář netvoří převažující část plochy, vzniká povinnost uhradit zvýšení daně. To se vypočte jako součin plochy užívané k podnikání a rozdílu mezi sazbou pro podnikání a sazbou pro zdanitelnou jednotku (byt) [1, 8].
+3.  **Absence výjimek:** Jelikož kancelář pro běžné podnikání nespadá pod zemědělskou prvovýrobu, lesní ani vodní hospodářství, nelze uplatnit osvobození od tohoto zvýšení daně [2, 4, 7].
+4.  **Pravidlo nejvyšší sazby:** V případě, že by plocha pro bydlení a plocha pro kancelář byly přesně v poměru 50:50 a nebylo by možné určit převažující účel, musíte jednotku povinně zařadit do skupiny s vyšší sazbou daně [6, 11].
+5.  **Místní koeficienty:** Na výslednou výši daně má vliv i případný místní koeficient stanovený obcí pro dané katastrální území nebo městskou část [5].
+
+Zdroje:
+[1] Zákon č. 338/1992 Sb., § 11a odst. 2 písm. a)
+[2] Zákon č. 338/1992 Sb., § 11a odst. 2 písm. b)
+[4] Zákon č. 338/1992 Sb., § 11a odst. 1
+[5] Zákon č. 338/1992 Sb., § 12 odst. 6
+[6] Zákon č. 338/1992 Sb., § 10a odst. 2
+[7] Zákon č. 338/1992 Sb., § 11d odst. 2 písm. a)
+[8] Zákon č. 338/1992 Sb., § 11a odst. 2 písm. b) bod 2.
+[11] Zákon č. 338/1992 Sb., § 11 odst. 2"
+SP-01;Fakta;Jaká je aktuální procentuální sazba pojistného pro OSVČ?;"Základní sazba pojistného pro OSVČ činí **29,2 %** z vyměřovacího základu. Tato částka se skládá z 28 % na důchodové pojištění a 1,2 % na státní politiku zaměstnanosti [3].
+
+V závislosti na specifické situaci poplatníka se uplatňují tyto další sazby a úlevy:
+
+*   **Nemocenské pojištění:** Pokud se OSVČ k nemocenskému pojištění přihlásí dobrovolně, platí z určeného měsíčního základu další **2,7 %** [7].
+*   **Starobní důchodci:** OSVČ, která dosáhla důchodového věku a má nárok na výplatu starobního důchodu v plné výši, může uplatnit slevu na pojistném ve výši 6,5 %. V takovém případě hradí sníženou sazbu **22,7 %** [12].
+*   **Paušální režim:** U OSVČ v paušálním režimu se placení záloh řídí zákonem o daních z příjmů a odvíjí se od zvoleného pásma, nikoliv od přímého výpočtu těmito procentními sazbami [11].
+
+Zdroje:
+[3] Zákon č. 589/1992 Sb., § 7 odst. 1 písm. e) bod 1.
+[7] Zákon č. 589/1992 Sb., § 7 odst. 1 písm. e) bod 2.
+[11] Zákon č. 589/1992 Sb., § 13a odst. 9
+[12] Zákon č. 589/1992 Sb., § 14bb odst. 1 a § 14 odst. 1"
+SP-02;Definice;Co je to vyměřovací základ a jak se vypočítá?;"Vyměřovací základ je peněžní částka, ze které se procentní sazbou vypočítává pojistné na sociální zabezpečení. Jeho definice a způsob výpočtu se liší podle kategorie poplatníka:
+
+### 1. Zaměstnanec a zaměstnavatel
+*   **Zaměstnanec:** Vyměřovacím základem je úhrn příjmů (v peněžní i nepeněžní formě), které jsou předmětem daně z příjmů fyzických osob, nejsou od ní osvobozeny a které zaměstnavatel zúčtoval v souvislosti se zaměstnáním zakládajícím účast na nemocenském pojištění [3].
+*   **Zaměstnavatel:** Vyměřovacím základem je součet vyměřovacích základů všech jeho zaměstnanců. Do tohoto úhrnu se však nezahrnují zaměstnanci vykonávající rizikové zaměstnání, zdravotničtí záchranáři, operátoři zdravotnického operačního střediska a členové jednotky hasičského záchranného sboru podniku [1].
+
+### 2. Osoba samostatně výdělečně činná (OSVČ)
+Vyměřovacím základem je částka, kterou si OSVČ sama určí, ale musí respektovat zákonná minima a maxima:
+*   **Obecné pravidlo:** Částka musí činit nejméně 55 % daňového základu (platí od roku 2024; před rokem 2024 činila 50 %) [9].
+*   **Minimální vyměřovací základ (hlavní činnost):** Musí činit nejméně 30 % průměrné mzdy v roce 2024, 35 % v roce 2025 a 40 % od roku 2026 [5].
+*   **Zvýhodnění pro začínající OSVČ:** Pokud OSVČ zahájila hlavní činnost a v posledních 20 kalendářních letech před zahájením nebyla osobou samostatně výdělečnou, činí její minimální měsíční základ pouze 25 % průměrné mzdy, a to v roce zahájení a v následujících dvou letech [5][10].
+*   **Vedlejší činnost:** Minimální měsíční základ činí 11 % průměrné mzdy [5].
+*   **Paušální režim:** Vyměřovací základ je pevně stanoven jako součin měsíčního základu pro dané pásmo paušálního režimu a počtu měsíců v tomto režimu [2]. Tento základ nesmí být nižší než dvojnásobek částky rozhodné pro účast na nemocenském pojištění [11].
+
+### 3. Smluvní zaměstnanci
+U smluvního zaměstnance (pracujícího pro zahraničního zaměstnavatele ze státu bez mezinárodní smlouvy) je základem příjem zúčtovaný smluvním zaměstnavatelem v ČR. Pokud tento příjem obsahuje i částku za zprostředkování práce, snižuje se základ pro výpočet nejvýše o 40 % [6].
+
+### Rozhodné období
+Standardním rozhodným obdobím pro zjištění vyměřovacího základu je kalendářní měsíc [7]. U OSVČ se pro účely ročního vyúčtování vychází z kalendářního roku [9].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 5a odst. 1 písm. a)
+[2] Zákon č. 589/1992 Sb., § 5b odst. 3
+[3] Zákon č. 589/1992 Sb., § 5 odst. 1
+[5] Zákon č. 589/1992 Sb., § 14 odst. 5
+[6] Zákon č. 589/1992 Sb., § 5 odst. 4
+[7] Zákon č. 589/1992 Sb., § 7 odst. 1
+[9] Zákon č. 589/1992 Sb., § 5b odst. 1
+[10] Zákon č. 589/1992 Sb., § 5b odst. 2 písm. c)
+[11] Zákon č. 589/1992 Sb., § 24a odst. 4"
+SP-03;Struktura;Existuje nějaký strop, nad který se pojistné neplatí?;"Ano, existuje tzv. maximální vyměřovací základ, který slouží jako strop pro odvod pojistného. Tento limit je stanoven ve výši **čtyřicetiosminásobku průměrné mzdy** pro daný kalendářní rok [3], [4].
+
+Uplatnění tohoto stropu se liší podle typu poplatníka:
+
+*   **Zaměstnanec:** Pokud u jednoho zaměstnavatele dosáhne součet vyměřovacích základů v kalendářním roce tohoto maxima, z částky nad tento limit již zaměstnanec pojistné neplatí [1], [6]. Pokud má zaměstnanec více zaměstnání u téhož zaměstnavatele, vyměřovací základy se pro účely limitu sčítají [1].
+*   **Zaměstnavatel:** Do vyměřovacího základu zaměstnavatele se nezahrnuje částka, která přesahuje maximální vyměřovací základ zaměstnance, ze které již zaměstnanec pojistné neodvádí [5].
+*   **OSVČ:** Pro osobu samostatně výdělečně činnou platí pro pojistné na důchodové pojištění a příspěvek na státní politiku zaměstnanosti stejný strop ve výši čtyřicetiosminásobku průměrné mzdy [4], [9].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 15a odst. 2 písm. a)
+[3] Zákon č. 589/1992 Sb., § 15a odst. 1
+[4] Zákon č. 589/1992 Sb., § 15a odst. 5
+[5] Zákon č. 589/1992 Sb., § 15a odst. 4
+[6] Zákon č. 589/1992 Sb., § 16 odst. 1
+[9] Zákon č. 589/1992 Sb., § 16 odst. 5"
+SP-04;Odkazy;Jak zákon o pojistném odkazuje na výpočet daně z příjmů?;"Zákon o pojistném na sociální zabezpečení přímo navazuje na zákon o daních z příjmů při definici vyměřovacích základů následovně:
+
+*   **U zaměstnanců:** Vyměřovacím základem je úhrn příjmů, které jsou předmětem daně z příjmů fyzických osob a nejsou od této daně osvobozeny [1]. Do základu se zahrnují i příjmy, které by zdanění v České republice podléhaly, pokud by se na ně daňová povinnost v ČR vztahovala [1].
+*   **U OSVČ (standardní režim):** Zákon definuje vyměřovací základ jako částku určenou samotnou osobou, která však musí činit minimálně zákonem stanovené procento z daňového základu. Tímto daňovým základem se rozumí dílčí základ daně z příjmů ze samostatné činnosti [6].
+*   **Změna sazeb pro OSVČ:** Dochází k posunu minimální hranice výpočtu: pro období před rokem 2024 činí minimum 50 % daňového základu, od roku 2024 se tato hranice zvyšuje na 55 % daňového základu [6].
+*   **U OSVČ v paušálním režimu:** Výpočet se neodvíjí od skutečného daňového základu, ale je pevně stanoven jako součin počtu měsíců v paušálním režimu a měsíčního vyměřovacího základu určeného pro dané pásmo paušální daně [2].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 5 odst. 1
+[2] Zákon č. 589/1992 Sb., § 5b odst. 3
+[6] Zákon č. 589/1992 Sb., § 5b odst. 1"
+SP-05;Slang;Kolik mám platit na sociální, když začínám podnikat?;"Při zahájení hlavní samostatné výdělečné činnosti platí pro výpočet záloh na sociální pojištění tyto podmínky:
+
+**1. Hlavní činnost – zvýhodnění pro začínající**
+V kalendářním roce, kdy zahajujete činnost, a v následujících dvou kalendářních letech činí váš minimální měsíční vyměřovací základ **25 % průměrné mzdy** [1, 9]. 
+
+Toto zvýhodnění však **neplatí**, pokud jste v období 20 kalendářních let před rokem zahájení činnosti již jako OSVČ působili. V takovém případě musíte platit standardní minimum pro hlavní činnost, které činí:
+*   30 % průměrné mzdy v roce 2024,
+*   35 % průměrné mzdy v roce 2025,
+*   40 % průměrné mzdy od roku 2026 [1].
+
+**2. Vedlejší činnost**
+Pokud je vaše podnikání považováno za vedlejší činnost (např. při zaměstnání, studiu či důchodu), činí minimální měsíční vyměřovací základ **11 % průměrné mzdy** [1].
+
+**3. Výpočet pojistného**
+Vyměřovací základ pro výpočet pojistného činí od roku 2024 standardně **55 % vašeho daňového základu** (příjmy minus výdaje). Pokud je tento výpočet nižší než výše uvedená minima, musíte odvést pojistné z těchto stanovených minimálních základů [5].
+
+**4. Paušální režim**
+Vstoupíte-li do paušálního režimu, vyměřovací základ je pevně stanoven podle zvoleného pásma a nemusíte podávat přehled o příjmech a výdajích [3, 12]. Pro minimální odvod v paušálním režimu platí, že základ nesmí být nižší než dvojnásobek částky rozhodné pro účast na nemocenském pojištění [2].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 14 odst. 5
+[2] Zákon č. 589/1992 Sb., § 24a odst. 4
+[3] Zákon č. 589/1992 Sb., § 5b odst. 3
+[5] Zákon č. 589/1992 Sb., § 5b odst. 1 a § 14 odst. 2
+[9] Zákon č. 589/1992 Sb., § 5b odst. 2 písm. c)
+[10] Zákon č. 589/1992 Sb., § 3 odst. 4
+[12] Zákon č. 589/1992 Sb., § 14bb odst. 2"
+SP-06;Logika;Proč musím platit zálohy, i když jsem ve ztrátě?;"Povinnost platit zálohy na pojistné vyplývá ze zákonem stanoveného **minimálního měsíčního vyměřovacího základu**, který musíte dodržet bez ohledu na to, zda dosahujete zisku, nebo jste ve ztrátě [1, 3].
+
+Zde jsou konkrétní pravidla, která určují vaši povinnost:
+
+*   **Hlavní činnost:** Pokud vykonáváte hlavní samostatnou výdělečnou činnost, váš měsíční vyměřovací základ pro výpočet záloh nesmí klesnout pod stanovené procento průměrné mzdy. Pro rok 2024 je to 30 %, pro rok 2025 je to 35 % a od roku 2026 se hranice zvyšuje na 40 % průměrné mzdy [3].
+*   **Nové podnikání:** Pokud jste zahájili hlavní činnost a v posledních 20 letech jste nebyli OSVČ, platí pro vás v roce zahájení a následujících dvou letech úlevové minimum ve výši 25 % průměrné mzdy [3].
+*   **Vedlejší činnost:** U vedlejší činnosti je minimální měsíční základ stanoven na 11 % průměrné mzdy [3].
+*   **Výpočet z minulosti:** Zálohy se standardně odvozují z daňového základu předchozího roku (55 % průměrného měsíčního základu). Pokud je však tento výpočet nižší než zákonné minimum, musíte platit právě ono minimum [10].
+
+**Výjimka pro nově začínající:**
+Zálohy nejste povinni platit v kalendářním roce, kdy jste zahájili činnost, a v roce bezprostředně následujícím, pokud jste v posledních **5 letech** před zahájením nebyli OSVČ [6]. Tato výjimka se však nepoužije, pokud jste poplatníkem v paušálním režimu [6].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 13a odst. 1
+[3] Zákon č. 589/1992 Sb., § 14 odst. 5
+[6] Zákon č. 589/1992 Sb., § 14 odst. 9
+[10] Zákon č. 589/1992 Sb., § 14 odst. 2 a § 5b odst. 1"
+SP-07;Fakta;Jaká je lhůta o podání přehledu o příjmech a výdajích?;"Lhůta pro podání přehledu o příjmech a výdajích je nejpozději **jeden měsíc** ode dne uplynutí lhůty pro podání daňového přiznání k dani z příjmů fyzických osob za daný kalendářní rok [3].
+
+Z této povinnosti existují tyto zásadní výjimky:
+1.  **Paušální režim:** Povinnost podat přehled **nevzniká** osobě, jejíž daň z příjmů za dané zdaňovací období je rovna paušální dani [3].
+2.  **Pravděpodobné pojistné:** Přehled **nepodává** ani OSVČ, která uhradila pravděpodobnou výši pojistného stanovenou úřadem, pokud je tato částka vyšší, než by činila výše pojistného podle přehledu [1].
+
+Logické souvislosti a specifika:
+*   **Daňový poradce:** Pokud daňové přiznání zpracovává daňový poradce, lhůta pro podání přehledu se odvíjí od této prodloužené lhůty. Tuto skutečnost je nutné v přehledu uvést [3].
+*   **Paušální režim s výhradou:** Pokud OSVČ byla v paušálním režimu, ale její daň nakonec **není rovna** paušální dani, přehled podat musí. Pokud jej podá předčasně, hledí se na něj, jako by byl podán v poslední den lhůty [3].
+*   **Doložení vedlejší činnosti:** Pokud OSVČ v přehledu uvádí údaje o vedlejší činnosti, musí je doložit nejpozději do konce kalendářního měsíce následujícího po měsíci, ve kterém přehled podala [3].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 23l odst. 4
+[3] Zákon č. 589/1992 Sb., § 15 odst. 1"
+SP-08;Definice;Kdy je OSVČ povinna platit pojistné na sociální zabezpečení?;"OSVČ je povinna platit pojistné na důchodové pojištění a příspěvek na státní politiku zaměstnanosti v případě, že je účastna důchodového pojištění [4]. Tato povinnost se plní formou pravidelných měsíčních záloh a následného doplatku na pojistném [2].
+
+**Pravidla a výjimky pro platbu:**
+
+*   **Paušální režim:** Pokud je daň OSVČ rovna paušální dani, nevzniká povinnost odvádět pojistné přímo územní správě sociálního zabezpečení. V tomto případě je pojistné spravováno správcem daně jako součást paušální zálohy [1].
+*   **Nemocenské pojištění:** Platba pojistného na nemocenské pojištění je povinná pouze tehdy, pokud se OSVČ k tomuto pojištění dobrovolně přihlásila a je ho účastna [4].
+*   **Vedlejší činnost:** Při výkonu vedlejší samostatné výdělečné činnosti vzniká povinnost platit zálohy na pojistné od kalendářního měsíce, ve kterém se OSVČ přihlásila k účasti na pojištění, nebo pokud její příjem v předchozím roce dosáhl rozhodné výše [6], [11].
+*   **Rozhodné období:** Pojistné se zjišťuje a odvádí za rozhodné období, kterým je kalendářní rok [5], [9].
+
+Základem pro výpočet pojistného je vyměřovací základ, který u standardní OSVČ činí nejméně 55 % daňového základu (platí od roku 2024), zatímco u OSVČ v paušálním režimu je dán součinem měsíčního vyměřovacího základu pro dané pásmo a počtu měsíců v tomto režimu [8], [12].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 13a odst. 1
+[2] Zákon č. 589/1992 Sb., § 13 odst. 2
+[4] Zákon č. 589/1992 Sb., § 3 odst. 4
+[5] Zákon č. 589/1992 Sb., § 14bb odst. 2
+[6] Zákon č. 589/1992 Sb., § 13a odst. 1 písm. a)
+[8] Zákon č. 589/1992 Sb., § 14 odst. 2 a související § 5b odst. 1
+[9] Zákon č. 589/1992 Sb., § 6 odst. 2
+[11] Zákon č. 589/1992 Sb., § 13a odst. 2
+[12] Zákon č. 589/1992 Sb., § 5b odst. 3"
+SP-09;Struktura;Jak se liší odvod pojištění u hlavní a vedlejší činnosti?;"Odvod pojistného u hlavní a vedlejší samostatné výdělečné činnosti se liší především v nastavení minimálního měsíčního vyměřovacího základu, od kterého se odvíjí výše plateb.
+
+**Hlavní samostatná výdělečná činnost**
+U hlavní činnosti je minimální měsíční vyměřovací základ stanoven jako procentní podíl z průměrné mzdy, který se v čase zvyšuje:
+*   **30 %** průměrné mzdy v roce 2024 [2].
+*   **35 %** průměrné mzdy v roce 2025 [2].
+*   **40 %** průměrné mzdy od roku 2026 [2].
+
+Pro začínající podnikatele (v roce zahájení a ve dvou následujících letech) platí zvýhodněný minimální základ ve výši **25 %** průměrné mzdy [2]. Tato výjimka se však nepoužije, pokud byla osoba samostatně výdělečně činnou kdykoliv v období 20 let před zahájením aktuální činnosti [2].
+
+**Vedlejší samostatná výdělečná činnost**
+Pro vedlejší činnost je stanoven výrazně nižší minimální měsíční vyměřovací základ, a to ve výši **11 %** průměrné mzdy [2]. Povinnost platit pojistné u vedlejší činnosti vzniká pouze při splnění zákonných podmínek účasti na pojištění [10].
+
+**Společná pravidla pro výpočet**
+Skutečný vyměřovací základ pro obě formy činnosti činí od roku 2024 nejméně **55 % daňového základu** [5]. Pokud je takto vypočtený základ nižší než zákonem stanovené měsíční minimum (viz výše), uplatní se pro odvod pojistného právě toto minimum [4], [5]. Maximální vyměřovací základ je pro obě skupiny shodně omezen na 48násobek průměrné mzdy [8].
+
+Zdroje:
+[2] Zákon č. 589/1992 Sb., § 14 odst. 5
+[4] Zákon č. 589/1992 Sb., § 5b odst. 2 písm. c)
+[5] Zákon č. 589/1992 Sb., § 5b odst. 1
+[8] Zákon č. 589/1992 Sb., § 16 odst. 5
+[10] Zákon č. 589/1992 Sb., § 3 odst. 4"
+SP-10;Odkazy;Kde najdu pravidla pro sankce a penále při pozdní platbě?;"Pravidla pro sankce a penále při pozdní platbě pojistného jsou upravena v **Zákoně č. 589/1992 Sb.**, konkrétně v ustanoveních **§ 20 a násl.**
+
+Základní principy fungování sankcí:
+
+*   **Vznik povinnosti:** Penále vzniká automaticky, pokud pojistné nebylo zaplaceno ve stanovené lhůtě nebo bylo zaplaceno v nižší částce [1].
+*   **Sazba penále:** Výše se řídí předpisy občanského práva o výši úroku z prodlení [1].
+*   **Časové vymezení:** Penále se počítá za každý kalendářní den. Začíná dnem následujícím po dni splatnosti a končí dnem zaplacení dlužného pojistného včetně [4]. 
+*   **Specifikum pro OSVČ:** U dlužných záloh na pojistné končí povinnost platit penále dnem podání přehledu o příjmech a výdajích (pokud byl podán včas) [2], nebo posledním dnem lhůty pro jeho podání (pokud včas podán nebyl) [6].
+*   **Zmeškání údajů:** Pokud plátce nesdělí potřebné údaje nebo nepodá přehled, platí penále z pravděpodobné výše pojistného [3].
+*   **Slevy na pojistném:** Pokud uplatníte slevu ve vyšší částce, než na jakou máte nárok, vzniklý rozdíl se považuje za dluh na pojistném, ze kterého plyne penále [12]. Naopak u neodvedené slevy (uplatnění v nižší částce) nedoplatek nevzniká [12].
+
+**Výjimky a omezení (negativní vymezení):**
+Penále se **neplatí** za dobu ode dne následujícího po vydání platebního výměru do dne předcházejícího jeho vykonatelnosti, pokud dlužník zaplatí pojistné nejpozději v den vykonatelnosti tohoto výměru [7].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 20 odst. 1
+[2] Zákon č. 589/1992 Sb., § 20 odst. 2 písm. a)
+[3] Zákon č. 589/1992 Sb., § 22b odst. 5
+[4] Zákon č. 589/1992 Sb., § 20 odst. 2
+[6] Zákon č. 589/1992 Sb., § 20 odst. 2 písm. b)
+[7] Zákon č. 589/1992 Sb., § 20 odst. 5
+[12] Zákon č. 589/1992 Sb., § 25d odst. 1 písm. c)"
+SP-11;Slang;Co se stane, když zapomenu podat přehled včas?;"Pokud nepodáte přehled o příjmech a výdajích včas, vystavujete se riziku stanovení pojistného odhadem a vzniku penále.
+
+**Důsledky opožděného podání:**
+
+1.  **Stanovení pravděpodobné výše pojistného:** Pokud přehled nepodáte ani v náhradní lhůtě určené v písemné výzvě, správa sociálního zabezpečení může rozhodnutím stanovit tzv. pravděpodobnou výši pojistného [8].
+2.  **Penále z dlužných záloh:** Posledním dnem, za který platíte penále z dlužných záloh na pojistné, je v tomto případě poslední den lhůty stanovené pro podání přehledu [9]. (Pokud byste přehled podali včas, penále by končilo dnem podání přehledu [1]).
+3.  **Penále z pravděpodobné výše pojistného:** Jste povinni platit penále z dlužné částky pravděpodobné výše pojistného, a to od dne následujícího po původním dni splatnosti až do dne, kdy přehled skutečně předložíte (včetně tohoto dne) [5].
+4.  **Doplacení rozdílu:** Pokud je penále z pravděpodobné výše pojistného nižší než penále vypočtené podle vašich skutečných údajů v dodatečně podaném přehledu, musíte doplatit rozdíl. Pokud je vyšší, platí se tato vyšší částka [5].
+5.  **Výše a zaokrouhlení:** Výše penále se řídí občanskoprávními předpisy o úroku z prodlení [1, 3]. Každá platba penále se zaokrouhluje na celé koruny nahoru [7].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 20 odst. 2 písm. a)
+[3] Zákon č. 589/1992 Sb., § 20 odst. 1
+[5] Zákon č. 589/1992 Sb., § 22b odst. 5
+[7] Zákon č. 589/1992 Sb., § 20 odst. 5
+[8] Zákon č. 589/1992 Sb., § 22b odst. 1
+[9] Zákon č. 589/1992 Sb., § 20 odst. 2 písm. b)"
+SP-12;Logika;Z čeho se stanoví vyměřovací základ OSVČ pro sociální pojištění?;"Vyměřovací základ OSVČ pro pojistné na důchodové pojištění a státní politiku zaměstnanosti tvoří částka, kterou si tato osoba určí sama, avšak při dodržení zákonných minimálních hranic [2].
+
+**Základní pravidla pro stanovení základu:**
+*   **Procentuální podíl z daňového základu:** Od roku 2024 činí základ nejméně 55 % daňového základu (před rokem 2024 to bylo 50 %). Daňovým základem se rozumí dílčí základ daně z příjmů ze samostatné činnosti [2][9].
+*   **Minimální měsíční základ (hlavní činnost):** Pro rok 2024 je stanoven na 30 % průměrné mzdy, pro rok 2025 na 35 % a od roku 2026 na 40 % průměrné mzdy [7].
+*   **Zvýhodnění pro začínající OSVČ:** V roce zahájení hlavní činnosti a ve dvou následujících letech platí snížené minimum 25 % průměrné mzdy. Toto zvýhodnění se však nepoužije, pokud osoba vykonávala samostatnou výdělečnou činnost kdykoliv v období 20 kalendářních let před rokem zahájení aktuální činnosti [6][7].
+*   **Vedlejší činnost:** Minimální měsíční základ činí 11 % průměrné mzdy [7].
+*   **Paušální režim:** U OSVČ v paušálním režimu je vyměřovací základ pevně dán jako součin měsíčního základu pro dané pásmo a počtu měsíců v tomto režimu [1][5].
+
+**Logické souvislosti a výjimky:**
+*   Pokud OSVČ kombinuje hlavní a vedlejší činnost, u které není účastna pojištění, základ se poměrně krátí podle počtu měsíců výkonu konkrétní činnosti [2].
+*   Z rozhodného období se vylučují kalendářní měsíce, v nichž měla OSVČ po celý měsíc nárok na výplatu nemocenského, peněžité pomoci v mateřství nebo dlouhodobého ošetřovného [2][6].
+*   Rozhodným obdobím pro zjištění a výpočet je vždy kalendářní rok, za který se pojistné platí [5][12].
+
+Zdroje:
+[1] Zákon č. 589/1992 Sb., § 5b odst. 3
+[2] Zákon č. 589/1992 Sb., § 5b odst. 1
+[5] Zákon č. 589/1992 Sb., § 14bb odst. 2
+[6] Zákon č. 589/1992 Sb., § 5b odst. 2 písm. c)
+[7] Zákon č. 589/1992 Sb., § 14 odst. 5
+[9] Zákon č. 589/1992 Sb., § 14 odst. 2
+[12] Zákon č. 589/1992 Sb., § 6 odst. 2"
+U-01;Fakta;Od jaké výše obratu musí mít firma povinně audit?;"Povinnost mít účetní závěrku ověřenou auditorem vzniká primárně **velkým účetním jednotkám** [4]. Aby byla firma klasifikována jako velká účetní jednotka, musí k rozvahovému dni překročit alespoň dvě ze tří stanovených hraničních hodnot, přičemž zákon určuje pro obrat hranice **240 000 000 Kč** a **1 200 000 000 Kč** [2][5].
+
+Z pravidel pro kategorizaci a audit vyplývají tyto skutečnosti:
+1.  **Povinný audit pro velké jednotky:** Pokud firma překročí dvě hraniční hodnoty (včetně obratu nad 1 200 000 000 Kč), musí mít audit vždy, s výjimkou vybraných jednotek, které nejsou subjekty veřejného zájmu [4][5].
+2.  **Audit na základě zvláštního předpisu:** Bez ohledu na výši obratu musí mít audit ty jednotky, kterým tuto povinnost ukládá specifický zákon [4][7].
+3.  **Hranice pro menší jednotky:** Malou účetní jednotkou je firma, která nepřekračuje obrat **22 000 000 Kč** (hranice pro mikro jednotky) a zároveň splňuje další limity [1]. Pokud jednotka tyto limity nepřekračuje, povinnost auditu se na ni podle obecného pravidla pro velké jednotky nevztahuje.
+4.  **Skupiny:** U středních skupin účetních jednotek je rozhodnou hranicí pro konsolidovaný obrat částka **240 000 000 Kč** [6].
+
+Zdroje:
+[1] Zákon č. 563/1991 Sb., § 1b odst. 2
+[2] Zákon č. 563/1991 Sb., § 1b odst. 3 písm. b)
+[4] Zákon č. 563/1991 Sb., § 20 odst. 1 písm. a)
+[5] Zákon č. 563/1991 Sb., § 1d odst. 4
+[6] Zákon č. 563/1991 Sb., § 1c odst. 2
+[7] Zákon č. 563/1991 Sb., § 21 odst. 7"
+U-02;Definice;Kdo všechno se považuje za účetní jednotku?;"Účetní jednotky jsou subjekty, na které se vztahuje působnost zákona o účetnictví [3, 6]. Konkrétně se jimi rozumí:
+
+*   **Subjekty účtující podvojně:** Právnické a fyzické osoby, které vedou účetnictví v plném nebo zjednodušeném rozsahu a účtují o stavu a pohybu majetku, jiných aktiv, závazků (včetně dluhů), nákladech, výnosech a výsledku hospodaření [4, 11].
+*   **Bankovní instituce:** Banky a spořitelní či úvěrní družstva [10].
+*   **Subjekty v režimu jednoduchého účetnictví:** Jednotky, které při zahájení činnosti splňují předpoklad pro vedení jednoduchého účetnictví k rozvahovému dni prvního období [10].
+*   **Vybrané účetní jednotky:** Specifické subjekty definované pro účely předávání záznamů do centrálního systému účetních informací státu [9, 12].
+
+Z logiky věci platí, že pokud subjekt nevede jednoduché účetnictví na základě zákonné výjimky, je povinen účtovat podvojně [4]. Zároveň platí, že pokud vybraná účetní jednotka podléhá povinnosti předávat data státu, vztahují se na ni přísnější pravidla pro uspořádání analytických a podrozvahových účtů [5, 12]. Veškeré tyto jednotky jsou povinny vést účetnictví tak, aby podávalo věrný a poctivý obraz finanční situace pro potřeby rozhodování uživatelů [8].
+
+Zdroje:
+[3] Zákon č. 563/1991 Sb., § 13 odst. 2
+[4] Zákon č. 563/1991 Sb., § 2 odst. 1
+[5] Zákon č. 563/1991 Sb., § 14 odst. 1
+[6] Zákon č. 563/1991 Sb., § 1 odst. 2
+[8] Zákon č. 563/1991 Sb., § 8 odst. 1
+[9] Zákon č. 563/1991 Sb., § 37a odst. 2 písm. l)
+[10] Zákon č. 563/1991 Sb., § 1a odst. 1 písm. b)
+[11] Zákon č. 563/1991 Sb., § 3 odst. 1
+[12] Zákon č. 563/1991 Sb., § 4 odst. 8 písm. o)"
+U-03;Struktura;Jaké jsou povinné součásti účetní závěrky pro malou firmu?;"Povinnou součástí účetní závěrky je rozvaha (bilance) [3]. Přesný rozsah a způsob sestavení této závěrky, tedy zda bude vyhotovena v plném nebo zkráceném rozsahu, určuje prováděcí právní předpis na základě kategorie, do které účetní jednotka spadá [2][4]. 
+
+Pokud je firma malou nebo mikro účetní jednotkou a nemá zákonnou povinnost mít účetní závěrku ověřenou auditorem, uplatňuje specifické metody vedení účetnictví určené pro tyto kategorie [1]. Obsahové vymezení položek a uspořádání závěrky pro jednotlivé skupiny účetních jednotek je pak stanoveno prováděcím předpisem, který jsou jednotky povinny dodržovat [4].
+
+Zdroje:
+[1] Zákon č. 563/1991 Sb., § 9 odst. 3 písm. b)
+[2] Zákon č. 563/1991 Sb., § 18 odst. 3 písm. e)
+[3] Zákon č. 563/1991 Sb., § 18 odst. 1 písm. a)
+[4] Zákon č. 563/1991 Sb., § 13a odst. 1 písm. f) a § 4 odst. 8"
+U-04;Odkazy;Jak zákon o účetnictví odkazuje na oceňování majetku v jiných předpisech?;"Zákon o účetnictví odkazuje na oceňování v jiných předpisech především v případech, kdy zvláštní právní předpis přímo ukládá ocenění majetku a závazků reálnou hodnotou. Toto ocenění stanovené podle zvláštních právních předpisů se uplatní v situacích, kdy nelze postupovat podle standardních oceňovacích metod (např. tržní hodnotou či kvalifikovaným odhadem) [2].
+
+Dále se odkaz na zvláštní právní předpisy používá pro vymezení a stanovení výše jiných rezerv, které doplňují obecný rámec rezerv určených k pokrytí jasně definovaných závazků a rizik [10]. V rámci mezinárodního kontextu zákon akceptuje u konsolidovaných účetních závěrek a výročních zpráv ověření a postupy podle práva jiného státu Evropské unie, kterým se řídí konsolidující osoba [3].
+
+Zdroje:
+[2] Zákon č. 563/1991 Sb., § 27 odst. 3 písm. d)
+[3] Zákon č. 563/1991 Sb., § 22aa odst. 2 písm. b)
+[10] Zákon č. 563/1991 Sb., § 26 odst. 3"
+U-05;Slang;Musím udělat závěrku, i když jsem nic neprodal?;"Ano, povinnost sestavit účetní závěrku máte i v případě, že jste v daném období neuskutečnili žádný prodej. 
+
+Povinnost sestavit účetní závěrku (řádnou, mimořádnou nebo mezitímní) je vázána na status účetní jednotky, nikoliv na objem jejího obratu nebo podnikatelskou aktivitu [6]. Účetní jednotky jsou povinny uvádět v účetní závěrce informace podle stavu ke konci rozvahového dne [5]. I při nulových tržbách musí závěrka reflektovat aktuální stav majetku a závazků účetní jednotky.
+
+Pokud byste závěrku nesestavili, dopouštíte se přestupku [2]. Výjimka z povinnosti sestavit mezitímní účetní závěrku nastává pouze tehdy, pokud má účetní jednotka současně povinnost sestavit řádnou nebo mimořádnou účetní závěrku [7].
+
+Zdroje:
+[2] Zákon č. 563/1991 Sb., § 37a odst. 1
+[5] Zákon č. 563/1991 Sb., § 32m odst. 2
+[6] Zákon č. 563/1991 Sb., § 7 odst. 4
+[7] Zákon č. 563/1991 Sb., § 1 odst. 2 písm. h)"
+U-06;Logika;Proč nemůžu dát do nákladů celou cenu auta hned při nákupu?;"Automobil nelze zahrnout do nákladů jednorázově při nákupu, protože zákon ukládá povinnost odpisovat majetek postupně v průběhu jeho používání na základě odpisového plánu [1]. Tento postup zajišťuje, že v nákladech zohledňujete postupné snižování hodnoty majetku a veškerá předvídatelná rizika spojená s jeho držbou [3].
+
+Majetek smíte odepsat maximálně do výše jeho ocenění v účetnictví [1]. Pravidlo postupného odpisování platí i u specifických forem užívání, jako je finanční leasing, kde majetek odpisuje vlastník poskytující jej k užívání [2]. Z povinnosti sestavit odpisový plán logicky vyplývá, že jednorázové uplatnění celé pořizovací ceny do nákladů v okamžiku pořízení není přípustné.
+
+Zdroje:
+[1] Zákon č. 563/1991 Sb., § 28 odst. 6
+[2] Zákon č. 563/1991 Sb., § 13a odst. 1 písm. c)
+[3] Zákon č. 563/1991 Sb., § 25 odst. 3"
+U-07;Fakta;Jak dlouho se musí archivovat účetní závěrka?;"Účetní závěrku musíte uschovávat po dobu 10 let [1]. Tato lhůta začíná běžet koncem účetního období, kterého se daná závěrka týká [2].
+
+Zatímco pro běžné účetní doklady, účetní knihy nebo inventurní soupisy platí kratší pětiletá archivační lhůta [9], pro účetní závěrku a výroční zprávu je zákonem stanovena lhůta prodloužená [1]. 
+
+Z tohoto pravidla existuje specifická výjimka: Pokud se účetní závěrka vztahuje k převodu majetku na jiné právnické nebo fyzické osoby provedenému podle zvláštních právních předpisů, nelze ji vyřadit po uplynutí obecné desetileté lhůty. V takovém případě musíte závěrku uschovávat do té doby, dokud Ministerstvo financí neudělí souhlas k jejímu vyřazení [3].
+
+Při zániku účetní jednotky přechází povinnost úschovy na právního nástupce, případně na likvidátora či insolvenčního správce [2].
+
+Zdroje:
+[1] Zákon č. 563/1991 Sb., § 31 odst. 2 písm. a)
+[2] Zákon č. 563/1991 Sb., § 31 odst. 3 písm. a)
+[3] Zákon č. 563/1991 Sb., § 32 odst. 4
+[9] Zákon č. 563/1991 Sb., § 20 odst. 2 písm. b)"
+U-08;Definice;Co se přesně rozumí pod pojmem inventarizace?;"Inventarizace je proces, kterým účetní jednotky zjišťují skutečný stav veškerého majetku a závazků a následně ověřují, zda tento stav odpovídá údajům v účetnictví [9][8]. Součástí tohoto procesu je i posouzení, zda není nutné účtovat o předvídatelných rizicích, ztrátách nebo snížení hodnoty majetku [9].
+
+Při inventarizaci se postupuje následovně:
+1. **Zjištění skutečného stavu:** Provádí se jedna nebo více inventur (např. fyzická u vizuálně zjistitelného majetku) a výsledky se zaznamenávají do inventurních soupisů [1][5][8].
+2. **Porovnání se stavem v účetnictví:** Zjišťují se případné inventarizační rozdíly, tedy neshody mezi skutečností a účetnictvím, které nelze prokázat zákonem stanoveným způsobem [6].
+3. **Časový rámec:** Inventarizace je buď **periodická** (k okamžiku sestavení účetní závěrky), nebo **průběžná** (v průběhu účetního období) [9].
+
+Účetní jednotka je povinna prokázat provedení inventarizace u veškerého majetku a závazků po dobu 5 let po jejím provedení [10].
+
+Zdroje:
+[1] Zákon č. 563/1991 Sb., § 30 odst. 1 písm. a)
+[5] Zákon č. 563/1991 Sb., § 30 odst. 1
+[6] Zákon č. 563/1991 Sb., § 4 odst. 8 písm. j)
+[8] Zákon č. 563/1991 Sb., § 32j odst. 2 písm. b) bod 2.
+[9] Zákon č. 563/1991 Sb., § 29 odst. 1
+[10] Zákon č. 563/1991 Sb., § 11 odst. 1 písm. c)"
+U-09;Struktura;Jaký je vztah mezi rozvahou a přílohou účetní závěrky?;"Rozvaha a příloha jsou povinnými a rovnocennými součástmi účetní závěrky [6], [8]. Jejich vztah je definován doplňkovou a vysvětlující funkcí přílohy vůči údajům uvedeným v rozvaze.
+
+Vzájemné vazby jsou následující:
+
+*   **Vysvětlující role:** Příloha obsahuje vysvětlující a doplňující informace k položkám rozvahy, které jsou nezbytné pro věrné zobrazení předmětu účetnictví [2], [4].
+*   **Povinnost zdůvodnění změn:** Pokud účetní jednotka změní uspořádání, označování nebo způsoby oceňování položek v rozvaze mezi jednotlivými obdobími, je povinna v příloze uvést informaci o každé takové změně spolu s jejím řádným zdůvodněním [1].
+*   **Sestavení ke stejnému okamžiku:** Obě součásti se sestavují k rozvahovému dni (okamžik uzavření účetních knih) nebo k jinému okamžiku, k němuž se sestavuje mezitímní účetní závěrka [11].
+*   **Specifické informace:** V příloze se uvádějí i údaje, které z rozvahy přímo nevyplývají, například informace o nakládání s prostředky státního rozpočtu nebo rozpočtů územních samosprávných celků [2], [3].
+
+Zdroje:
+[1] Zákon č. 563/1991 Sb., § 7 odst. 4
+[2] Zákon č. 563/1991 Sb., § 6 odst. 4
+[3] Zákon č. 563/1991 Sb., § 4 odst. 8 písm. d)
+[4] Zákon č. 563/1991 Sb., § 18 odst. 3 písm. f)
+[6] Zákon č. 563/1991 Sb., § 18 odst. 1 písm. a)
+[8] Zákon č. 563/1991 Sb., § 18 odst. 3
+[11] Zákon č. 563/1991 Sb., § 18 odst. 3 písm. e) a § 19 odst. 1 a 3"
+U-10;Odkazy;Jak se účtuje v cizí měně a jaký kurz se používá?;"Majetek a závazky vyjádřené v cizí měně musíte přepočítávat na měnu účetnictví k okamžiku uskutečnění účetního případu a k poslednímu dni účetního období [1, 7].
+
+Pro přepočet se používají dva základní druhy kurzů:
+
+1.  **Obecný kurz:** Jedná se o kurz vyhlášený centrální bankou příslušnou pro měnu účetnictví pro den přepočtu (např. ČNB pro českou měnu), a to za předpokladu, že je vyhlašován každý pracovní den nebo týden [2, 9]. Pokud tento kurz není k dispozici, použije se kurz mezibankovního trhu k euru nebo americkému dolaru [2, 11].
+2.  **Pevný kurz:** Účetní jednotka se může rozhodnout, že místo obecného kurzu použije kurz pevný [4]. Tím je obecný kurz vyhlášený pro první den zvoleného období (např. měsíc, čtvrtletí). Toto období si stanovíte ve vnitřním předpise a nesmí být delší než účetní období [10].
+
+**Důležitá omezení a pravidla:**
+*   **Ukončení pevného kurzu:** Používání pevného kurzu končí nejpozději posledním dnem účetního období, nebo dnem předcházejícím devalvaci či revalvaci měny účetnictví [10, 5].
+*   **Přepočet zákonných kritérií:** Pokud vedete účetnictví v jiné než české měně, přepočítávají se kritéria stanovená zákonem v CZK kurzem ČNB k poslednímu dni bezprostředně předcházejícího účetního období [6].
+*   **Změna měny:** Pokud je měnou účetnictví jiná než česká měna, nelze ji změnit zpět na českou, dokud tato cizí měna nepřestane být funkční měnou [10].
+
+Zdroje:
+[1] Zákon č. 563/1991 Sb., § 24c odst. 1 písm. a)
+[2] Zákon č. 563/1991 Sb., § 24d odst. 2 písm. a)
+[4] Zákon č. 563/1991 Sb., § 24c odst. 2
+[5] Zákon č. 563/1991 Sb., § 24d odst. 4 písm. a)
+[6] Zákon č. 563/1991 Sb., § 24b odst. 2 písm. a)
+[7] Zákon č. 563/1991 Sb., § 24d odst. 2 písm. b)
+[9] Zákon č. 563/1991 Sb., § 24d odst. 1
+[10] Zákon č. 563/1991 Sb., § 24d odst. 4
+[11] Zákon č. 563/1991 Sb., § 32o odst. 5 písm. b)"
+U-11;Slang;Jak se v papírech řeší, když mi zmizí zboží ze skladu?;"Zmizení zboží ze skladu se v účetnictví řeší jako **inventarizační rozdíl**. Postupuj následovně:
+
+1.  **Zjištění rozdílu:** Musíš provést fyzickou inventuru, tedy vizuálně ověřit skutečný stav zboží [7]. Pokud je skutečný stav nižší než stav v účetnictví a tento rozdíl nelze prokázat jiným způsobem, jedná se o inventarizační rozdíl [2], [4].
+2.  **Záznam:** Skutečné stavy a zjištěné rozdíly zaznamenej do inventurních soupisů [7], [8]. Pokud vedeš průběžnou inventarizaci, můžeš soupis nahradit průkazným účetním záznamem o provedení fyzické inventury a o vyúčtování rozdílů [1].
+3.  **Zaúčtování:** Inventarizační rozdíly musíš vyúčtovat do účetního období, za které se inventarizací stav majetku ověřuje [3]. 
+4.  **Odpovědnost:** Vnitřním předpisem musíš mít stanovenu odpovědnost osob za obsah účetních záznamů, což se týká i vypořádání těchto chybějících položek [4].
+
+Logicky vzato, pokud zákon ukládá povinnost zjišťovat skutečný stav a porovnávat jej s účetnictvím [11], jakákoliv chybějící položka (manko) musí být identifikována a řádně promítnuta do výsledku hospodaření daného období, aby účetnictví odpovídalo realitě.
+
+Zdroje:
+[1] Zákon č. 563/1991 Sb., § 4 odst. 8
+[2] Zákon č. 563/1991 Sb., § 4 odst. 8 písm. j)
+[3] Zákon č. 563/1991 Sb., § 19 odst. 11
+[4] Zákon č. 563/1991 Sb., § 30 odst. 10
+[7] Zákon č. 563/1991 Sb., § 30 odst. 1 písm. a)
+[8] Zákon č. 563/1991 Sb., § 30 odst. 1
+[11] Zákon č. 563/1991 Sb., § 29 odst. 1"
+U-12;Logika;Jak se stanoví účetní odpisy hmotného majetku?;"Účetní odpisy se stanovují na základě odpisového plánu, který je povinna sestavit účetní jednotka. Tyto odpisy vyjadřují trvalé snížení hodnoty majetku a uplatňují se v průběhu jeho používání [1][6].
+
+Při stanovování odpisů platí tato pravidla:
+
+*   **Limit odpisování:** Majetek se odpisuje pouze do výše jeho ocenění v účetnictví [1][11].
+*   **Finanční leasing:** Majetek poskytnutý k užívání na základě smlouvy o finančním leasingu odpisuje účetní jednotka, která jej poskytuje (pronajímatel), nikoliv uživatel [5].
+*   **Technické zhodnocení:** Pokud účetní jednotka užívá cizí majetek a provede na něm technické zhodnocení na svůj účet, účtuje o tomto zhodnocení a odpisuje jej sama [7][12].
+*   **Metodika:** Postupy odpisování jsou součástí účetních metod, které si účetní jednotka určuje pro věrné zobrazení předmětu účetnictví [2][3].
+
+Zatímco odpisy vyjadřují trvalý pokles hodnoty, pro vyjádření přechodného snížení hodnoty majetku se používají opravné položky [6].
+
+Zdroje:
+[1] Zákon č. 563/1991 Sb., § 28 odst. 6
+[2] Zákon č. 563/1991 Sb., § 32o odst. 7
+[3] Zákon č. 563/1991 Sb., § 4 odst. 8 písm. g)
+[5] Zákon č. 563/1991 Sb., § 13a odst. 1 písm. c)
+[6] Zákon č. 563/1991 Sb., § 27 odst. 3 písm. c)
+[7] Zákon č. 563/1991 Sb., § 28 odst. 5
+[11] Zákon č. 563/1991 Sb., § 27 odst. 6
+[12] Zákon č. 563/1991 Sb., § 24d odst. 5 písm. a) bod 5."

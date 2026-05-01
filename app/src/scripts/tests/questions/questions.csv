@@ -1,0 +1,73 @@
+Otazka_ID;Kategorie;Otázka;Naive_Odpoved;Hybrid_Odpoved;Graph_Odpoved;Ocekavany_zdroj;Poznamka
+DPH-01;Fakta;Jaká je aktuální snížená sazba daně u novin a časopisů?;;;;§ 47;"sazba daně; konkrétní zařazení zboží je v přílohách"
+DPH-02;Definice;Kdo se pro účely zákona o DPH považuje za osobu povinnou k dani?;;;;§ 5;
+DPH-03;Struktura;Vyjmenuj plnění osvobozená od daně bez nároku na odpočet.;;;;§ 51 až § 62;jde o skupinu osvobození bez nároku na odpočet
+DPH-04;Odkazy;Jaké jsou podmínky pro nárok na odpočet daně?;;;;§ 72 až § 79;hlavně § 72
+DPH-05;Slang;Budu platit DPH, když si objednám mobil z Číny?;;;;§ 20 až § 23;dovoz zboží
+DPH-06;Logika;Počítá se mi do obratu pro DPH i prodej auta z podnikání?;;;;§ 4a;obrat
+DPH-07;Fakta;Jaká je aktuální hranice obratu pro povinnou registraci k DPH?;;;;§ 6;"povinná registrace; zvláštní situace řeší i další registrační paragrafy"
+DPH-08;Definice;Co se v zákoně přesně rozumí pojmem ekonomická činnost?;;;;§ 5;
+DPH-09;Struktura;Jaký je rozdíl mezi náležitostmi kontrolního a souhrnného hlášení?;;;;§ 101 až § 102;kontrolní hlášení vs. souhrnné hlášení
+DPH-10;Odkazy;Podle čeho se určuje místo plnění u služeb?;;;;§ 9 až § 10i;"základní pravidlo pro místo plnění u služeb; zvláštní případy v dalších paragrafech"
+DPH-11;Slang;Kdy mi stát vrátí DPHčko, když mám nadměrný odpočet?;;;;§ 101 a § 105;vrácení nadměrného odpočtu
+DPH-12;Logika;Proč musím přiznat daň už při přijetí zálohy, i když zboží dodám až za měsíc?;;;;§ 21;vznik povinnosti přiznat daň při přijetí úplaty
+DP-01;Fakta;Jaká je výše daňového zvýhodnění na vyživované dítě a za jakých podmínek vzniká nárok na daňový bonus?;;;;§ 35c až § 35d;sleva za zastavenou exekuci
+DP-02;Definice;Kdo je považován za nerezidenta a jaké příjmy u nás musí zdaňovat?;;;;§ 2 a § 22;rezident/nerezident a příjmy ze zdrojů na území ČR
+DP-03;Struktura;Vyjmenuj druhy bezúplatných příjmů osvobozených od daně.;;;;§ 4a;bezúplatné příjmy osvobozené od daně
+DP-04;Odkazy;Jaké jsou podmínky pro odpočet darů?;;;;§ 15 a § 20;
+DP-05;Slang;Můžu si odečíst školku z daní?;;;;§ 35bb;sleva za umístění dítěte
+DP-06;Logika;Platí limit pro paušální daň i pro někoho, kdo má příjmy z pronájmu nad 50 000 Kč?;;;;§ 2a;"paušální režim; limity a podmínky"
+DP-07;Fakta;Kolik činí měsíční paušální daň pro první pásmo?;;;;§ 2a;výše pásem je navázána i na prováděcí předpisy / každoroční částky
+DP-08;Definice;Co jsou to nepeněžní příjmy a jak se určuje jejich hodnota pro daň?;;;;§ 3 a § 6;nepeněžní příjmy obecně a u závislé činnosti
+DP-09;Struktura;Jaký je vztah mezi základem daně a položkami, které ho mohou snížit?;;;;§ 5, § 15, § 34;nezdanitelné části a odčitatelné položky snižující základ daně
+DP-10;Odkazy;Jak tento zákon pracuje s definicí příbuzných osob z jiných zákonů?;;;;§ 23;"spojené osoby; některé definice zákon přebírá i z jiných předpisů"
+DP-11;Slang;Můžu si dát do nákladů oběd s klientem?;;;;§ 24 a § 25;daňová uznatelnost reprezentace / stravování s klientem
+DP-12;Logika;Proč se mi daňová ztráta z podnikání nemůže odečíst od příjmů ze zaměstnání?;;;;§ 5 a § 34;dílčí základy daně a uplatnění daňové ztráty
+DR-01;Fakta;Jaká je standardní lhůta pro podání odvolání proti rozhodnutí správce daně?;;;;§ 109;lhůta pro odvolání
+DR-02;Definice;Kdo všechno se považuje za daňový subjekt?;;;;§ 20;daňový subjekt
+DR-03;Struktura;Jaká jsou práva a povinnosti zúčastněných osob na správě daní?;;;;§6 až § 9, § 27 až § 30;vymezení osob zúčastněných na správě daní a jejich procesní postavení
+DR-04;Odkazy;Jak probíhá dokazování?;;;;§ 92 až § 99;dokazování
+DR-05;Slang;Co se stane, když něco nepošlu na finanční úřad?;;;;§ 247a a § 250;"pokuta za nepodání tvrzení; podle typu podání mohou dopadat i další sankční ustanovení"
+DR-06;Logika;Za jakých podmínek lze požádat o navrácení lhůty v předešlý stav, pokud jsem ji zmeškal?;;;;§ 37;navrácení lhůty v předešlý stav
+DR-07;Fakta;Kolik dní mám k vyjádření k výsledku kontrolního zjištění po kontrole?;;;;§ 88;vyjádření k výsledku kontrolního zjištění
+DR-08;Definice;Kdo je to osoba zúčastněná na správě daní a jaká má práva?;;;;§ 22;osoba zúčastněná na správě daní a její práva/povinnosti
+DR-09;Struktura;Jaký je rozdíl mezi odvoláním a žádostí o přezkum rozhodnutí?;;;;§ 109 až § 116, § 121 až § 123;odvolání vs. přezkumné řízení
+DR-10;Odkazy;Jak daňový řád souvisí s exekucemi při vymáhání starých nedoplatků?;;;;§ 175 až § 232;daňová exekuce a vymáhání nedoplatků
+DR-11;Slang;Co se stane, když mi přijde obsílka do datovky a já ji neotevřu?;;;;§ 42;doručování, včetně doručení do datové schránky
+DR-12;Logika;Proč může úřad prodloužit lhůtu pro kontrolu, i když už měla podle plánu skončit?;;;;§ 85 až § 88, § 148;daňová kontrola a běh lhůt
+DNV-01;Fakta;Do jakého data se musí podat přiznání k dani z nemovitosti?;;;;§ 13a;daňové přiznání
+DNV-02;Definice;Co se podle zákona považuje za stavební pozemek?;;;;§ 6;stavební pozemek je řešen v úpravě daně z pozemků
+DNV-03;Struktura;Jak obecní koeficient ovlivňuje výši daně?;;;;§ 12;místní koeficient
+DNV-04;Odkazy;Jak tato daň souvisí s údaji v katastru nemovitostí?;;;;§ 3;prakticky navazuje na údaje evidované v katastru
+DNV-05;Slang;Musím platit daň z domu, i když v něm nebydlím?;;;;§ 3;předmět daně ze staveb a jednotek
+DNV-06;Logika;Proč se platí jiná daň za pole a jiná za stavební pozemek?;;;;§ 5 a § 6;různé základy a sazby podle druhu pozemku
+DNV-07;Fakta;Který den v roce je rozhodující pro to, kdo platí daň?;;;;§ 13;rozhodný je stav k 1. lednu
+DNV-08;Definice;Jaký je rozdíl mezi pozemkem a zpevněnou plochou?;;;;§ 6;zpevněná plocha pozemku
+DNV-09;Struktura;Jak se liší sazba daně pro obytný dům a pro garáž?;;;;§ 11;sazby daně ze staveb a jednotek
+DNV-10;Odkazy;Kde zákon mluví o osvobození pro stavby určené k ochrané přírody?;;;;§ 4 a § 9;osvobození od daně ze staveb a jednotek
+DNV-11;Slang;Jak nahlásit, že jsem přistavěl k chalupě kůlnu?;;;;§ 13a;podat přiznání při změně rozhodných skutečností
+DNV-12;Logika;Jak se změní moje daň, když z bytu udělám kancelář?;;;;§ 11 až § 11b, § 12;změna užívání bytu/jednotky na podnikání
+SP-01;Fakta;Jaká je aktuální procentuální sazba pojistného pro OSVČ?;;;;§ 7;sazba pojistného
+SP-02;Definice;Co je to vyměřovací základ a jak se vypočítá?;;;;§ 5a a § 5b;vyměřovací základ OSVČ
+SP-03;Struktura;Existuje nějaký strop, nad který se pojistné neplatí?;;;;§ 15a;maximální vyměřovací základ
+SP-04;Odkazy;Jak zákon o pojistném odkazuje na výpočet daně z příjmů?;;;;§ 5b;návaznost na základ daně / daňový základ OSVČ
+SP-05;Slang;Kolik mám platit na sociální, když začínám podnikat?;;;;§ 14;zálohy OSVČ při zahájení činnosti
+SP-06;Logika;Proč musím platit zálohy, i když jsem ve ztrátě?;;;;§ 5b a § 14;zálohy na pojistné
+SP-07;Fakta;Jaká je lhůta o podání přehledu o příjmech a výdajích?;;;;§ 15;přehled o příjmech a výdajích
+SP-08;Definice;Kdy je OSVČ povinna platit pojistné na sociální zabezpečení?;;;;§ 3 a § 5;
+SP-09;Struktura;Jak se liší odvod pojištění u hlavní a vedlejší činnosti?;;;;§ 9 a § 10;hlavní vs. vedlejší činnost
+SP-10;Odkazy;Kde najdu pravidla pro sankce a penále při pozdní platbě?;;;;§ 20;penále za pozdní platbu
+SP-11;Slang;Co se stane, když zapomenu podat přehled včas?;;;;§ 15 a § 20;nepodání přehledu a sankce
+SP-12;Logika;Z čeho se stanoví vyměřovací základ OSVČ pro sociální pojištění?;;;;§ 5a a § 5b;výše odvodů souvisí s budoucím důchodem, ale hlavní pravidla důchodu jsou v jiném zákoně
+U-01;Fakta;Od jaké výše obratu musí mít firma povinně audit?;;;;§ 20;povinný audit
+U-02;Definice;Kdo všechno se považuje za účetní jednotku?;;;;§ 1;účetní jednotka
+U-03;Struktura;Jaké jsou povinné součásti účetní závěrky pro malou firmu?;;;;§ 18;účetní závěrka a její části
+U-04;Odkazy;Jak zákon o účetnictví odkazuje na oceňování majetku v jiných předpisech?;;;;§ 25;oceňování majetku a závazků
+U-05;Slang;Musím udělat závěrku, i když jsem nic neprodal?;;;;§ 18;povinnost sestavit účetní závěrku
+U-06;Logika;Proč nemůžu dát do nákladů celou cenu auta hned při nákupu?;;;;§ 26 až § 28;odpisování dlouhodobého majetku
+U-07;Fakta;Jak dlouho se musí archivovat účetní závěrka?;;;;§ 31;uschovávání účetních záznamů
+U-08;Definice;Co se přesně rozumí pod pojmem inventarizace?;;;;§ 29 až § 30;inventarizace
+U-09;Struktura;Jaký je vztah mezi rozvahou a přílohou účetní závěrky?;;;;§ 18 a § 19;rozvaha a příloha jsou součásti účetní závěrky
+U-10;Odkazy;Jak se účtuje v cizí měně a jaký kurz se používá?;;;;§ 24;cizí měna a kurzy
+U-11;Slang;Jak se v papírech řeší, když mi zmizí zboží ze skladu?;;;;§ 30;inventurní rozdíly / manka a škody
+U-12;Logika;Jak se stanoví účetní odpisy hmotného majetku?;;;;§ 28;účetní vs. daňové odpisy

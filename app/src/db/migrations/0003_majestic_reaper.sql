@@ -1,0 +1,1 @@
+ALTER TABLE "unit_chunk" ADD COLUMN "label" text;

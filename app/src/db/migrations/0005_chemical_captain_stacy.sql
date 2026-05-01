@@ -1,0 +1,1 @@
+ALTER TABLE "poznamka_reference" ADD COLUMN "char_index" integer;

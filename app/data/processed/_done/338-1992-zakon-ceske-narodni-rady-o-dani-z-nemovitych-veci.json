@@ -1,0 +1,3870 @@
+{
+  "meta": {
+    "cislo": 338,
+    "rok": 1992,
+    "nazev": "Zákon České národní rady o dani z nemovitých věcí",
+    "staleUrl": "https://www.zakonyprolidi.cz/cs/1992-338",
+    "platneOd": "1992-07-01",
+    "ucinneOd": "2025-10-01",
+    "aktualniZneniOd": "2025-10-01"
+  },
+  "nodes": [
+    {
+      "type": "CAST_ZAKONA",
+      "label": null,
+      "marker": "ČÁST PRVNÍ",
+      "orderIndex": 1,
+      "title": "OBECNÁ USTANOVENÍ",
+      "children": [
+        {
+          "type": "PARAGRAF",
+          "label": "Úvodní ustanovení",
+          "text": "",
+          "marker": "1",
+          "orderIndex": 1,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Tento zákon upravuje daň z nemovitých věcí, kterou tvoří",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "daň z pozemků,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "daň ze staveb a jednotek.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daňová povinnost k dani z nemovitých věcí vzniká samostatně za obvod územní působnosti jednotlivého správce daně z nemovitých věcí.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Druh pozemku a způsob využití nemovité věci",
+          "text": "",
+          "marker": "1a",
+          "orderIndex": 2,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pro účely daně z nemovitých věcí se rozumí",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "budovou garáže zdanitelná stavba se způsobem využití garáž,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "budovou pro rodinnou rekreaci zdanitelná stavba se způsobem využití stavba pro rodinnou rekreaci, budova rodinného domu užívaná pro rodinnou rekreaci a objekt k bydlení užívaný pro rodinnou rekreaci,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "lesním pozemkem pozemek druhu lesní pozemek,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ostatní plochou pozemek druhu ostatní plocha,",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemkem orné půdy pozemek druhu orná půda,",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemkem chmelnic pozemek druhu chmelnice,",
+                  "marker": "f)",
+                  "orderIndex": 6,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemkem vinic pozemek druhu vinice,",
+                  "marker": "g)",
+                  "orderIndex": 7,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemkem zahrad pozemek druhu zahrada,",
+                  "marker": "h)",
+                  "orderIndex": 8,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemkem ovocných sadů pozemek druhu ovocný sad,",
+                  "marker": "i)",
+                  "orderIndex": 9,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemkem trvalých travních porostů pozemek druhu trvalý travní porost,",
+                  "marker": "j)",
+                  "orderIndex": 10,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "stavebním pozemkem pozemek nebo jeho část, které jsou určené podle pravomocného povolení stavby podle stavebního zákona k zastavění zdanitelnou stavbou, a to v rozsahu výměry pozemku v m[2] odpovídající zastavěné ploše nadzemní části stavby,",
+                  "marker": "k)",
+                  "orderIndex": 11,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "vodní plochou pozemek druhu vodní plocha,",
+                  "marker": "l)",
+                  "orderIndex": 12,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zastavěnou plochou a nádvořím pozemek druhu zastavěná plocha a nádvoří,",
+                  "marker": "m)",
+                  "orderIndex": 13,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zemědělským pozemkem zemědělský pozemek podle katastrálního zákona,",
+                  "marker": "n)",
+                  "orderIndex": 14,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zpevněnou plochou pozemku pozemek nebo jeho část, které jsou užívány k podnikání nebo které má podnikatel zařazeny v obchodním majetku podle zákona upravujícího daně z příjmů, jejichž povrch je zpevněn stavbou podle stavebního zákona bez svislé nosné konstrukce, včetně plochy vlečky, bazénu nebo nádrže, pokud tyto nejsou zdanitelnou stavbou.",
+                  "marker": "o)",
+                  "orderIndex": 15,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Stavebním pozemkem podle odstavce 1 písm. k) není pozemek určený k zastavění zdanitelnou stavbou, která bude alespoň z části osvobozena podle § 9 odst. 1 písm. g), i) nebo j). Je-li stavebním pozemkem pouze část pozemku, hledí se na ni a na zbývající část pozemku pro účely daně z nemovitých věcí jako na dva samostatné pozemky. Pozemek přestane být stavebním pozemkem, pokud se zdanitelná stavba nebo všechny jednotky v ní stanou předmětem daně ze staveb a jednotek, nebo pokud toto povolení stavby pozbude platnosti.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Je-li zpevněnou plochou pozemku pouze část pozemku, hledí se na ni a na zbývající část pozemku pro účely daně z nemovitých věcí jako na dva samostatné pozemky.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pro účely daně z nemovitých věcí se druhem pozemku rozumí druh pozemku",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "evidovaný v katastru nemovitostí bez ohledu na to, zda odpovídá skutečnému stavu, nebo",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "podle katastrálního zákona nejblíže odpovídající skutečnému stavu pozemku, není-li o pozemku v katastru nemovitostí evidován žádný druh pozemku.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pro účely daně z nemovitých věcí se způsobem využití nemovité věci rozumí způsob využití",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "evidovaný v katastru nemovitostí bez ohledu na to, zda odpovídá skutečnému stavu, nebo",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "podle právních předpisů upravujících katastr nemovitostí nejblíže odpovídající skutečnému způsobu využití nemovité věci, není-li u nemovité věci znám žádný způsob využití nebo není-li nemovitá věc evidována v katastru nemovitostí.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CAST_ZAKONA",
+      "label": null,
+      "marker": "ČÁST DRUHÁ",
+      "orderIndex": 2,
+      "title": "DAŇ Z POZEMKŮ",
+      "children": [
+        {
+          "type": "PARAGRAF",
+          "label": "Předmět daně",
+          "text": "",
+          "marker": "2",
+          "orderIndex": 1,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Předmětem daně z pozemků jsou pozemky na území České republiky evidované v katastru nemovitostí.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Předmětem daně z pozemků nejsou",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky zastavěné zdanitelnými stavbami v rozsahu zastavěné plochy těchto staveb,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "lesní pozemky v rozsahu, v němž jsou lesy ochrannými nebo lesy zvláštního určení podle lesního zákona,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "vodní plochy,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky určené pro obranu České republiky,",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky v rozsahu odpovídajícím výši spoluvlastnických podílů na nich, které jsou součástí zdanitelných jednotek v budově bytového domu, a jiné pozemky ve spoluvlastnictví vlastníků zdanitelných jednotek v budově bytového domu užívané společně s těmito jednotkami, a to v rozsahu odpovídajícím výši spoluvlastnických podílů těchto spoluvlastníků na nich.",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Na pozemek, který je součástí jednotky, se pro účely daně z nemovitých věcí hledí jako na nemovitou věc, jejímž vlastníkem je ten, kdo vlastní jednotku.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Poplatníci daně",
+          "text": "",
+          "marker": "3",
+          "orderIndex": 2,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatníkem daně z pozemků je vlastník pozemku.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatníkem daně z pozemků je, jde-li o pozemek",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ve vlastnictví České republiky,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "organizační složka státu, státní příspěvková organizace, státní fond, státní podnik nebo jiná státní organizace, které jsou příslušné hospodařit nebo mají právo hospodařit s majetkem státu,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "právnická osoba, která má právo užívat tento pozemek na základě výpůjčky vzniklé podle zákona upravujícího některé užívací vztahy k majetku České republiky,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ve svěřenském fondu, tento fond,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "v podílovém fondu, tento fond,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ve fondu obhospodařovaném penzijní společností, tento fond,",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zatížený právem stavby, stavebník.",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatníkem daně z pozemků je vždy nájemce nebo pachtýř u pronajatého nebo propachtovaného pozemku, je-li",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "evidovaný v katastru nemovitostí zjednodušeným způsobem,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "s ním příslušná hospodařit Správa státních hmotných rezerv, nebo",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "převedený na základě rozhodnutí o privatizaci na Ministerstvo financí.",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Uživatel je poplatníkem daně z pozemků, pokud",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "vlastník pozemku není znám, nebo",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "s pozemkem je příslušný hospodařit Státní pozemkový úřad nebo Úřad pro zastupování státu ve věcech majetkových.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Osvobození od daně",
+          "text": "",
+          "marker": "4",
+          "orderIndex": 3,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Od daně z pozemků jsou osvobozeny",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky ve vlastnictví České republiky,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "ve vlastnictví té obce, na jejímž území se nacházejí, nebo",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zatížené právem stavby, pokud je stavebníkem obec, na jejímž území se nacházejí,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky užívané diplomatickými zástupci pověřenými v České republice, konzuly z povolání a jinými osobami, které podle mezinárodního práva požívají diplomatických a konzulárních výsad a imunity, a to za předpokladu, že nejsou občany České republiky, a že je zaručena vzájemnost,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky tvořící jeden funkční celek se zdanitelnou stavbou veřejně přístupného památkového objektu prohlášeného za kulturní památku, který je",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "ve vlastnictví České republiky, nebo",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "přístupný z důvodů výchovně vzdělávacích na základě písemné smlouvy uzavřené mezi Ministerstvem kultury a vlastníkem,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky tvořící jeden funkční celek se zdanitelnou stavbou, která je budovou, nebo se zdanitelnou jednotkou sloužící k vykonávání náboženských obřadů registrovaných církví a registrovaných náboženských společností podle zákona upravujícího církve a náboženské společnosti nebo sloužící k výkonu duchovní správy těchto církví a náboženských společností,",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky tvořící jeden funkční celek se zdanitelnou stavbou, která je budovou, nebo se zdanitelnou jednotkou ve vlastnictví obecně prospěšných společností, spolků, odborových organizací, organizací zaměstnavatelů, mezinárodních odborových organizací a jejich pobočných organizací,",
+                  "marker": "f)",
+                  "orderIndex": 6,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky tvořící jeden funkční celek se zdanitelnou stavbou nebo zdanitelnou jednotkou sloužící",
+                  "marker": "g)",
+                  "orderIndex": 7,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "škole nebo školskému zařízení zapsanému ve školském rejstříku,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "poskytování péče o děti do 3 let věku na základě oprávnění provozovat živnostenské podnikání,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "muzeu nebo galerii, které spravují sbírky zapsané do centrální evidence sbírek muzejní povahy vedené Ministerstvem kultury,",
+                      "marker": "3.",
+                      "orderIndex": 3
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "knihovně vedené v evidenci knihoven,",
+                      "marker": "4.",
+                      "orderIndex": 4
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "veřejnému archivu podle zákona upravujícího archivnictví a spisovou službu,",
+                      "marker": "5.",
+                      "orderIndex": 5
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zdravotnickému zařízení uvedenému v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb nebo v rozhodnutí o registraci,",
+                      "marker": "6.",
+                      "orderIndex": 6
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zařízení sociálních služeb,",
+                      "marker": "7.",
+                      "orderIndex": 7
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "fundaci nebo ústavu k jimi vykonávané veřejně prospěšné činnosti,",
+                      "marker": "8.",
+                      "orderIndex": 8
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "spolku zdravotně postižených občanů,",
+                      "marker": "9.",
+                      "orderIndex": 9
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zařízení služby péče o dítě v dětské skupině podle zákona upravujícího poskytování služby péče o dítě v dětské skupině,",
+                      "marker": "10.",
+                      "orderIndex": 10
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "sociálnímu družstvu,",
+                      "marker": "11.",
+                      "orderIndex": 11
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky tvořící jeden funkční celek se zdanitelnou stavbou nebo zdanitelnou jednotkou sloužící výlučně",
+                  "marker": "h)",
+                  "orderIndex": 8,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "provozu malých vodních elektráren do výkonu 1 MW,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "provozu výroben elektřiny využívajících energii větru,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "provozu výroben elektřiny nebo tepla využívajících energie bioplynu, pokud je získaná energie dodávána do sítě nebo dalším spotřebitelům,",
+                      "marker": "3.",
+                      "orderIndex": 3
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "pro zdroje využívající geotermální energie včetně tepelných čerpadel, které dodávají teplo spotřebitelům,",
+                      "marker": "4.",
+                      "orderIndex": 4
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "pro čistírny odpadních vod,",
+                      "marker": "5.",
+                      "orderIndex": 5
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "rozvodnému tepelnému zařízení podle energetického zákona,",
+                      "marker": "6.",
+                      "orderIndex": 6
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky, na nichž jsou zřízena veřejná a neveřejná pohřebiště podle zákona upravujícího pohřebnictví,",
+                  "marker": "i)",
+                  "orderIndex": 9,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky území zvláště chráněných podle předpisů o ochraně přírody a krajiny s výjimkou národních parků a chráněných krajinných oblastí; v národních parcích pozemky zařazené do zóny přírodní nebo zóny přírodě blízké a v chráněných krajinných oblastech pozemky zařazené do jejich I. zóny,",
+                  "marker": "j)",
+                  "orderIndex": 10,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky v rozsahu, v jakém se na nich nachází",
+                  "marker": "k)",
+                  "orderIndex": 11,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "ochranné pásmo vodního zdroje I. stupně, nebo",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "ekologicky významný prvek evidovaný v evidenci ekologicky významných prvků podle zákona upravujícího zemědělství,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky v rozsahu, v jakém se na nich nachází",
+                  "marker": "l)",
+                  "orderIndex": 12,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "veřejné prostranství,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "veřejně přístupné sportoviště, nebo",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "veřejně přístupná účelová komunikace jiná než podle písmene o), zpravidla lesní nebo polní cesta,",
+                      "marker": "3.",
+                      "orderIndex": 3
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zemědělské pozemky na dobu pěti let a lesní pozemky na dobu 25 let, počínaje rokem následujícím po roce, kdy byly po rekultivaci technickým opatřením nebo biologickým zúrodňováním vráceny zemědělské nebo lesní výrobě,",
+                  "marker": "m)",
+                  "orderIndex": 13,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "v rozsahu zastavěné plochy uvedených staveb pozemky zastavěné stavbou podle stavebního zákona",
+                  "marker": "n)",
+                  "orderIndex": 14,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "upravující vodní tok,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "přehrady,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "sloužící ochraně před povodněmi,",
+                      "marker": "3.",
+                      "orderIndex": 3
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "sloužící k závlaze a odvodňování pozemků,",
+                      "marker": "4.",
+                      "orderIndex": 4
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "vodovodních řadů a vodárenských objektů včetně úpraven vody,",
+                      "marker": "5.",
+                      "orderIndex": 5
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "kanalizačních stok, kanalizačních objektů nebo čistíren odpadních vod, jakož i určenou k čištění odpadních vod před jejich vypouštěním do kanalizací, nebo",
+                      "marker": "6.",
+                      "orderIndex": 6
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "přenosové, přepravní nebo distribuční soustavy nebo rozvodného tepelného zařízení podle energetického zákona,",
+                      "marker": "7.",
+                      "orderIndex": 7
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky zastavěné stavbou podle stavebního zákona, která je dálnicí, silnicí, místní komunikací, veřejnou účelovou komunikací, stavbou drah a na dráze, leteckou, vodních cest a přístavů, pokud jsou v souladu s kolaudačním rozhodnutím podle stavebního zákona užívány k veřejné dopravě, a to v rozsahu zastavěné plochy těchto staveb, a jiné pozemky určené pro veřejnou dopravu,",
+                  "marker": "o)",
+                  "orderIndex": 15,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "části pozemků, na kterých je zřízena měřická značka bodu bodového pole včetně signalizačního a ochranného zařízení bodu bodového pole, a pásy lesních pozemků v rozsahu vyčleněném pro rozvody elektrické energie a plynů,",
+                  "marker": "p)",
+                  "orderIndex": 16,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky ve vlastnictví veřejných vysokých škol, které slouží k uskutečňování akreditovaných studijních programů,",
+                  "marker": "r)",
+                  "orderIndex": 17,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "lesní pozemky v rozsahu, ve kterém se na nich nacházejí lesy pod vlivem imisí podle lesního zákona zařazené do dvou nejvyšších pásem ohrožení,",
+                  "marker": "s)",
+                  "orderIndex": 18,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky ve vlastnictví kraje, které se nacházejí v jeho územním obvodu,",
+                  "marker": "t)",
+                  "orderIndex": 19,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky ve vlastnictví veřejných výzkumných institucí,",
+                  "marker": "u)",
+                  "orderIndex": 20,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zemědělské pozemky, jestliže tak obec stanoví obecně závaznou vyhláškou; pokud obec uvedené pozemky od daně z pozemků takto osvobodí, toto osvobození se nevztahuje na pozemky v zastavěném území podle stavebního zákona nebo v zastavitelné ploše podle stavebního zákona, jestliže tak obec stanoví obecně závaznou vyhláškou, ve které současně vymezí tyto pozemky a označí je způsobem podle § 12e odst. 1; na pozemek, který v obecně závazné vyhlášce není označen způsobem podle § 12e odst. 1, se hledí, jako by nebyl vyloučen z osvobození,",
+                  "marker": "v)",
+                  "orderIndex": 21,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky tvořící funkční celek s veřejnou monitorovací sítí zajišťující informace o stavu jednotlivých složek životního prostředí financované z veřejných rozpočtů,",
+                  "marker": "w)",
+                  "orderIndex": 22,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "nejdéle na dobu 5 let pozemky ve vládou schválené zvýhodněné průmyslové zóně podle zákona upravujícího investiční pobídky pořízené pro účely realizace investiční akce, pro kterou je vydáno rozhodnutí o příslibu investiční pobídky ve formě osvobození od daně z nemovitých věcí, jestliže obecně závaznou vyhláškou obec zcela nebo částečně osvobodí pozemky označené způsobem podle § 12e odst. 1 ve zvýhodněné průmyslové zóně; na pozemek, který v obecně závazné vyhlášce není označen způsobem podle § 12e odst. 1, se hledí, jako by nebyl osvobozen,",
+                  "marker": "x)",
+                  "orderIndex": 23,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemky tvořící jeden funkční celek se stavbou podle stavebního zákona sloužící výlučně nebo pozemky samy o sobě sloužící výlučně k asanaci kontaminovaných pozemků, podzemních vod a objektů,",
+                  "marker": "y)",
+                  "orderIndex": 24,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ostatní plochy s následujícím způsobem využití, jestliže tak obec stanoví obecně závaznou vyhláškou:",
+                  "marker": "z)",
+                  "orderIndex": 25,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "neplodná půda,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zamokřená plocha,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "mez, stráň,",
+                      "marker": "3.",
+                      "orderIndex": 3
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zeleň,",
+                      "marker": "4.",
+                      "orderIndex": 4
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "jiná plocha.",
+                      "marker": "5.",
+                      "orderIndex": 5
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pozemkem tvořícím jeden funkční celek se stavbou podle stavebního zákona, zdanitelnou stavbou nebo zdanitelnou jednotkou se rozumí část pozemku nezbytně nutná k provozu a plnění funkce této stavby, zdanitelné stavby nebo zdanitelné jednotky.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pozemky osvobozené podle odstavce 1 písm. a) jsou osvobozeny od daně z pozemků, nejsou-li užívány k podnikání, pronajímány nebo propachtovány; jsou-li tyto pozemky pronajaty nebo propachtovány obci, kraji nebo organizační složce státu anebo příspěvkové organizaci, jsou osvobozeny za předpokladu, že nejsou užívány k podnikání. Pozemky osvobozené podle odstavce 1 písm. d) až f), l), r), t) a u) jsou osvobozeny od daně z pozemků, nejsou-li užívány k podnikání, pronajímány nebo propachtovány. Pozemky osvobozené podle odstavce 1 písm. a), b) bodu 1 a písm. t) jsou osvobozeny od daně z pozemků, není-li k nim zřízeno právo stavby.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatník daně uplatní nárok na osvobození od daně z pozemků podle odstavce 1 písm. d) až h), j), k), m), p), r), u), w) a y) v daňovém přiznání.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud podmínky osvobození podle odstavce 1 splňuje pouze část pozemku, je od daně z pozemků osvobozena pouze tato část. Pokud podmínky pro vyloučení jednotlivého osvobození podle odstavce 3 splňuje pouze část pozemku, je z tohoto osvobození vyloučena pouze tato část.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "V obecně závazné vyhlášce vydané podle odstavce 1 písm. z) obec zároveň stanoví, na které způsoby využití pozemku se osvobození vztahuje. Pokud obec v obecně závazné vyhlášce nestanoví způsob využití pozemku, na který se toto osvobození vztahuje, platí, že se osvobození vztahuje na všechny pozemky podle odstavce 1 písm. z) bodů 1 až 4.",
+              "marker": 6,
+              "orderIndex": 6,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Základ daně",
+          "text": "",
+          "marker": "5",
+          "orderIndex": 4,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Základem daně u zemědělského pozemku je cena pozemku zjištěná násobením skutečné výměry pozemku v m[2] průměrnou cenou pozemku stanovenou na 1 m[2] ve vyhlášce vydané na základě zmocnění v § 17 tohoto zákona.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Základem daně u lesního pozemku je součin skutečné výměry pozemku v m[2] zjištěné k 1. lednu zdaňovacího období a částky 3,80 Kč.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Základem daně u ostatní plochy, zastavěné plochy a nádvoří, stavebního pozemku a zpevněné plochy pozemku je skutečná výměra pozemku v m[2] zjištěná k 1. lednu zdaňovacího období.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Skupiny pozemků",
+          "text": "",
+          "marker": "5a",
+          "orderIndex": 5,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pro účely daně z nemovitých věcí tvoří skupinu",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "vybraných zemědělských pozemků pozemky orné půdy, chmelnic, vinic, zahrad nebo ovocných sadů,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "trvalých travních porostů pozemky trvalých travních porostů,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "lesních pozemků lesní pozemky,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zemědělských zpevněných ploch pozemku zpevněné plochy pozemku",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "užívané k podnikání pro zemědělskou prvovýrobu, lesní hospodářství nebo vodní hospodářství nebo",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zařazené do obchodního majetku podle zákona upravujícího daně z příjmů, je-li poplatníkem daně podnikatel převážně podnikající v některé z oblastí podnikání podle bodu 1, pokud tyto zpevněné plochy nejsou současně užívány pro jinou oblast podnikání,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ostatních zpevněných ploch pozemku zpevněné plochy pozemku jiné než podle písmene d),",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "stavebních pozemků stavební pozemky,",
+                  "marker": "f)",
+                  "orderIndex": 6,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "nevyužitelných ostatních ploch ostatní plochy se způsobem využití neplodná půda, zamokřená plocha, mez, stráň nebo zeleň,",
+                  "marker": "g)",
+                  "orderIndex": 7,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "jiných ploch ostatní plochy se způsobem využití jiná plocha,",
+                  "marker": "h)",
+                  "orderIndex": 8,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "vybraných ostatních ploch ostatní plochy jiné než podle písmen g) a h),",
+                  "marker": "i)",
+                  "orderIndex": 9,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zastavěných ploch a nádvoří zastavěné plochy a nádvoří.",
+                  "marker": "j)",
+                  "orderIndex": 10,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Je-li zpevněná plocha pozemku užívána k různým druhům podnikání a nelze-li vymezit její části užívané k jednotlivým druhům podnikání, zahrnuje se do skupiny ostatních zpevněných ploch pozemku.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Sazba daně",
+          "text": "",
+          "marker": "6",
+          "orderIndex": 6,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Sazba daně činí u pozemků zařazených ve skupině",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Sazba daně činí za každý 1 m[2] u pozemků zařazených ve skupině",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Sazba daně podle odstavce 2 písm. c) se násobí koeficientem",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "1,0 v obci do 1 000 obyvatel,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "1,4 v obci nad 1 000 obyvatel do 6 000 obyvatel,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "1,6 v obci nad 6 000 obyvatel do 10 000 obyvatel,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "2,0 v obci nad 10 000 obyvatel do 25 000 obyvatel,",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "2,5 v obci nad 25 000 obyvatel do 50 000 obyvatel,",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "3,5 v obci nad 50 000 obyvatel, ve statutárním městě a ve Františkových Lázních, Luhačovicích, Mariánských Lázních a Poděbradech,",
+                  "marker": "f)",
+                  "orderIndex": 6,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "4,5 v Praze.",
+                  "marker": "g)",
+                  "orderIndex": 7,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Obec může obecně závaznou vyhláškou koeficient podle odstavce 3 zvýšit o jednu kategorii podle členění koeficientů pro všechny pozemky podle odstavce 2 písm. c) na území jednotlivého katastrálního území nebo jednotlivého městského obvodu nebo jednotlivé městské části. Koeficient 4,5 lze takto zvýšit na koeficient 5,0. Neodpovídá-li takto upravená výše koeficientu podmínkám podle vět první a druhé, hledí se na koeficient podle odstavce 3, jako kdyby nebyl upraven.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CAST_ZAKONA",
+      "label": null,
+      "marker": "ČÁST TŘETÍ",
+      "orderIndex": 3,
+      "title": "DAŇ ZE STAVEB A JEDNOTEK",
+      "children": [
+        {
+          "type": "PARAGRAF",
+          "label": "Předmět daně",
+          "text": "",
+          "marker": "7",
+          "orderIndex": 1,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Předmětem daně ze staveb a jednotek je, nachází-li se na území České republiky,",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelná stavba, kterou se pro účely daně z nemovitých věcí rozumí dokončená nebo užívaná",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "budova, kterou se pro účely daně z nemovitých věcí rozumí budova podle katastrálního zákona,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "inženýrská stavba uvedená v příloze k tomuto zákonu,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelná jednotka, kterou se pro účely daně z nemovitých věcí rozumí jednotka dokončená nebo užívaná.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Předmětem daně ze staveb a jednotek není zdanitelná stavba, v níž jsou zdanitelné jednotky.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Na zdanitelnou stavbu, která není samostatnou nemovitou věcí, se pro účely daně z nemovitých věcí hledí jako na nemovitou věc, jejímž vlastníkem je ten, kdo vlastní věc, jejíž je tato stavba součástí.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Ustanovení odstavce 1 se vztahuje i na část budovy nebo inženýrské stavby uvedené v příloze k tomuto zákonu nebo součást jednotky, je-li dokončená nebo užívaná.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Poplatníci daně",
+          "text": "",
+          "marker": "8",
+          "orderIndex": 2,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatníkem daně ze staveb a jednotek je vlastník zdanitelné stavby nebo zdanitelné jednotky.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatníkem daně ze staveb a jednotek je, jde-li o zdanitelnou stavbu nebo zdanitelnou jednotku, která je",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ve vlastnictví České republiky,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "organizační složka státu, státní příspěvková organizace, státní fond, státní podnik nebo jiná státní organizace, které jsou příslušné hospodařit nebo mají právo hospodařit s majetkem státu,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "právnická osoba, která má právo užívat tuto zdanitelnou stavbu nebo zdanitelnou jednotku na základě výpůjčky vzniklé podle zákona upravujícího některé užívací vztahy k majetku České republiky,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ve svěřenském fondu, tento fond,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "v podílovém fondu, tento fond,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ve fondu obhospodařovaném penzijní společností, tento fond.",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatníkem daně ze staveb a jednotek je vždy nájemce nebo pachtýř u pronajaté nebo propachtované zdanitelné jednotky nebo zdanitelné stavby,",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "je-li s nimi příslušná hospodařit Správa státních hmotných rezerv, nebo",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "jsou-li převedené na základě rozhodnutí o privatizaci na Ministerstvo financí.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Uživatel je poplatníkem daně ze staveb a jednotek, pokud",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "vlastník zdanitelné stavby nebo zdanitelné jednotky není znám, nebo",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "je se zdanitelnou stavbou nebo zdanitelnou jednotkou příslušný hospodařit Státní pozemkový úřad nebo Úřad pro zastupování státu ve věcech majetkových.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Osvobození od daně",
+          "text": "",
+          "marker": "9",
+          "orderIndex": 3,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Od daně ze staveb a jednotek jsou osvobozeny",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky ve vlastnictví České republiky,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky ve vlastnictví té obce, na jejímž katastrálním území se nacházejí,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky ve vlastnictví jiného státu užívané diplomatickými zástupci pověřenými v České republice, konzuly z povolání a jinými osobami, které podle mezinárodního práva požívají diplomatických a konzulárních výsad a imunity, a to za předpokladu, že nejsou občany České republiky, a že je zaručena vzájemnost,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby veřejně přístupného památkového objektu prohlášeného za kulturní památku, který je",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "ve vlastnictví České republiky, nebo",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "přístupný z důvodů výchovně vzdělávacích na základě písemné smlouvy uzavřené mezi Ministerstvem kultury a vlastníkem; ve smlouvě musí být uveden časový a prostorový rozsah zpřístupnění a stanoven jeho režim v souladu s památkovou hodnotou a dalšími způsoby využití objektu,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby, které jsou budovou, nebo zdanitelné jednotky ve vlastnictví registrovaných církví a registrovaných náboženských společností podle zákona upravujícího církve a náboženské společnosti sloužící k vykonávání náboženských obřadů a k výkonu duchovní správy těchto církví a náboženských společností,",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby, které jsou budovou, nebo zdanitelné jednotky ve vlastnictví obecně prospěšných společností, spolků, odborových organizací, organizací zaměstnavatelů, mezinárodních odborových organizací a jejich pobočných organizací,",
+                  "marker": "f)",
+                  "orderIndex": 6,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky přenosové, přepravní nebo distribuční soustavy nebo rozvodného tepelného zařízení podle energetického zákona,",
+                  "marker": "g)",
+                  "orderIndex": 7,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby",
+                  "marker": "i)",
+                  "orderIndex": 8,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "vodárenských objektů včetně úpraven vody,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "kanalizačních objektů nebo čistíren odpadních vod, jakož i zdanitelné stavby určené k čištění odpadních vod před jejich vypouštěním do kanalizací,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "k závlaze a odvodňování pozemků,",
+                      "marker": "3.",
+                      "orderIndex": 3
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby drah a na dráze, letecké, vodních cest a přístavů, pokud jsou v souladu s kolaudačním rozhodnutím podle stavebního zákona užívány k veřejné dopravě,",
+                  "marker": "j)",
+                  "orderIndex": 9,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky sloužící",
+                  "marker": "k)",
+                  "orderIndex": 10,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "školám a školským zařízením zapsaným ve školském rejstříku,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "poskytování péče o děti do 3 let věku na základě oprávnění provozovat živnostenské podnikání,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "muzeím a galeriím, které spravují sbírky zapsané do centrální evidence sbírek muzejní povahy vedené Ministerstvem kultury,",
+                      "marker": "3.",
+                      "orderIndex": 3
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "knihovnám vedeným v evidenci knihoven,",
+                      "marker": "4.",
+                      "orderIndex": 4
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "veřejným archivům podle zákona upravujícího archivnictví a spisovou službu,",
+                      "marker": "5.",
+                      "orderIndex": 5
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zdravotnickým zařízením uvedeným v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb nebo v rozhodnutí o registraci,",
+                      "marker": "6.",
+                      "orderIndex": 6
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zařízením sociálních služeb,",
+                      "marker": "7.",
+                      "orderIndex": 7
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "fundaci nebo ústavu k jimi vykonávané veřejně prospěšné činnosti,",
+                      "marker": "8.",
+                      "orderIndex": 8
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "spolkům zdravotně postižených občanů,",
+                      "marker": "9.",
+                      "orderIndex": 9
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "zařízení služby péče o dítě v dětské skupině podle zákona upravujícího poskytování služby péče o dítě v dětské skupině,",
+                      "marker": "10.",
+                      "orderIndex": 10
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "sociálním družstvům,",
+                      "marker": "11.",
+                      "orderIndex": 11
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky sloužící k zajištění hromadné osobní přepravy,",
+                  "marker": "l)",
+                  "orderIndex": 11,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky sloužící výlučně",
+                  "marker": "m)",
+                  "orderIndex": 12,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "k asanaci kontaminovaných pozemků, podzemních vod a objektů,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "provozu malých vodních elektráren do výkonu 1 MW,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "provozu výroben elektřiny využívajících energii větru,",
+                      "marker": "3.",
+                      "orderIndex": 3
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "provozu výroben elektřiny nebo tepla využívajících energie bioplynu, pokud je získaná energie dodávána do sítě nebo dalším spotřebitelům,",
+                      "marker": "4.",
+                      "orderIndex": 4
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "pro zdroje využívající geotermální energie včetně tepelných čerpadel, které dodávají teplo spotřebitelům, nebo",
+                      "marker": "5.",
+                      "orderIndex": 5
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "jako zdroje energie z biomasy, nejde-li o její přímé spalování,",
+                      "marker": "6.",
+                      "orderIndex": 6
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby, které jsou budovou obytného domu, nebo zdanitelné jednotky ve vlastnictví držitele průkazu ZTP nebo ZTP/P, který je příjemcem dávky státní sociální pomoci, jejíž součástí je složka na živobytí, nebo členem domácnosti tohoto příjemce podle zákona o dávce státní sociální pomoci, a to v rozsahu, v jakém slouží k jejich trvalému bydlení,",
+                  "marker": "n)",
+                  "orderIndex": 13,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby, které jsou budovou pro rodinnou rekreaci a jsou ve vlastnictví",
+                  "marker": "o)",
+                  "orderIndex": 14,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "držitele průkazu ZTP, který je příjemcem dávky státní sociální pomoci, jejíž součástí je složka na živobytí, nebo členem domácnosti tohoto příjemce podle zákona o dávce státní sociální pomoci, nebo",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "držitele průkazu ZTP/P,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky kulturních památek po provedení stavební úpravy, počínaje rokem následujícím po právní moci kolaudačního rozhodnutí podle stavebního zákona, a to na dobu 8 let,",
+                  "marker": "p)",
+                  "orderIndex": 15,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky na dobu pěti let od roku následujícího po provedení změny spočívající ve změně systému vytápění přechodem z pevných paliv na systém využívající obnovitelné energie solární, větrné, geotermální, biomasy, nejde-li o její přímé spalování,",
+                  "marker": "r)",
+                  "orderIndex": 16,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky ve vlastnictví kraje, které se nacházejí v jeho územním obvodu,",
+                  "marker": "t)",
+                  "orderIndex": 17,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky ve vlastnictví veřejných výzkumných institucí,",
+                  "marker": "u)",
+                  "orderIndex": 18,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby nebo zdanitelné jednotky ve vlastnictví veřejných vysokých škol,",
+                  "marker": "v)",
+                  "orderIndex": 19,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "nejdéle na dobu 5 let zdanitelné stavby ve vládou schválené zvýhodněné průmyslové zóně podle zákona upravujícího investiční pobídky pořízené nebo zřízené pro účely realizace investiční akce, pro kterou je vydáno rozhodnutí o příslibu investiční pobídky ve formě osvobození od daně z nemovitých věcí, jestliže obecně závaznou vyhláškou obec zcela nebo částečně osvobodí zdanitelné stavby označené způsobem podle § 12e odst. 2 nebo 3 ve zvýhodněné průmyslové zóně; na zdanitelnou stavbu, která v obecně závazné vyhlášce není označena tímto způsobem, se hledí, jako by nebyla osvobozena.",
+                  "marker": "w)",
+                  "orderIndex": 20,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud podmínky osvobození podle odstavce 1 splňuje pouze část zdanitelné stavby nebo zdanitelné jednotky, je od daně ze staveb a jednotek osvobozena pouze tato část; v případě zdanitelné stavby podle odstavce 1 písm. i) nebo j) je osvobozena celá zdanitelná stavba. Pokud podmínky pro vyloučení jednotlivého osvobození podle odstavce 4 splňuje pouze část zdanitelné stavby nebo zdanitelné jednotky, je z tohoto osvobození vyloučena pouze tato část.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud část zdanitelné stavby nebo zdanitelné jednotky není osvobozena, zjistí se nárok na osvobození od daně ze staveb a jednotek z poměru, v jakém je podlahová plocha nadzemní části zdanitelné stavby nebo podlahová plocha zdanitelné jednotky podléhající osvobození k celkové podlahové ploše nadzemních částí zdanitelné stavby nebo podlahové ploše zdanitelné jednotky.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zdanitelné stavby, s výjimkou budov obytných domů, a zdanitelné jednotky, které zahrnují nebytový prostor jiný než sklep nebo komoru, osvobozené podle odstavce 1 písm. a) jsou osvobozeny od daně ze staveb a jednotek, nejsou-li užívány k podnikání, pronajímány nebo propachtovány; jsou-li pronajaty nebo propachtovány obci, kraji nebo organizační složce státu anebo příspěvkové organizaci, jsou osvobozeny za předpokladu, že nejsou užívány k podnikání. Zdanitelné stavby nebo zdanitelné jednotky osvobozené podle odstavce 1 písm. e), f), u) a v) jsou osvobozeny od daně ze staveb a jednotek, nejsou-li užívány k podnikání, pronajímány nebo propachtovány. Zdanitelné stavby osvobozené podle odstavce 1 písm. j) jsou osvobozeny od daně ze staveb a jednotek, nejsou-li užívány k podnikání v jiné oblasti než veřejná doprava nebo pronajímány anebo propachtovány za jiným účelem než k zajišťování veřejné dopravy. Osvobození od daně ze staveb a jednotek podle odstavce 1 písm. r) se nevztahuje na zdanitelnou stavbu a zdanitelnou jednotku, je-li centrálně vytápěna a napojena na systém rozvodného tepelného zařízení podle energetického zákona.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatník uplatní nárok na osvobození od daně ze staveb a jednotek podle odstavce 1 písm. d) až f), k), m) až r), u) a v) v daňovém přiznání.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Základ daně",
+          "text": "",
+          "marker": "10",
+          "orderIndex": 4,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Základem daně ze staveb a jednotek u zdanitelné stavby je výměra zastavěné plochy v m[2] podle stavu k 1. lednu zdaňovacího období.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zastavěnou plochou se pro účely daně z nemovitých věcí rozumí zastavěná plocha stavby podle stavebního zákona odpovídající nadzemní části zdanitelné stavby.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Základem daně ze staveb a jednotek u jednotky je upravená podlahová plocha, kterou je výměra podlahové plochy zdanitelné jednotky v m[2] podle stavu k 1. lednu zdaňovacího období vynásobená",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "koeficientem 1,22, je-li",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "tato zdanitelná jednotka v budově bytového domu a",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "její součástí podíl na pozemku nebo je-li její vlastník spoluvlastníkem jiného pozemku ve spoluvlastnictví vlastníků takových zdanitelných jednotek užívaného společně s těmito jednotkami, nebo",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "koeficientem 1,20 v ostatních případech.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Podlahovou plochou zdanitelné jednotky se pro účely daně z nemovitých věcí rozumí podlahová plocha",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "evidovaná v katastru nemovitostí, bez ohledu na to, zda odpovídá skutečnému stavu,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "uvedená v prohlášení vlastníka, bez ohledu na to, zda odpovídá skutečnému stavu, pokud podlahová plocha není v katastru nemovitostí u zdanitelné jednotky evidována,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "odpovídající skutečnému stavu zdanitelné jednotky, pokud podlahová plocha není v katastru nemovitostí u zdanitelné jednotky evidována ani není uvedena v prohlášení vlastníka.",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Podlahová plocha zdanitelné jednotky pro účely daně z nemovitých věcí nezahrnuje podlahovou plochu společných částí nemovité věci v rozsahu podílu na nich, který je zahrnut v jednotce.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Skupiny staveb a jednotek",
+          "text": "",
+          "marker": "10a",
+          "orderIndex": 5,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pro účely daně z nemovitých věcí tvoří skupinu",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "obytných budov budovy obytných domů a ostatní budovy s výjimkou budovy garáže, pokud tyto ostatní budovy tvoří příslušenství k budově obytného domu,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "rekreačních budov budovy pro rodinnou rekreaci a budovy s výjimkou budovy garáže, které plní doplňkovou funkci k rekreačním budovám,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "garáží budovy garáže a zdanitelné jednotky, jejichž převažující část podlahové plochy je užívána jako garáž,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelných staveb a zdanitelných jednotek pro podnikání v zemědělské prvovýrobě, lesním nebo vodním hospodářství zdanitelné stavby a zdanitelné jednotky, jejichž převažující část podlahové plochy nadzemní části zdanitelné stavby nebo, nemá-li podlahovou plochu, zastavěné plochy zdanitelné stavby nebo podlahové plochy zdanitelné jednotky je užívána k podnikání v zemědělské prvovýrobě, lesním nebo vodním hospodářství,",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelných staveb a zdanitelných jednotek pro podnikání v průmyslu, stavebnictví, dopravě, energetice nebo ostatní zemědělské výrobě zdanitelné stavby a zdanitelné jednotky, jejichž převažující část podlahové plochy nadzemní části zdanitelné stavby nebo, nemá-li podlahovou plochu, zastavěné plochy zdanitelné stavby nebo podlahové plochy zdanitelné jednotky je užívána k podnikání v průmyslu, stavebnictví, dopravě, energetice nebo ostatní zemědělské výrobě,",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelných staveb a zdanitelných jednotek pro ostatní druhy podnikání zdanitelné stavby a zdanitelné jednotky, jejichž převažující část podlahové plochy nadzemní části zdanitelné stavby nebo, nemá-li podlahovou plochu, zastavěné plochy zdanitelné stavby nebo podlahové plochy zdanitelné jednotky je užívána k podnikání v jiném druhu podnikání než podle písmen d) a e),",
+                  "marker": "f)",
+                  "orderIndex": 6,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ostatních zdanitelných staveb zdanitelné stavby jiné než podle písmen a) až f),",
+                  "marker": "g)",
+                  "orderIndex": 7,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ostatních zdanitelných jednotek zdanitelné jednotky jiné než podle písmen c) až f).",
+                  "marker": "h)",
+                  "orderIndex": 8,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zdanitelná jednotka se zařadí do skupiny odpovídající převažujícímu účelu jejího užívání. Nelze-li z důvodu stejného poměru podlahových ploch užívaných k různým účelům určit, do které skupiny má být zdanitelná jednotka zařazena, zařadí se do skupiny s nejvyšší sazbou daně.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zdanitelná stavba podle odstavce 1 písm. a) až c) nebo g), jejichž převažující část podlahové plochy nadzemní části nebo, nemá-li podlahovou plochu, zastavěné plochy je užívána k podnikání, se vždy zařadí do odpovídající skupiny podle odstavce 1 písm. d) až f). Zdanitelná jednotka podle odstavce 1 písm. c) nebo h), jejichž převažující část podlahové plochy je užívána k podnikání, se vždy zařadí do odpovídající skupiny podle odstavce 1 písm. d) až f).",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zdanitelná stavba a zdanitelná jednotka, které má podnikatel zařazené v obchodním majetku podle zákona upravujícího daně z příjmů, s výjimkou budovy podle odstavce 1 písm. a), zdanitelné jednotky podle odstavce 1 písm. c) a zdanitelné jednotky podle odstavce 1 písm. h), která nezahrnuje jiný nebytový prostor než garáž, sklep nebo komoru, se vždy zařadí do odpovídající skupiny podle odstavce 1 písm. d) až f).",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Nelze-li určit, do které skupiny podle odstavce 1 písm. d) až f) má být zdanitelná stavba nebo zdanitelná jednotka zařazena, zařadí se do skupiny zdanitelných staveb a zdanitelných jednotek pro ostatní druhy podnikání.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Sazba daně",
+          "text": "",
+          "marker": "11",
+          "orderIndex": 6,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Sazba daně činí za každý 1 m[2] u",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Sazba daně za 1 m[2] zastavěné plochy se zvyšuje o 1,40 Kč za každé další nadzemní podlaží, jestliže zastavěná plocha nadzemního podlaží přesahuje",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "dvě třetiny zastavěné plochy, jde-li o zdanitelnou stavbu podle odstavce 1 písm. a) až e) nebo i),",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "jednu třetinu zastavěné plochy, jde-li o zdanitelnou stavbu podle odstavce 1 písm. f) až h).",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pro účely daně ze staveb a jednotek se rozumí",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zastavěnou plochou nadzemního podlaží zastavěná plocha nadzemním podlažím ohraničená pravoúhlými průměty vnějšího líce obvodových konstrukcí tohoto podlaží do vodorovné roviny,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "prvním nadzemním podlažím každé konstrukční podlaží, které má úroveň podlahy nebo i její části do 0,80 m pod nejnižším bodem přilehlého terénu, není-li v projektové dokumentaci stanoveno jinak,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "dalším nadzemním podlažím každé podlaží umístěné nad prvním nadzemním podlažím včetně ustoupeného podlaží a účelově určeného podkroví.",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Sazba daně podle odstavce 1 písm. a), b) a j), případně zvýšená u zdanitelné stavby podle odstavce 2, se násobí koeficientem",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "1,0 v obci do 1 000 obyvatel,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "1,4 v obci nad 1 000 obyvatel do 6 000 obyvatel,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "1,6 v obci nad 6 000 obyvatel do 10 000 obyvatel,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "2,0 v obci nad 10 000 obyvatel do 25 000 obyvatel,",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "2,5 v obci nad 25 000 obyvatel do 50 000 obyvatel,",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "3,5 v obci nad 50 000 obyvatel, ve statutárním městě a ve Františkových Lázních, Luhačovicích, Mariánských Lázních a Poděbradech,",
+                  "marker": "f)",
+                  "orderIndex": 6,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "4,5 v Praze.",
+                  "marker": "g)",
+                  "orderIndex": 7,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Obec může obecně závaznou vyhláškou koeficient podle odstavce 4 zvýšit o jednu kategorii podle členění koeficientů pro všechny zdanitelné stavby zařazené ve skupině obytných budov a všechny zdanitelné jednotky zařazené ve skupině ostatních zdanitelných jednotek na území jednotlivého katastrálního území, jednotlivého městského obvodu nebo jednotlivé městské části. Koeficient 4,5 lze takto zvýšit na koeficient 5,0. Neodpovídá-li takto upravená výše koeficientu podmínkám podle vět první a druhé, hledí se na koeficient podle odstavce 4, jako kdyby nebyl upraven.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "U zdanitelné stavby zařazené ve skupině rekreačních budov umístěné v národním parku nebo v zóně I. chráněné krajinné oblasti se sazba daně podle odstavce 1 písm. c) a d), případně zvýšená podle odstavce 2, násobí koeficientem 2,0.",
+              "marker": 6,
+              "orderIndex": 6,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Zvýšení daně",
+          "text": "",
+          "marker": "11a",
+          "orderIndex": 7,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zvýšení daně ze staveb a jednotek za budovu obytného domu s nebytovým prostorem užívaným k podnikání, s výjimkou nebytového prostoru, který je osvobozenou částí budovy nebo který je užíván k podnikání v zemědělské prvovýrobě, lesním nebo vodním hospodářství, nebo s místností využívanou k podnikání v oboru ubytování, s výjimkou místnosti, která je osvobozenou částí budovy, činí součin",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "výměry podlahové plochy tohoto nebytového prostoru nebo této místnosti v m[2] a",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "3,50 Kč.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zvýšení daně ze staveb a jednotek za zdanitelnou jednotku, která zahrnuje i nebytový prostor užívaný k podnikání s výjimkou nebytového prostoru, který je osvobozenou částí zdanitelné jednotky, nebo je užíván k podnikání v zemědělské prvovýrobě, lesním nebo vodním hospodářství, nebo která zahrnuje místnost využívanou k podnikání v oboru ubytování, s výjimkou místnosti, která je osvobozenou částí budovy, činí součin",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "upravené podlahové plochy tohoto nebytového prostoru nebo této místnosti a",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "kladného rozdílu mezi",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "sazbou daně příslušnou pro zdanitelnou jednotku, jejíž převažující část podlahové plochy je užívána pro podnikání, a",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "sazbou daně příslušnou pro tuto zdanitelnou jednotku.",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Odstavec 1 se nepoužije na zdanitelnou stavbu, na kterou se použije sazba daně podle § 11 odst. 1 písm. f) až h).",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CAST_ZAKONA",
+      "label": null,
+      "marker": "ČÁST ČTVRTÁ",
+      "orderIndex": 4,
+      "title": "VÝPOČET DANĚ",
+      "children": [
+        {
+          "type": "PARAGRAF",
+          "label": "Výpočtový list",
+          "text": "",
+          "marker": "11b",
+          "orderIndex": 1,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Výpočet daně z nemovitých věcí se provádí po jednotlivých výpočtových listech.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Nemovitá věc nebo podíl na ní se uvádí na výpočtovém listu, jsou-li předmětem daně. Nemovitá věc a podíl na ní se uvádí pouze na jednom výpočtovém listu. Na výpočtovém listu se uvádí více nemovitých věcí nebo podílů na nich, mají-li srovnatelné vlastnosti. Podrobnosti rozdělení nemovitých věcí a podílů na nich do jednotlivých výpočtových listů stanoví vyhláška upravující vzor daňového přiznání k dani z nemovitých věcí.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Daň z pozemků za výpočtový list",
+          "text": "",
+          "marker": "11c",
+          "orderIndex": 2,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Výchozí daň z pozemků za výpočtový list činí součin zaokrouhlený na celé koruny nahoru z",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "kladného rozdílu zaokrouhleného na celé koruny nahoru ze",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "součinu zaokrouhleného na celé koruny nahoru z úhrnu základů daně za pozemky zahrnuté na tomto výpočtovém listě zaokrouhleného na celé koruny nebo m[2] nahoru a sazby pro tyto pozemky a",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "úhrnu nároků na osvobození pro pozemky zahrnuté na tomto výpočtovém listě a",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "inflačního koeficientu.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "V případě, že jsou na výpočtovém listu zahrnuty pozemky náležející do spoluvlastnictví, činí výchozí daň z pozemků za výpočtový list součin zaokrouhlený na celé koruny nahoru z",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "výchozí daně z pozemků za tento výpočtový list vypočtené a zaokrouhlené podle odstavce 1 a",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "výše spoluvlastnického podílu.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daň z pozemků za výpočtový list činí součin výchozí daně z pozemků za tento výpočtový list a místního koeficientu pro pozemky zahrnuté na tomto výpočtovém listu zaokrouhlený na celé koruny nahoru.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Daň ze staveb a jednotek za výpočtový list",
+          "text": "",
+          "marker": "11d",
+          "orderIndex": 3,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Výchozí daň ze staveb a jednotek před úpravami za výpočtový list činí součin zaokrouhlený na celé koruny nahoru",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "z úhrnu základů daně ze staveb a jednotek zahrnutých na tomto výpočtovém listě zaokrouhleného na celé koruny nahoru a",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ze sazby pro nemovité věci zahrnuté na tomto výpočtovém listě.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Výchozí daň ze staveb a jednotek před inflačním koeficientem za výpočtový list činí výchozí daň ze staveb a jednotek před úpravami za tento výpočtový list",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zvýšenou o úhrn zvýšení daně pro zdanitelné stavby a zdanitelné jednotky zahrnuté na tomto výpočtovém listě a",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "sníženou o úhrn nároků na osvobození pro zdanitelné stavby a zdanitelné jednotky zahrnuté na tomto výpočtovém listě.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Výchozí daň ze staveb a jednotek za výpočtový list činí součin zaokrouhlený na celé koruny nahoru z",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "výchozí daně ze staveb a jednotek před inflačním koeficientem za tento výpočtový list zaokrouhlené na celé koruny nahoru a",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "inflačního koeficientu.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "V případě, že jsou na výpočtovém listu zahrnuty nemovité věci náležející do spoluvlastnictví, činí výchozí daň ze staveb a jednotek za výpočtový list součin zaokrouhlený na celé koruny nahoru z",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "výchozí daně ze staveb a jednotek za tento výpočtový list vypočtené a zaokrouhlené podle odstavce 3 a",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "výše spoluvlastnického podílu.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daň ze staveb a jednotek za výpočtový list činí součin zaokrouhlený na celé koruny nahoru z",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "výchozí daně ze staveb a jednotek za tento výpočtový list a",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "místního koeficientu pro zdanitelné stavby a zdanitelné jednotky zahrnuté na tomto výpočtovém listě.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Výpočet daně",
+          "text": "",
+          "marker": "11e",
+          "orderIndex": 4,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daň z nemovitých věcí činí součet",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "daně z pozemků a",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "daně ze staveb a jednotek.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daň z pozemků činí úhrn daní z pozemků za všechny výpočtové listy.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daň ze staveb a jednotek činí úhrn daní ze staveb a jednotek za všechny výpočtové listy.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CAST_ZAKONA",
+      "label": null,
+      "marker": "ČÁST PÁTÁ",
+      "orderIndex": 5,
+      "title": "SPOLEČNÁ USTANOVENÍ",
+      "children": [
+        {
+          "type": "PARAGRAF",
+          "label": "Inflační koeficient",
+          "text": "",
+          "marker": "11f",
+          "orderIndex": 1,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Inflační koeficient platný ve zdaňovacím období činí podíl bazického úhrnného indexu spotřebitelských cen za domácnosti celkem za květen kalendářního roku bezprostředně předcházejícího tomuto zdaňovacímu období a čísla 100, nejméně však inflační koeficient platný v bezprostředně předcházejícím zdaňovacím období.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud je inflační koeficient podle odstavce 1 alespoň o jednu pětinu vyšší než inflační koeficient platný v bezprostředně předcházejícím zdaňovacím období, platí, že inflační koeficient platný v tomto zdaňovacím období je o jednu pětinu vyšší než inflační koeficient platný v bezprostředně předcházejícím zdaňovacím období.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Inflační koeficient se zaokrouhluje na 1 desetinné místo dolů.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Dojde-li ve srovnání s bezprostředně předcházejícím zdaňovacím obdobím ke zvýšení inflačního koeficientu, Ministerstvo financí jej na základě údajů Českého statistického úřadu vyhlásí sdělením uveřejněným ve Sbírce zákonů a mezinárodních smluv do 30. června kalendářního roku bezprostředně předcházejícího zdaňovacímu období.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Základem pro bazický úhrnný index spotřebitelských cen za domácnosti celkem podle odstavce 1 je bazický úhrnný index spotřebitelských cen za domácnosti celkem vypočtený na základě údajů Českého statistického úřadu tak, že úrovni cenové hladiny v měsíci květnu kalendářního roku 2023 odpovídá hodnota 100.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Inflační koeficient pro zemědělský pozemek činí vždy 1,0.",
+              "marker": 6,
+              "orderIndex": 6,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Místní koeficient",
+          "text": "",
+          "marker": "12",
+          "orderIndex": 2,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Místní koeficient ve výši od 0,5 do 5,0, a to s přesností nejvýše na jedno desetinné místo, může obec stanovit",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "obecně závaznou vyhláškou v případě místního koeficientu pro",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": [
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "obec,",
+                      "marker": "1.",
+                      "orderIndex": 1
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "jednotlivé katastrální území,",
+                      "marker": "2.",
+                      "orderIndex": 2
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "jednotlivý městský obvod nebo jednotlivou městskou část,",
+                      "marker": "3.",
+                      "orderIndex": 3
+                    },
+                    {
+                      "label": null,
+                      "type": "BOD",
+                      "text": "jednotlivou skupinu nemovitých věcí, nebo",
+                      "marker": "4.",
+                      "orderIndex": 4
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "opatřením obecné povahy vydaným zastupitelstvem obce v případě místního koeficientu pro vymezené nemovité věci.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Místní koeficient pro jednotlivou skupinu lze zavést pouze ve výši od 0,5 do 1,5, jde-li o skupinu vybraných zemědělských pozemků, trvalých travních porostů nebo nevyužitelných ostatních ploch.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Místní koeficient pro nemovitou věc, pro kterou obec nestanoví místní koeficient podle odstavce 1, činí 1,0.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud se na nemovitou věc vztahuje vedle místního koeficientu pro vymezené nemovité věci také jiný místní koeficient, použije se na tuto nemovitou věc pouze místní koeficient pro vymezené nemovité věci.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud se na nemovitou věc vztahuje vedle místního koeficientu pro obec také jiný místní koeficient než podle odstavce 1 písm. a) bodu 1, místní koeficient pro obec se na ni nepoužije.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud se na nemovitou věc vztahuje vedle místního koeficientu pro jednotlivé katastrální území také místní koeficient pro jednotlivý městský obvod nebo jednotlivou městskou část, místní koeficient pro katastrální území se na ni nepoužije.",
+              "marker": 6,
+              "orderIndex": 6,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud se na nemovitou věc vztahuje vedle místního koeficientu pro jednotlivou skupinu nemovitých věcí také místní koeficient pro jednotlivé katastrální území, použije se vyšší z nich.",
+              "marker": 7,
+              "orderIndex": 7,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud se na nemovitou věc vztahuje vedle místního koeficientu pro jednotlivou skupinu nemovitých věcí také místní koeficient pro jednotlivý městský obvod nebo jednotlivou městskou část, použije se vyšší z nich, nestanoví-li obec v obecně závazné vyhlášce jinak.",
+              "marker": 8,
+              "orderIndex": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Požadavky na označení územních jednotek a nemovitých věcí",
+          "text": "",
+          "marker": "12a",
+          "orderIndex": 3,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud má katastrální území stejný název jako městský obvod nebo městská část a z obecně závazné vyhlášky nevyplývá, zda je místní koeficient stanoven pro katastrální území nebo pro městský obvod nebo městskou část, má se za to, že je stanoven pro městský obvod nebo pro městskou část.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pozemek, zdanitelná stavba nebo zdanitelná jednotka, na které se vztahuje místní koeficient pro vymezené nemovité věci, musí být v opatření obecné povahy označeny způsobem podle § 12e. V opačném případě se na ně hledí, jako by pro ně opatřením obecné povahy nebyl místní koeficient pro vymezené nemovité věci stanoven.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Vymezení místních koeficientů",
+          "text": "",
+          "marker": "12ab",
+          "orderIndex": 4,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Místní koeficient pro obec se vztahuje na všechny nemovité věci na území celé obce.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Místní koeficient pro jednotlivé katastrální území se vztahuje na všechny nemovité věci na území daného katastrálního území.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Místní koeficient pro jednotlivý městský obvod nebo jednotlivou městskou část se vztahuje na všechny nemovité věci na území daného městského obvodu nebo dané městské části podle zákona upravujícího územní samosprávu.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Místní koeficient pro jednotlivou skupinu nemovitých věcí se vztahuje na všechny nemovité věci dané skupiny nemovitých věcí na území celé obce.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Místní koeficient pro vymezené nemovité věci se vztahuje na dané seskupení nemovitých věcí nebo danou nemovitou věc.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Místní koeficienty podle odstavců 1 až 3 a 5 se nevztahují na pozemek zařazený do skupiny vybraných zemědělských pozemků, trvalých travních porostů nebo nevyužitelných ostatních ploch.",
+              "marker": 6,
+              "orderIndex": 6,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Jednotky",
+          "text": "Ustanovení tohoto zákona o jednotce a o nemovité věci se použijí obdobně i na jednotku, která je vymezena podle zákona o vlastnictví bytů, spolu se s ní spojeným podílem na společných částech domu, a pokud je s ní spojeno vlastnictví k pozemku, tak i spolu s podílem na tomto pozemku.",
+          "marker": "12b",
+          "orderIndex": 5,
+          "children": []
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Zdaňovací období",
+          "text": "Zdaňovacím obdobím je kalendářní rok. Ke změnám skutečností rozhodných pro daň, které nastanou v průběhu zdaňovacího období, se nepřihlíží.",
+          "marker": "12c",
+          "orderIndex": 6,
+          "children": []
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Osvobození od daně z nemovitých věcí ve zvýhodněných průmyslových zónách",
+          "text": "",
+          "marker": "12d",
+          "orderIndex": 7,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Osvobození od daně z nemovitých věcí ve zvýhodněné průmyslové zóně nesmí ve zdaňovacím období překročit míru veřejné podpory podle zákona upravujícího investiční pobídky vztaženou k dosud skutečně vynaloženým způsobilým nákladům a současně nemůže v celkovém souhrnu s dalšími formami investiční pobídky překročit maximální výši podpory stanovenou rozhodnutím o příslibu investiční pobídky podle zákona upravujícího investiční pobídky.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Částečné osvobození od daně z nemovitých věcí ve zvýhodněné průmyslové zóně určí obec v obecně závazné vyhlášce procentem.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "V obecně závazné vyhlášce obec vymezí pozemky zvýhodněné průmyslové zóny a označí je způsobem podle § 12e odst. 1. Na pozemek, který v obecně závazné vyhlášce není označen tímto způsobem, se hledí, jako by nebyl osvobozen.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Označení nemovité věci",
+          "text": "",
+          "marker": "12e",
+          "orderIndex": 8,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Stanoví-li tak tento zákon, označuje se pro účely daně z nemovitých věcí pozemek parcelním číslem",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "s uvedením názvu katastrálního území, ve kterém leží, a v případě, že jsou v katastrálním území pozemky vedeny ve dvou číselných řadách a jde o stavební parcelu, též údajem o této skutečnosti, jinak se má za to, že jde o pozemkovou parcelu, nebo",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "podle dřívější pozemkové evidence s uvedením, zda se jedná o parcelní číslo podle pozemkového katastru, přídělového operátu, scelovacího operátu nebo evidence nemovitostí, s uvedením názvu katastrálního území, ve kterém leží, a s uvedením názvu původního katastrálního území, pokud byl pozemek dotčen změnou hranice katastrálního území, je-li evidován zjednodušeným způsobem podle katastrálního zákona.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Stanoví-li tak tento zákon, označuje se pro účely daně z nemovitých věcí zdanitelná stavba označením pozemku, na kterém se zdanitelná stavba nachází, způsobem podle odstavce 1 a",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "číslem popisným nebo evidenčním a příslušností zdanitelné stavby k části obce, pokud je název části obce odlišný od názvu katastrálního území, v němž se nachází zdanitelná stavba, nebo",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "skupinou, ve které je zařazena zdanitelná stavba, pokud jí není přiděleno číslo popisné ani evidenční; toto označení se vztahuje na všechny zdanitelné stavby, kterým není přiděleno číslo popisné ani evidenční, zařazené v této skupině a nacházející se na tomto pozemku.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zdanitelnou stavbu lze pro účely daně z nemovitých věcí označit také pouze označením pozemku způsobem podle odstavce 1. V takovém případě se toto označení vztahuje na všechny zdanitelné stavby nacházející se na tomto pozemku, pokud je současně uvedeno, že se jedná o označení zdanitelné stavby.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Stanoví-li tak tento zákon, označuje se pro účely daně z nemovitých věcí zdanitelná jednotka číslem jednotky a označením stavby způsobem podle odstavce 2.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zdanitelnou jednotku lze pro účely daně z nemovitých věcí označit také pouze označením",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemku způsobem podle odstavce 1, nebo",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "zdanitelné stavby způsobem podle odstavce 2.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Je-li zdanitelná jednotka označena způsobem podle odstavce 5, vztahuje se toto označení na všechny zdanitelné jednotky na daném pozemku nebo v dané zdanitelné stavbě, pokud je současně uvedeno, že se jedná o označení zdanitelné jednotky.",
+              "marker": 6,
+              "orderIndex": 6,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Počet obyvatel obce",
+          "text": "Pro účely daně z nemovitých věcí je rozhodující počet obyvatel obce podle vyhlášky k provedení zákona o rozpočtovém určení daní, ve znění účinném k prvnímu dni zdaňovacího období.",
+          "marker": "12f",
+          "orderIndex": 9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "CAST_ZAKONA",
+      "label": null,
+      "marker": "ČÁST ŠESTÁ",
+      "orderIndex": 6,
+      "title": "SPRÁVA DANĚ Z NEMOVITÝCH VĚCÍ",
+      "children": [
+        {
+          "type": "PARAGRAF",
+          "label": "Solidární daňová povinnost",
+          "text": "",
+          "marker": "13",
+          "orderIndex": 1,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatníci, kteří jsou spoluvlastníky nemovité věci, nebo u nichž nelze určit podíl na nemovité věci, jsou povinni plnit daňovou povinnost společně a nerozdílně.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Na poplatníky, kteří jsou povinni plnit daňovou povinnost společně a nerozdílně, se hledí, jako by měli společnou daňovou povinnost.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Je-li v katastru nemovitostí u nemovité věci zapsáno vlastnické právo dvou nebo více osob a nejde-li o spoluvlastnictví, hledí se na tyto osoby pro účely daně z nemovitých věcí jako na vlastníky této nemovité věci, u nichž nelze určit podíl na této nemovité věci. To platí obdobně i pro spoluvlastnický podíl na nemovité věci.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Daňové přiznání",
+          "text": "",
+          "marker": "13a",
+          "orderIndex": 2,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daňové přiznání je poplatník povinen podat příslušnému správci daně do 31. ledna zdaňovacího období. Daňové přiznání se nepodává, pokud je poplatník podal na některé z předchozích zdaňovacích období nebo daň byla stanovena na některé z předchozích zdaňovacích období z moci úřední a ve srovnání s tímto předchozím zdaňovacím obdobím nedošlo ke změně okolností rozhodných pro stanovení daně. V tomto případě se daň vyměří ve výši poslední známé daně a za den vyměření daně a současně za den doručení tohoto rozhodnutí poplatníkovi se považuje 31. leden zdaňovacího období; správce daně nemusí daňovému subjektu výsledek vyměření oznamovat platebním výměrem, platební výměr nemusí obsahovat odůvodnění, založí se do spisu a nelze se proti němu odvolat. Na žádost daňového subjektu mu správce daně zašle stejnopis platebního výměru, a to do 30 dnů ode dne, kdy žádost obdržel. Dojde-li ve srovnání s předchozím zdaňovacím obdobím ke změně okolností rozhodných pro stanovení daně nebo ke změně v osobě poplatníka, je poplatník povinen daň do 31. ledna zdaňovacího období přiznat; v těchto případech lze daň přiznat buď podáním daňového přiznání nebo podáním dílčího daňového přiznání. V dílčím daňovém přiznání poplatník uvede jen nastalé změny a výpočet celkové daně.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Dojde-li ve srovnání s předchozím zdaňovacím obdobím pouze",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ke změně výše sazby daně pro nemovitou věc; to platí pouze, pokud se na ni použije sazba podle stejného ustanovení tohoto zákona, jako v předchozím zdaňovacím období,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ke změně průměrné ceny pozemku přiřazené ke stávajícím jednotlivým katastrálním územím podle § 5 odst. 1,",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ke stanovení nebo ke změně koeficientu podle § 6 odst. 3 nebo 4 nebo podle § 11 odst. 4 až 6, inflačního koeficientu nebo místního koeficientu,",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ke vzniku osvobození od daně podle § 4 odst. 1 písm. v), x) nebo z) nebo podle § 9 odst. 1 písm. w),",
+                  "marker": "d)",
+                  "orderIndex": 4,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "k zániku osvobození od daně uplynutím zákonem stanovené lhůty nebo uplynutím lhůty stanovené obecně závaznou vyhláškou nebo opatřením obecné povahy podle § 17a a předmět daně není ani částečně osvobozen od daně z jiného důvodu nebo",
+                  "marker": "e)",
+                  "orderIndex": 5,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "ke změně místní příslušnosti,",
+                  "marker": "f)",
+                  "orderIndex": 6,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zemřel-li poplatník v průběhu lhůty pro podání daňového přiznání, aniž by splnil povinnost ho podat, prodlužuje se tato lhůta o 2 měsíce. Bylo-li skončeno řízení o pozůstalosti v průběhu lhůty pro podání daňového přiznání, aniž by osoba spravující pozůstalost splnila povinnost ho podat, prodlužuje se tato lhůta o 2 měsíce.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Podá-li daňové přiznání jeden z poplatníků majících vlastnická nebo jiná práva k téže nemovité věci, považuje se tento poplatník za jejich společného zástupce, pokud si poplatníci nezvolí společného zmocněnce nebo nejde-li o případ podle odstavce 5.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Je-li ve lhůtě do 31. ledna zdaňovacího období podáno daňové přiznání alespoň jedním z poplatníků, kteří jsou spoluvlastníky, za jeho spoluvlastnický podíl na nemovité věci, má povinnost podat daňové přiznání každý spoluvlastník za svůj podíl na nemovité věci samostatně. V tomto případě přiznává a platí každý spoluvlastník daň ve výši svého podílu na celkové dani odpovídající jeho podílu na nemovité věci. Postup podle věty první nelze uplatnit u pozemku evidovaného v katastru nemovitostí zjednodušeným způsobem. Jestliže některý ze spoluvlastníků nemovité věci daňové přiznání nepodá, správce daně mu stanoví daň z moci úřední, bez předchozí výzvy k podání daňového přiznání.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pokud v předchozím zdaňovacím období měli spoluvlastníci nemovité věci společného zástupce nebo společného zmocněnce, a pokud bude uplatněn správcem daně postup podle odstavce 5 věty čtvrté, neuplatní se pokuta za opožděné tvrzení daně ani penále z doměřené daně. Úrok z prodlení podle daňového řádu počítá se od čtvrtého dne následujícího po náhradním dni splatnosti daně stanovené z moci úřední.",
+              "marker": 6,
+              "orderIndex": 6,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Podle odstavce 5 a odstavce 6 věty první se postupuje rovněž při doměření daně ostatním spoluvlastníkům, jestliže jeden ze spoluvlastníků podal dodatečné daňové přiznání k poslední známé dani přiznané podle odstavce 5 nebo stanovené z moci úřední podle odstavce 5.",
+              "marker": 7,
+              "orderIndex": 7,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Nepodá-li daňové přiznání žádný z poplatníků majících vlastnická nebo jiná práva k téže nemovité věci a nezvolí-li si společného zmocněnce ani na výzvu správce daně, správce daně jim stanoví daň z moci úřední ve výši odpovídající jejich podílu na nemovité věci bez předchozí výzvy k podání daňového přiznání.",
+              "marker": 8,
+              "orderIndex": 8,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Ztratil-li ten, kdo byl poplatníkem daně z nemovitých věcí, postavení poplatníka proto, že v průběhu zdaňovacího období se změnila vlastnická nebo jiná práva ke všem nemovitým věcem v územním obvodu téhož správce daně, které u něho podléhaly dani z nemovitých věcí, nebo tyto nemovité věci zanikly, je povinen oznámit tuto skutečnost správci daně nejpozději do 31. ledna následujícího zdaňovacího období.",
+              "marker": 9,
+              "orderIndex": 9,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Dojde-li ke změně ostatních údajů uvedených v daňovém přiznání, je poplatník povinen tyto změny oznámit správci daně do 30 dnů ode dne, kdy nastaly.",
+              "marker": 10,
+              "orderIndex": 10,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Nebylo-li do 31. prosince roku, ve kterém byl podán návrh na vklad práva vlastnického do katastru nemovitostí, kterým toto právo vzniká, rozhodnuto o jeho povolení, je poplatník povinen za nemovitou věc, která byla předmětem vkladu práva vlastnického podat daňové přiznání nejpozději do konce třetího kalendářního měsíce následujícího po kalendářním měsíci, v němž byl zapsán vklad práva vlastnického do katastru nemovitostí. Daňové přiznání poplatník podává na zdaňovací období následující po roce, v němž vznikly právní účinky vkladu. Povinnost podat daňové přiznání nevzniká, pokud daňové přiznání za nemovitou věc podal současný společný zástupce nebo společný zmocněnec.",
+              "marker": 11,
+              "orderIndex": 11,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Nepřešlo-li do 31. prosince zdaňovacího období vlastnické právo k nemovité věci prodané v dražbě, je poplatník za nemovitou věc povinen podat daňové přiznání nejpozději do konce třetího kalendářního měsíce bezprostředně následujícího po uplynutí kalendářního měsíce, v němž byly splněny podmínky pro nabytí vlastnického práva k nemovité věci vydražené v dražbě vydražitelem nebo předražitelem.",
+              "marker": 12,
+              "orderIndex": 12,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Stanovení daně",
+          "text": "",
+          "marker": "13b",
+          "orderIndex": 3,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daň z nemovitých věcí se stanoví na zdaňovací období podle stavu k 1. lednu roku, na který je daň stanovována.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daň z nemovitých věcí lze stanovit platebním výměrem, dodatečným platebním výměrem nebo hromadným předpisným seznamem; stanovení daně hromadným předpisným seznamem se neodůvodňuje.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "V případech, kdy se daňové přiznání nepodává, počne běžet lhůta pro stanovení daně dnem 31. ledna zdaňovacího období.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Zvláštní ustanovení o daňovém přiznání a stanovení daně",
+          "text": "",
+          "marker": "14",
+          "orderIndex": 4,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Nedodrží-li poplatník, který uplatňuje nárok na osvobození od daně z nemovitých věcí ve zvýhodněné průmyslové zóně, některou ze všeobecných podmínek stanovených zákonem upravujícím investiční pobídky nebo některou z povinností, jejichž nesplněním pozbývá rozhodnutí o příslibu investiční pobídky platnosti, nárok na osvobození pozemků nebo zdanitelných staveb zaniká.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Zanikl-li nárok na osvobození podle odstavce 1, je poplatník povinen podat dodatečná daňová přiznání na všechna zdaňovací období, ve kterých uplatnil nárok na toto osvobození.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Byla-li poskytnuta investiční pobídka formou osvobození podle odstavce 1, lhůta pro stanovení daně na zdaňovací období, ve kterém nárok na toto osvobození vznikl, i pro všechna zdaňovací období, na která lze toto osvobození uplatnit, končí současně se lhůtou pro stanovení daně na zdaňovací období, v němž uplynula lhůta pro uplatnění nároku na toto osvobození.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Placení daně",
+          "text": "",
+          "marker": "15",
+          "orderIndex": 5,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Daň z nemovitých věcí je splatná",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "u poplatníků daně provozujících zemědělskou výrobu ve dvou stejných splátkách, a to nejpozději do 31. srpna a do 30. listopadu zdaňovacího období,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "u ostatních poplatníků daně ve dvou stejných splátkách, a to nejpozději do 31. května a do 30. listopadu zdaňovacího období.",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Nepřesáhne-li roční daň z nemovitých věcí částku 5 000 Kč, je splatná najednou, a to nejpozději do 31. května zdaňovacího období. Ke stejnému datu lze daň z nemovitých věcí zaplatit najednou i při vyšší částce.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Činí-li u jednoho poplatníka celková daň z nemovitých věcí nacházejících se v obvodu územní působnosti jednoho správce daně méně než 50 Kč a není-li dále stanoveno jinak, daňové přiznání nebo dílčí daňové přiznání se za podmínek uvedených v § 13a tohoto zákona podává, daň se stanoví, ale nepředepíše. Výsledek stanovení se poplatníkovi neoznamuje, pokud o to poplatník nepožádá.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Činí-li v obvodu územní působnosti jednoho správce daně daň z pozemků u poplatníka, který podle § 13a odst. 5 podává daňové přiznání za spoluvlastnický podíl na dani z pozemků nebo mu je podle § 13a odst. 5 nebo 8 stanovena daň ve výši spoluvlastnického podílu na dani z pozemků z moci úřední, a nejedná-li se o podíly od daně zcela osvobozené, méně než 90 Kč, je daň poplatníka u daně z pozemků 90 Kč. Obdobně se postupuje u daně ze staveb a jednotek.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Jsou-li důvody pro podání daňového přiznání podle ustanovení § 13a odst. 11 nebo odst. 12 nebo je-li prodloužena lhůta pro podání daňového přiznání, je daň z nemovitých věcí nebo její splátka, jejichž splatnost nastala před uplynutím lhůty pro podání daňového přiznání, splatná v poslední den lhůty pro podání daňového přiznání.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Potvrzení podání podle § 71 odst. 3 daňového řádu může poplatník, který je fyzickou osobou, v případě žádosti o zaslání informace pro placení daně z nemovitých věcí učinit také pomocí elektronické kopie dokumentu opatřeného vlastnoručním podpisem, zaslané na elektronickou adresu zveřejněnou správcem daně. Pokud je žádost o zaslání informace pro placení daně z nemovitých věcí podána poplatníkem, který je fyzickou osobou, ve formě elektronické kopie dokumentu opatřeného vlastnoručním podpisem, považuje se za potvrzenou podle § 71 odst. 3 daňového řádu.",
+              "marker": 6,
+              "orderIndex": 6,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Pokuta za opožděné tvrzení daně",
+          "text": "Má-li poplatník povinnost podat daňové přiznání nebo dodatečné daňové přiznání a podá-li je po lhůtě pro jejich podání, aniž by byl správcem daně k tomu vyzván, nevzniká poplatníkovi povinnost uhradit pokutu za opožděné tvrzení daně.",
+          "marker": "15a",
+          "orderIndex": 6,
+          "children": []
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Zvláštní ustanovení o splatnosti daně",
+          "text": "Přesáhne-li při doměření daně roční daň z nemovitých věcí částku 5 000 Kč a poslední známá daň nepřesáhla tuto částku, část daně odpovídající poslední známé dani je splatná ve lhůtě splatnosti první splátky daně a doměřený rozdíl je splatný do 30. listopadu zdaňovacího období.",
+          "marker": "16",
+          "orderIndex": 7,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "CAST_ZAKONA",
+      "label": null,
+      "marker": "ČÁST SEDMÁ",
+      "orderIndex": 7,
+      "title": "OBECNĚ ZÁVAZNÉ VYHLÁŠKY A OPATŘENÍ OBECNÉ POVAHY",
+      "children": [
+        {
+          "type": "PARAGRAF",
+          "label": "Obecně závazné vyhlášky",
+          "text": "",
+          "marker": "16a",
+          "orderIndex": 1,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Pro účely daně z nemovitých věcí se ve zdaňovacím období nepřihlíží k obecně závazné vyhlášce, která nabyla platnosti po 1. říjnu kalendářního roku bezprostředně předcházejícího tomuto zdaňovacímu období.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Odstavec 1 se nepoužije na obecně závaznou vyhlášku, která nabyla platnosti do 17. prosince kalendářního roku bezprostředně předcházejícího zdaňovacímu období podle odstavce 1, pokud se na základě výzvy ke zjednání nápravy nebo na základě rozhodnutí o pozastavení účinnosti obecně závazné vyhlášky touto obecně závaznou vyhláškou zjednala náprava obecně závazné vyhlášky podle odstavce 1.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "K ustanovení obecně závazné vyhlášky vztahujícímu se ke zdaňovacímu období, které započalo přede dnem nabytí účinnosti tohoto ustanovení obecně závazné vyhlášky, se pro účely daně z nemovitých věcí ve vztahu k tomuto zdaňovacímu období nepřihlíží. To platí obdobně i pro změnu takového ustanovení.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Ministerstvo vnitra bez zbytečného odkladu vyrozumí správce daně, v jehož obvodu územní působnosti se nachází dotčená obec, o vydání výzvy ke zjednání nápravy obecně závazné vyhlášky nebo rozhodnutí o pozastavení účinnosti obecně závazné vyhlášky a o tom, že nově vydanou obecně závaznou vyhláškou byla zjednána náprava obecně závazné vyhlášky podle odstavce 1.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Odstavce 1 až 3 se nepoužijí na obecně závaznou vyhlášku podle § 17a.",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Opatření obecné povahy",
+          "text": "",
+          "marker": "16b",
+          "orderIndex": 2,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Obec je povinna elektronicky zaslat stejnopis opatření obecné povahy vydaného podle tohoto zákona správci daně nejpozději do 30. června kalendářního roku bezprostředně předcházejícího zdaňovacímu období. K opožděně zaslanému opatření obecné povahy se v tomto zdaňovacím období pro účely daně z nemovitých věcí nepřihlíží.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "K výroku opatření obecné povahy vydanému podle tohoto zákona vztahujícímu se ke zdaňovacímu období, které započalo přede dnem nabytí jeho účinnosti, se pro účely daně z nemovitých věcí ve vztahu k tomuto zdaňovacímu období nepřihlíží. To platí obdobně i pro změnu takového výroku.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Odstavce 1 a 2 se nepoužijí na opatření obecné povahy podle § 17a.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CAST_ZAKONA",
+      "label": null,
+      "marker": "ČÁST OSMÁ",
+      "orderIndex": 8,
+      "title": "ZMOCŇOVACÍ USTANOVENÍ",
+      "children": [
+        {
+          "type": "PARAGRAF",
+          "label": null,
+          "text": "Ministerstvo zemědělství České republiky v dohodě s ministerstvem financí České republiky upraví vyhláškou seznam katastrálních území s přiřazenými průměrnými cenami pozemků orné půdy, chmelnic, vinic, zahrad, ovocných sadů a trvalých travních porostů odvozenými z bonitovaných půdně ekologických jednotek.",
+          "marker": "17",
+          "orderIndex": 1,
+          "children": []
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Osvobození při mimořádné události",
+          "text": "",
+          "marker": "17a",
+          "orderIndex": 2,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Obec může při řešení důsledků mimořádné, zejména živelní, události nejdéle na dobu 5 let zcela nebo částečně osvobodit od daně z nemovitých věcí na svém území nemovité věci dotčené mimořádnou událostí, a to",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "obecně závaznou vyhláškou, jde-li o nemovitou věc podle odstavce 5 písm. a) nebo b), nebo",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "opatřením obecné povahy vydaným zastupitelstvem obce, jde-li o nemovitou věc podle odstavce 5 písm. c).",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Osvobození od daně z nemovitých věcí lze přijmout též pro již uplynulé zdaňovací období.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Obecně závazná vyhláška nebo opatření obecné povahy podle odstavce 1 musí být vydány tak, aby nabyly účinnosti do 31. března roku následujícího po zdaňovacím období, v němž k mimořádné události došlo. Částečné osvobození se vyjádří procentem.",
+              "marker": 3,
+              "orderIndex": 3,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Poplatník uplatní nárok na osvobození podle odstavce 1 v dodatečném daňovém přiznání, uplatňuje-li tento nárok za již uplynulé zdaňovací období nebo uplatňuje-li jej na zdaňovací období po lhůtě pro podání daňového přiznání.",
+              "marker": 4,
+              "orderIndex": 4,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Obec může osvobodit podle odstavce 1",
+              "marker": 5,
+              "orderIndex": 5,
+              "children": [
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "všechny nemovité věci, všechny pozemky nebo všechny zdanitelné stavby a zdanitelné jednotky na celém území obce,",
+                  "marker": "a)",
+                  "orderIndex": 1,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "všechny nemovité věci, všechny pozemky nebo všechny zdanitelné stavby a zdanitelné jednotky v katastrálním území dotčeném mimořádnou událostí, nebo",
+                  "marker": "b)",
+                  "orderIndex": 2,
+                  "children": []
+                },
+                {
+                  "label": null,
+                  "type": "PISMENO",
+                  "text": "pozemek, zdanitelnou stavbu nebo zdanitelnou jednotku dotčené mimořádnou událostí, jsou-li označeny způsobem podle § 12e; na nemovitou věc, která v opatření obecné povahy není označena tímto způsobem, se hledí, jako by nebyla osvobozena.",
+                  "marker": "c)",
+                  "orderIndex": 3,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CAST_ZAKONA",
+      "label": null,
+      "marker": "ČÁST DEVÁTÁ",
+      "orderIndex": 9,
+      "title": "PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "children": [
+        {
+          "type": "PARAGRAF",
+          "label": null,
+          "text": "",
+          "marker": "18",
+          "orderIndex": 1,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Osvobození od daně z pozemků podle § 4 zákona č. 172/1988 Sb., o zemědělské dani, a nařízení vlády České republiky č. 554/1991 Sb., o osvobození některých příjmů od daně z příjmů obyvatelstva a daňových úlevách pro začínající samostatně hospodařící rolníky, zůstává v platnosti až do uplynutí lhůty rozhodné pro osvobození, pokud tento zákon nestanoví nové lhůty.",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": []
+            },
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "Úlevy, na které vznikl nárok podle nařízení vlády České republiky č. 579/1990 Sb., o úlevách na domovní dani, se poskytnou poplatníkům formou odpočtu od vypočtené daně z nemovitosti.",
+              "marker": 2,
+              "orderIndex": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": null,
+          "text": "U staveb, kde vznikla daňová povinnost platit domovní daň podle nájemného a ceny užívání podle zákona č. 143/1961 Sb., o domovní dani, v roce 1992, vyměří příslušný obecní úřad daň na rok 1992 po jeho uplynutí z nájemného a ceny užívání připadající na dobu ode dne vzniku daňové povinnosti do konce roku 1992, po srážce odčitatelných položek připadajících na tuto dobu.",
+          "marker": "19",
+          "orderIndex": 2,
+          "children": []
+        },
+        {
+          "type": "PARAGRAF",
+          "label": null,
+          "text": "Ve zdaňovacím období roku 1994 budou poplatníci, kteří nemají povinnost podat daňové přiznání nebo dílčí daňové přiznání, platit zálohy na daň ve výši daně splatné v předchozím zdaňovacím období k termínům uvedeným v § 15 odst. 1 a 2 až do doby doručení hromadného předpisného seznamu nebo platebního výměru. Rozdíl mezi splatnou daňovou povinností a zaplacenými zálohami poplatníci zaplatí ve lhůtě do 15 dnů po doručení hromadného předpisného seznamu nebo platebního výměru. Přeplatek, který je rozdílem mezi zaplacenými zálohami a roční daňovou povinností, se vrátí za podmínek stanovených zvláštním předpisem.",
+          "marker": "19a",
+          "orderIndex": 3,
+          "children": []
+        },
+        {
+          "type": "PARAGRAF",
+          "label": null,
+          "text": "Společný zástupce, který byl společným zástupcem poplatníků majících vlastnická nebo jiná práva k témuž pozemku do 31. prosince 2006, se považuje za společného zástupce i na následující zdaňovací období, pokud si poplatníci nezvolí jiného společného zástupce podle § 13a odst. 4 nebo postup podle § 13a odst. 5 tohoto zákona.",
+          "marker": "19b",
+          "orderIndex": 4,
+          "children": []
+        },
+        {
+          "type": "PARAGRAF",
+          "label": null,
+          "text": "Daň z nemovitostí se vyměří podle tohoto zákona poprvé na rok 1993 podle stavu k 1. lednu 1993.",
+          "marker": "20",
+          "orderIndex": 5,
+          "children": []
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Zrušovací ustanovení",
+          "text": "Zrušují se:",
+          "marker": "21",
+          "orderIndex": 6,
+          "children": [
+            {
+              "label": null,
+              "type": "ODSTAVEC",
+              "text": "",
+              "marker": 1,
+              "orderIndex": 1,
+              "children": [
+                {
+                  "label": null,
+                  "type": "BOD",
+                  "text": "S působností pro Českou republiku zákon č. 143/1961 Sb., o domovní dani, ve znění zákona č. 129/1974 Sb.",
+                  "marker": "1.",
+                  "orderIndex": 1
+                },
+                {
+                  "label": null,
+                  "type": "BOD",
+                  "text": "§ 1 písm. g) a § 8 zákona České národní rady č. 565/1990 Sb., o místních poplatcích.",
+                  "marker": "2.",
+                  "orderIndex": 2
+                },
+                {
+                  "label": null,
+                  "type": "BOD",
+                  "text": "Nařízení vlády České socialistické republiky č. 82/1978 Sb., o osvobození obytných domů s byty v osobním vlastnictví od domovní daně.",
+                  "marker": "3.",
+                  "orderIndex": 3
+                },
+                {
+                  "label": null,
+                  "type": "BOD",
+                  "text": "Nařízení vlády České republiky č. 579/1990 Sb., o úlevách na domovní dani.",
+                  "marker": "4.",
+                  "orderIndex": 4
+                },
+                {
+                  "label": null,
+                  "type": "BOD",
+                  "text": "S působností pro Českou republiku vyhláška ministerstva financí č. 144/1961 Sb., kterou se provádí zákon č. 143/1961 Sb., o domovní dani.",
+                  "marker": "5.",
+                  "orderIndex": 5
+                },
+                {
+                  "label": null,
+                  "type": "BOD",
+                  "text": "S působností pro Českou republiku vyhláška ministerstva financí č. 14/1968 Sb., o úlevách na domovní dani.",
+                  "marker": "6.",
+                  "orderIndex": 6
+                },
+                {
+                  "label": null,
+                  "type": "BOD",
+                  "text": "Vyhláška ministerstva financí České socialistické republiky č. 101/1976 Sb., kterou se doplňuje vyhláška ministerstva financí č. 14/1968 Sb., o úlevách na domovní dani.",
+                  "marker": "7.",
+                  "orderIndex": 7
+                },
+                {
+                  "label": null,
+                  "type": "BOD",
+                  "text": "Vyhláška ministerstva financí, cen a mezd České socialistické republiky č. 217/1988 Sb., o odvádění nájemného na zvláštní účty nájemného, ve znění vyhlášky č. 29/1991 Sb.",
+                  "marker": "8.",
+                  "orderIndex": 8
+                },
+                {
+                  "label": null,
+                  "type": "BOD",
+                  "text": "Opatření ministerstva financí České republiky ze dne 25. 1. 1991 k odstranění nesrovnalostí při vyměřování domovní daně (vyhlášeno v částce 55/1991 Sb.).",
+                  "marker": "9.",
+                  "orderIndex": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PARAGRAF",
+          "label": "Účinnost",
+          "text": "Tento zákon nabývá účinnosti dnem 1. ledna 1993. Burešová v. r. Pithart v. r.",
+          "marker": "22",
+          "orderIndex": 7,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "PRILOHA",
+      "label": "Příloha k zákonu č. 338/1992 Sb.",
+      "text": "Inženýrské stavby, které jsou zdanitelnou stavbou",
+      "marker": "k zákonu č. 338/1992 Sb.",
+      "orderIndex": 10,
+      "tables": [
+        {
+          "type": "TABULKA",
+          "columns": [
+            "KÓD CZ-CC",
+            "Text CZ-CC",
+            "Slovní popis"
+          ],
+          "rows": [
+            [
+              "ex221341",
+              "Věže pro vysílání, retranslační věže a telekomunikační stožáry",
+              "věže pro vysílání a retranslační věže"
+            ],
+            [
+              "ex230141",
+              "Věže, stožáry, věžové zásobníky pro hornictví a těžbu surovin",
+              "věže a věžové zásobníky pro hornictví a těžbu surovin"
+            ],
+            [
+              "230241",
+              "Věže chladící pro energetiku"
+            ],
+            [
+              "ex230251",
+              "Komíny a kouřové kanály pro energetiku",
+              "komíny pro energetiku"
+            ],
+            [
+              "ex230341",
+              "Věže, stožáry, věžové zásobníky chemických podniků",
+              "věže a věžové zásobníky chemických podniků"
+            ],
+            [
+              "230351",
+              "Průmyslové komíny chemických podniků"
+            ],
+            [
+              "ex230411",
+              "Stavby hutního a těžkého průmyslu (kromě budov)",
+              "vysoké pece"
+            ],
+            [
+              "ex230441",
+              "Věže, stožáry, věžové zásobníky – pro ostatní průmysl",
+              "věže a věžové zásobníky pro ostatní průmysl"
+            ],
+            [
+              "230451",
+              "Průmyslové komíny pro ostatní průmysl"
+            ]
+          ]
+        }
+      ],
+      "children": [
+        {
+          "label": null,
+          "type": "ODSTAVEC",
+          "text": "Je-li před číselným kódem Klasifikace stavebních děl CZ-CC uvedeno „ex“, vztahuje se příloha na inženýrské stavby označené současně číselným kódem CZ-CC a výslovně uvedeným slovním popisem k tomuto kódu v části přílohy.",
+          "marker": 1,
+          "orderIndex": 1
+        }
+      ]
+    },
+    {
+      "label": null,
+      "type": "POZNAMKA_POD_CAROU",
+      "text": "Zákon č. 169/1949 Sb., o vojenských újezdech.",
+      "marker": "3",
+      "orderIndex": 11
+    },
+    {
+      "label": null,
+      "type": "POZNAMKA_POD_CAROU",
+      "text": "§ 761 odst. 1. zákona č. 513/1991 Sb., obchodní zákoník. Vyhláška federálního ministerstva financí č. 119/1988 Sb., o hospodaření s národním majetkem, ve znění pozdějších předpisů.",
+      "marker": "4",
+      "orderIndex": 12
+    },
+    {
+      "label": null,
+      "type": "POZNAMKA_POD_CAROU",
+      "text": "Zákon č. 52/1966 Sb., o osobním vlastnictví k bytům, ve znění zákona č. 30/1978 Sb., zákona č. 509/1991 Sb., zákona č. 265/1992 Sb. a zákonného opatření předsednictva Federálního shromáždění č. 297/1992 Sb.",
+      "marker": "18a",
+      "orderIndex": 13
+    },
+    {
+      "label": null,
+      "type": "POZNAMKA_POD_CAROU",
+      "text": "Např. zákon č. 53/1954 Sb., o lidových družstvech a družstevních organisacích, ve znění zákonného opatření předsednictva Národního shromáždění č. 20/1956 Sb.",
+      "marker": "18d",
+      "orderIndex": 14
+    },
+    {
+      "label": null,
+      "type": "POZNAMKA_POD_CAROU",
+      "text": "Zákon ČNR č. 482/1991 Sb., o sociální potřebnosti.",
+      "marker": "20",
+      "orderIndex": 15
+    },
+    {
+      "label": null,
+      "type": "POZNAMKA_POD_CAROU",
+      "text": "Zákon č. 105/1990 Sb., o soukromém podnikání občanů, ve znění zákona č. 219/1991 Sb. a zákona č. 455/1991 Sb. Zákon č. 513/1991 Sb., obchodní zákoník.",
+      "marker": "22",
+      "orderIndex": 16
+    }
+  ]
+}
