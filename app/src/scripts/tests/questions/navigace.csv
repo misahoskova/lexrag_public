@@ -1,0 +1,9 @@
+Otazka_ID;Otázka;Zakon_prefix;Ocekavana_navigace
+NAV-01;Jaká je sazba DPH u kadeřníka?;DP;true
+NAV-02;Jaká je sazba daně z příjmů pro OSVČ?;DNV;true
+NAV-03;Jaká je základní sazba DPH?;DPH;false
+NAV-04;Kdy vzniká povinnost registrace k DPH?;DR;true
+NAV-05;Jak se odepisuje dlouhodobý majetek?;SP;true
+NAV-06;Kdo je povinen platit pojistné na sociální?;DPH;true
+NAV-07;Jaká je sazba daně z nemovitosti pro garáž?;DNV;false
+NAV-08;Jak se stanoví základ daně z příjmů?;DP;false

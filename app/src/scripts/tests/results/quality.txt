@@ -1,0 +1,143 @@
+[DPH-01] [RECALL DEBUG] Hledám: § 47
+[DPH-01] [RECALL DEBUG] Paragrafy v kontextu: § 4, § 71, § 18, § 110j, § 47
+[DPH-02] [RECALL DEBUG] Hledám: § 5
+[DPH-02] [RECALL DEBUG] Paragrafy v kontextu: § 5, § 110b, § 476, § 109c, § 54a, § 108, § 5a, § 110c, § 109bn, § 54, § 2a, § 6
+[DPH-03] [RECALL DEBUG] Hledám: § 51, § 52, § 53, § 54, § 55, § 56, § 57, § 58, § 59, § 60, § 61, § 62
+[DPH-03] [RECALL DEBUG] Paragrafy v kontextu: § 51, § 52, § 53, § 54, § 72, § 57, § 13, § 63, § 71i, § 59, § 64, § 62, § 71l, § 80, § 56
+[DPH-04] [RECALL DEBUG] Hledám: § 72, § 73, § 74, § 75
+[DPH-04] [RECALL DEBUG] Paragrafy v kontextu: § 73, § 72, § 92ea, § 76, § 28, § 79, § 82a, § 97b, § 92a, § 19c
+[DPH-05] [RECALL DEBUG] Hledám: § 20
+[DPH-05] [RECALL DEBUG] Paragrafy v kontextu: § 20a, § 23, § 20, § 71, § 109c, § 38, § 41, § 37, § 9, § 109bn, § 12, § 3, § 71g, § 64, § 2
+[DPH-06] [RECALL DEBUG] Hledám: § 4a
+[DPH-06] [RECALL DEBUG] Paragrafy v kontextu: § 29, § 4a, § 54, § 62, § 72, § 4b, § 77a, § 110m, § 19b, § 19, § 75, § 79, § 78, § 4
+[DPH-07] [RECALL DEBUG] Hledám: § 6
+[DPH-07] [RECALL DEBUG] Paragrafy v kontextu: § 6, § 46e, § 109b, § 97b, § 2a, § 97, § 46, § 110t, § 22, § 6b
+[DPH-08] [RECALL DEBUG] Hledám: § 5
+[DPH-08] [RECALL DEBUG] Paragrafy v kontextu: § 5a, § 5, § 109c, § 54a, § 30a, § 78a
+[DPH-09] [RECALL DEBUG] Hledám: § 101, § 102
+[DPH-09] [RECALL DEBUG] Paragrafy v kontextu: § 101i, § 101e, § 109bc, § 4, § 57, § 101c, § 18, § 101g, § 3, § 92, § 101a, § 101d
+[DPH-10] [RECALL DEBUG] Hledám: § 9
+[DPH-10] [RECALL DEBUG] Paragrafy v kontextu: § 102, § 9, § 10i, § 51, § 21, § 9a, § 86c, § 10, § 54, § 42, § 10a
+[DPH-11] [RECALL DEBUG] Hledám: § 105
+[DPH-11] [RECALL DEBUG] Paragrafy v kontextu: § 46a, § 79d, § 7, § 28, § 100, § 82a, § 83a, § 110j, § 81, § 80, § 79e
+[DPH-12] [RECALL DEBUG] Hledám: § 20a
+[DPH-12] [RECALL DEBUG] Paragrafy v kontextu: § 20a, § 108, § 24, § 21, § 24a, § 4, § 109a, § 15a, § 28, § 25
+[DP-01] [RECALL DEBUG] Hledám: § 35
+[DP-01] [RECALL DEBUG] Paragrafy v kontextu: § 7, § 35, § 40, § 35c, § 16a, § 21, § 35a, § 23, § 35b, § 20, § 4, § 32b, § 38c, § 4a, § 26
+[DP-02] [RECALL DEBUG] Hledám: § 2, § 22
+[DP-02] [RECALL DEBUG] Paragrafy v kontextu: § 2, § 22, § 2a, § 39a, § 23, § 38bc, § 23e, § 38zg, § 31, § 38da, § 38t
+[DP-03] [RECALL DEBUG] Hledám: § 4a
+[DP-03] [RECALL DEBUG] Paragrafy v kontextu: § 4a, § 38t, § 4, § 19b, § 10, § 34a, § 30, § 23, § 26, § 27, § 29, § 24, § 17
+[DP-04] [RECALL DEBUG] Hledám: § 15
+[DP-04] [RECALL DEBUG] Paragrafy v kontextu: § 15, § 20, § 34, § 29, § 38l, § 26, § 24, § 33a, § 21d, § 30
+[DP-05] [RECALL DEBUG] Hledám: § 35bb
+[DP-05] [RECALL DEBUG] Paragrafy v kontextu: § 2a, § 24, § 39p, § 38c, § 35a, § 38l, § 25, § 6
+[DP-06] [RECALL DEBUG] Hledám: § 2a
+[DP-06] [RECALL DEBUG] Paragrafy v kontextu: § 7a, § 2a, § 38lf, § 38lc, § 7
+[DP-07] [RECALL DEBUG] Hledám: § 2a
+[DP-07] [RECALL DEBUG] Paragrafy v kontextu: § 38lk, § 2a, § 7a, § 38lj, § 38lda, § 38lf
+[DP-08] [RECALL DEBUG] Hledám: § 3, § 6
+[DP-08] [RECALL DEBUG] Paragrafy v kontextu: § 7b, § 29, § 5, § 26, § 23, § 3, § 8, § 38nb, § 10, § 30, § 2, § 24, § 7, § 9, § 4, § 25, § 33a
+[WARN] [SKIP] [DP-09] no_results: "Jaký je vztah mezi základem daně a položkami, které ho mohou snížit?"
+[DP-10] [RECALL DEBUG] Hledám: § 23
+[DP-10] [RECALL DEBUG] Paragrafy v kontextu: § 23, § 38fa, § 38lk, § 38nc, § 20bd, § 2a, § 2, § 17
+[DP-11] [RECALL DEBUG] Hledám: § 24, § 25
+[DP-11] [RECALL DEBUG] Paragrafy v kontextu: § 24, § 25, § 6, § 2, § 4, § 41, § 7, § 12, § 17b
+[DP-12] [RECALL DEBUG] Hledám: § 5, § 34
+[DP-12] [RECALL DEBUG] Paragrafy v kontextu: § 5, § 23, § 7, § 38na, § 12, § 33a, § 25, § 34, § 24, § 22, § 23a, § 17, § 23c, § 38mb, § 38k
+[DR-01] [RECALL DEBUG] Hledám: § 109
+[DR-01] [RECALL DEBUG] Paragrafy v kontextu: § 108, § 101, § 259, § 102, § 223, § 113, § 110, § 239a, § 104, § 115, § 109, § 6, § 261
+[DR-02] [RECALL DEBUG] Hledám: § 20
+[DR-02] [RECALL DEBUG] Paragrafy v kontextu: § 80, § 12, § 22, § 195
+[DR-03] [RECALL DEBUG] Hledám: § 20, § 21, § 22, § 23, § 24
+[DR-03] [RECALL DEBUG] Paragrafy v kontextu: § 5, § 3, § 9, § 52, § 134, § 195, § 110, § 102, § 104, § 22, § 6, § 147, § 12, § 137
+[DR-04] [RECALL DEBUG] Hledám: § 92, § 93, § 94, § 95
+[DR-04] [RECALL DEBUG] Paragrafy v kontextu: § 127, § 8, § 91, § 124, § 92, § 12, § 87, § 77, § 98
+[DR-05] [RECALL DEBUG] Hledám: § 247a
+[DR-05] [RECALL DEBUG] Paragrafy v kontextu: § 75, § 250, § 72, § 105, § 85, § 247, § 251, § 180, § 13
+[DR-06] [RECALL DEBUG] Hledám: § 37
+[DR-06] [RECALL DEBUG] Paragrafy v kontextu: § 2, § 119, § 36, § 198, § 194a, § 93, § 148, § 37, § 261, § 85a
+[DR-07] [RECALL DEBUG] Hledám: § 88
+[DR-07] [RECALL DEBUG] Paragrafy v kontextu: § 59, § 88a, § 148, § 129, § 33, § 89, § 88, § 90, § 261, § 238
+[DR-08] [RECALL DEBUG] Hledám: § 22, § 23, § 24
+[DR-08] [RECALL DEBUG] Paragrafy v kontextu: § 5, § 3, § 12, § 52, § 80, § 6, § 147, § 22, § 195, § 53, § 134, § 9
+[DR-09] [RECALL DEBUG] Hledám: § 109, § 110, § 111, § 112, § 113, § 114, § 115, § 116, § 121, § 122, § 123
+[DR-09] [RECALL DEBUG] Paragrafy v kontextu: § 101, § 38, § 108, § 37, § 109, § 110, § 121, § 124, § 6, § 102, § 104, § 259, § 123
+[DR-10] [RECALL DEBUG] Hledám: § 175, § 176, § 177, § 178, § 179, § 180, § 181
+[DR-10] [RECALL DEBUG] Paragrafy v kontextu: § 36, § 122, § 229, § 153, § 259, § 193a, § 187, § 181, § 107, § 233, § 119, § 253
+[DR-11] [RECALL DEBUG] Hledám: § 42, § 43, § 44, § 45
+[DR-11] [RECALL DEBUG] Paragrafy v kontextu: § 69, § 51, § 47
+[DR-12] [RECALL DEBUG] Hledám: § 85, § 86, § 87, § 88, § 148
+[DR-12] [RECALL DEBUG] Paragrafy v kontextu: § 119, § 49, § 36, § 105, § 80, § 264, § 148, § 133, § 261, § 163
+[DNV-01] [RECALL DEBUG] Hledám: § 13a
+[DNV-01] [RECALL DEBUG] Paragrafy v kontextu: § 13b, § 16a, § 17a, § 4, § 14, § 13a, § 21
+[DNV-02] [RECALL DEBUG] Hledám: § 6
+[DNV-02] [RECALL DEBUG] Paragrafy v kontextu: § 1a, § 9, § 12e, § 7, § 4, § 10, § 5a
+[DNV-03] [RECALL DEBUG] Hledám: § 12
+[DNV-03] [RECALL DEBUG] Paragrafy v kontextu: § 12, § 12ab, § 11d, § 11, § 4, § 12e, § 11a
+[DNV-04] [RECALL DEBUG] Hledám: § 13a
+[DNV-04] [RECALL DEBUG] Paragrafy v kontextu: § 13b, § 2, § 4, § 1a, § 9, § 12e, § 10, § 17a, § 5, § 17, § 11e
+[DNV-05] [RECALL DEBUG] Hledám: § 7
+[DNV-05] [RECALL DEBUG] Paragrafy v kontextu: § 7, § 8, § 1a, § 11d, § 4, § 13a, § 9, § 12e, § 1
+[DNV-06] [RECALL DEBUG] Hledám: § 5, § 6
+[DNV-06] [RECALL DEBUG] Paragrafy v kontextu: § 5, § 5a, § 11b, § 17, § 10, § 3, § 6, § 12e, § 1a, § 18, § 4
+[DNV-07] [RECALL DEBUG] Hledám: § 13
+[DNV-07] [RECALL DEBUG] Paragrafy v kontextu: § 1, § 13b, § 8, § 1a, § 21, § 17a, § 7, § 11d, § 13a, § 4
+[DNV-08] [RECALL DEBUG] Hledám: § 6
+[DNV-08] [RECALL DEBUG] Paragrafy v kontextu: § 4, § 6, § 10, § 17a, § 12e, § 5a, § 5
+[DNV-09] [RECALL DEBUG] Hledám: § 11
+[DNV-09] [RECALL DEBUG] Paragrafy v kontextu: § 10a, § 12, § 5a, § 1a, § 11a
+[DNV-10] [RECALL DEBUG] Hledám: § 9
+[DNV-10] [RECALL DEBUG] Paragrafy v kontextu: § 12, § 4, § 5a, § 9, § 17a, § 11d, § 1a
+[DNV-11] [RECALL DEBUG] Hledám: § 13a
+[DNV-11] [RECALL DEBUG] Paragrafy v kontextu: § 13a, § 8, § 7, § 21, § 17a, § 1a, § 13b, § 3, § 9, § 4
+[DNV-12] [RECALL DEBUG] Hledám: § 11, § 11a, § 11b
+[DNV-12] [RECALL DEBUG] Paragrafy v kontextu: § 11a, § 13a, § 11d, § 12, § 5a, § 8, § 761, § 7
+[SP-01] [RECALL DEBUG] Hledám: § 7
+[SP-01] [RECALL DEBUG] Paragrafy v kontextu: § 3, § 14, § 5b, § 7, § 5a, § 14bb, § 13a, § 23l
+[SP-02] [RECALL DEBUG] Hledám: § 5a
+[SP-02] [RECALL DEBUG] Paragrafy v kontextu: § 5a, § 3, § 37d, § 15a, § 7, § 5b, § 14, § 7a, § 24a, § 8, § 13a, § 7b
+[SP-03] [RECALL DEBUG] Hledám: § 15a
+[SP-03] [RECALL DEBUG] Paragrafy v kontextu: § 15a, § 7c, § 16, § 6, § 14, § 13a, § 7a, § 24a, § 8, § 5a, § 3, § 37d
+[SP-04] [RECALL DEBUG] Hledám: § 5b
+[SP-04] [RECALL DEBUG] Paragrafy v kontextu: § 5, § 5b, § 14, § 5a, § 3, § 37d, § 13a, § 23b, § 6, § 5c, § 26, § 24a, § 8
+[SP-05] [RECALL DEBUG] Hledám: § 14
+[SP-05] [RECALL DEBUG] Paragrafy v kontextu: § 14, § 13a, § 24a, § 8, § 5b, § 3, § 13, § 10, § 14bb, § 26
+[SP-06] [RECALL DEBUG] Hledám: § 14
+[SP-06] [RECALL DEBUG] Paragrafy v kontextu: § 13a, § 10, § 13, § 3, § 14a, § 14, § 7a, § 78, § 5b
+[SP-07] [RECALL DEBUG] Hledám: § 15
+[SP-07] [RECALL DEBUG] Paragrafy v kontextu: § 14bb, § 5b, § 6, § 23l, § 15, § 22b, § 13a, § 48, § 23b, § 22c, § 9, § 26, § 10, § 13, § 17
+[SP-08] [RECALL DEBUG] Hledám: § 3, § 5
+[SP-08] [RECALL DEBUG] Paragrafy v kontextu: § 13a, § 13, § 3, § 14bb, § 5b, § 26, § 7a, § 78, § 10, § 7, § 14
+[SP-09] [RECALL DEBUG] Hledám: § 14, § 5b
+[SP-09] [RECALL DEBUG] Paragrafy v kontextu: § 14, § 13a, § 5b, § 37d, § 24a, § 8, § 16a, § 21, § 5c, § 26, § 5a, § 3
+[SP-10] [RECALL DEBUG] Hledám: § 20
+[SP-10] [RECALL DEBUG] Paragrafy v kontextu: § 22b, § 20, § 9, § 15, § 22a, § 14, § 21, § 32, § 20a, § 3
+[SP-11] [RECALL DEBUG] Hledám: § 15, § 22
+[SP-11] [RECALL DEBUG] Paragrafy v kontextu: § 20, § 15, § 14, § 22a, § 48, § 22b, § 9, § 14b, § 10, § 13a, § 20a, § 25, § 23c, § 23d, § 23h
+[SP-12] [RECALL DEBUG] Hledám: § 5a, § 5b
+[SP-12] [RECALL DEBUG] Paragrafy v kontextu: § 5b, § 14, § 37d, § 14bb, § 26, § 13a, § 24a, § 8, § 16a, § 6, § 5c
+[U-01] [RECALL DEBUG] Hledám: § 20
+[U-01] [RECALL DEBUG] Paragrafy v kontextu: § 1b, § 32g, § 1c, § 30, § 22a, § 21, § 1d, § 20, § 32a, § 39
+[U-02] [RECALL DEBUG] Hledám: § 1
+[U-02] [RECALL DEBUG] Paragrafy v kontextu: § 6, § 1, § 1a, § 13, § 8, § 33a, § 1b, § 19a
+[U-03] [RECALL DEBUG] Hledám: § 18
+[U-03] [RECALL DEBUG] Paragrafy v kontextu: § 9, § 19a, § 39, § 13a, § 4, § 18, § 31, § 22a, § 1b, § 19, § 37a, § 37, § 7, § 17
+[U-04] [RECALL DEBUG] Hledám: § 24
+[U-04] [RECALL DEBUG] Paragrafy v kontextu: § 27, § 24, § 25, § 32o, § 7, § 8, § 4, § 22, § 32h
+[U-05] [RECALL DEBUG] Hledám: § 18
+[U-05] [RECALL DEBUG] Paragrafy v kontextu: § 32m, § 19, § 32n, § 37a, § 37, § 32q, § 30, § 1, § 32k, § 4, § 18, § 7, § 22, § 23
+[U-06] [RECALL DEBUG] Hledám: § 28
+[U-06] [RECALL DEBUG] Paragrafy v kontextu: § 28, § 13a, § 25, § 32h, § 27, § 24d
+[U-07] [RECALL DEBUG] Hledám: § 31
+[U-07] [RECALL DEBUG] Paragrafy v kontextu: § 31, § 1, § 32j, § 33, § 21, § 32, § 4, § 32r, § 32o, § 20, § 21a, § 18
+[U-08] [RECALL DEBUG] Hledám: § 29, § 30
+[U-08] [RECALL DEBUG] Paragrafy v kontextu: § 30, § 4, § 32h, § 19, § 29, § 25, § 32j, § 11
+[U-09] [RECALL DEBUG] Hledám: § 18
+[U-09] [RECALL DEBUG] Paragrafy v kontextu: § 7, § 18, § 22, § 6
+[U-10] [RECALL DEBUG] Hledám: § 24
+[U-10] [RECALL DEBUG] Paragrafy v kontextu: § 24d, § 24, § 32o, § 24c, § 24b, § 32n
+[U-11] [RECALL DEBUG] Hledám: § 30
+[U-11] [RECALL DEBUG] Paragrafy v kontextu: § 30, § 32h, § 36, § 32j, § 4, § 19, § 29, § 25, § 11
+[U-12] [RECALL DEBUG] Hledám: § 28
+[U-12] [RECALL DEBUG] Paragrafy v kontextu: § 28, § 27, § 32h, § 13a, § 25
